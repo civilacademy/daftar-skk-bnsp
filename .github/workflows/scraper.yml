@@ -1,10 +1,10 @@
-name: Getting Data
+name: Getting data
 
 on:
   workflow_dispatch:
 
 jobs:
-  scrape:
+  scraper:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -25,7 +25,7 @@ jobs:
 
       - name: Running Script
         run: |
-          python scrape.py
+          python scraper.py
 
       - name: Commit and Push Changes
         run: |
