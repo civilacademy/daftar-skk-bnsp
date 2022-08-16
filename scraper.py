@@ -1,13 +1,19 @@
 import requests
 import urllib3
+import time
 import pandas as pd
 from bs4 import BeautifulSoup
 
 urllib3.disable_warnings()
 
 
-csv_file_datastore = 'data/data.csv'
 keyword = 'konstruksi'
+
+csv_file_datastore = f'data/data_{keyword}.csv'
+
+# Metadata settings
+csv_file_metadata = 'data/metadata.csv'
+date_scraping = time.strftime('%F %H:%M %Z', time.localtime())
 
 # General setting for requests
 url = 'https://bnsp.go.id/skk'
@@ -34,61 +40,73 @@ for item in footer.find_all('div'):
         metadata.append(meta[0])
 
 
+id_unit = []
 names = []
 description = []
 types = []
 adjudication = []
 date_adjusment = []
-item_count = []
+unit_count = []
 
 
 # Full requests
-for p in range(1, lastpage+1):
-#for p in range(1, 1+1): # for development purpose
+#for p in range(1, lastpage+1):
+for p in range(1, 1+1): # for development purpose
 
     params = {'namaskk': f'{keyword}', 'page': f'{p}'}    
     response = requests.get(url=url, params=params, headers=headers, verify=False)
     page = BeautifulSoup(response.text, 'html.parser')
 
     # Parsing data
-    for name in page.find_all('div', class_ = 'nama_skk'):
-        names.append(name.text.strip())
+    for item in page.find_all('div', class_ = 'box_data_skk_main'):
+        
+        try:
+            idu = item.find('div', class_ = 'dokumen_pdf')['onclick']
+            idu = idu.replace('daftarskk.bukadokumen({"id":', '').replace(',"tipe":"pdf"})', '')
+        except:
+            idu = None
+        id_unit.append(idu)
 
-    for desc in page.find_all('div', class_ = 'keterangan_skk'):
-        description.append(desc.text.strip())
+        names.append(item.find('div', class_ = 'nama_skk').text.strip())
 
-    for type in page.find_all('div', class_ = 'jenis_skk'):
+        description.append(item.find('div', class_ = 'keterangan_skk').text.strip())
+
+        type = item.find('div', class_ = 'jenis_skk')
         types.append(type.find('div', class_ = 'skk_data_kanan').text.strip())
 
-    for adj in page.find_all('div', class_ = 'kepmen_skk'):
+        adj = item.find('div', class_ = 'kepmen_skk')
         adjudication.append(adj.find('div', class_ = 'skk_data_kanan').text.strip())
 
-    for dateadj in page.find_all('div', class_ = 'tanggal_skk'):
+        dateadj = item.find('div', class_ = 'tanggal_skk')
         date_adjusment.append(dateadj.find('div', class_ = 'skk_data_kanan').text.strip())
 
-    for ic in page.find_all('div', class_ = 'jumlahunit_skk'):
-        item_count.append(int(ic.find('div', class_ = 'data_jumlah_skk').text.strip()))
+        uc = item.find('div', class_ = 'jumlahunit_skk')
+        unit_count.append(int(uc.find('div', class_ = 'data_jumlah_skk').text.strip()))
     
-
 # Store data
 data = {
+    'Id': id_unit,
     'Name': names,
     'Description': description,
     'Type': types,
     'Adjudication': adjudication, # kepmen
     'Adjustment Date': date_adjusment,
-    'Unit Counts': item_count
+    'Unit Counts': unit_count
 }
 
 metadata = {
-    'Description': metadata[3],
-    'Address': metadata[0],
-    'Phone': metadata[1],
-    'Email': metadata[2]
+    'Description': [metadata[3]],
+    'Address': [metadata[0]],
+    'Phone': [metadata[1]],
+    'Email': [metadata[2]],
+    'Data Date': date_scraping
 }
 
-df = pd.DataFrame(data)
-df.to_csv(csv_file_datastore, index = False)
+df_data = pd.DataFrame(data)
+df_data.to_csv(csv_file_datastore, index = False)
 
-print(f'Data saved to {csv_file_datastore} with {len(df.index)} rows of record')
-print(f'Metadata:\n{metadata}')
+df_metadata = pd.DataFrame(metadata)
+df_metadata.to_csv(csv_file_metadata, index = False)
+
+print(f'Data saved to {csv_file_datastore} with {len(df_data.index)} records')
+#print(f'Metadata:\n{metadata}')
