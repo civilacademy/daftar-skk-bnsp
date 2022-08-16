@@ -50,8 +50,8 @@ referer = []
 
 
 # Full requests
-#for p in range(1, lastpage+1):
-for p in range(1, 2+1): # for development purpose
+#for p in range(1, 2+1): # for development purpose
+for p in range(1, lastpage+1):
 
     params = {'namaskk': f'{keyword}', 'page': f'{p}'}    
     response = requests.get(url=url, params=params, headers=headers, verify=False)
