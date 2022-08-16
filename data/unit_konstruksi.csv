@@ -1,0 +1,1815 @@
+Id Unit,Id,Code,Name,Desctiption,Status
+183926,1254,AC147.A2.3,Bukaan/bentangan geometri,,1
+183928,1254,AC147.A2.3,Gambar bukaan/bentangan geometri-geometri lanjut benda kerucut/kronis,,1
+183927,1254,AC147.A2.3,Gambar bukaan/bentangan geometri-geometri lanjut benda silinder/persegi panjang,,1
+183922,1254,AC147.A2.3,Membaca gambar teknik,,1
+183925,1254,AC147.A2.3,Menggambar 2 dimensi dengan sistem CAD,,1
+183921,1254,AC147.A2.3,Menggambar dan membaca sketsa,,1
+183924,1254,AC147.A2.3,Merancang gambar teknik secara rinci (dasar),,1
+183914,1254,AC147.A20,Menerapkan Prosedur Mutu,,1
+183915,1254,AC147.A20,Mengatur dan menganalisis informasi,,1
+183917,1254,AC147.A5.1,Menerapkan prinsip-prinsip keselamatan dan kesehatan kerja dilingkungan kerja,,1
+183930,1254,AC147.A5.18,"Melaksanakan fabrikasi, pembentukan, pelengkungan, dan pencetakan",,1
+183929,1254,AC147.A5.18,Melakukan pemotongan secara mekanik,,1
+183920,1254,AC147.A5.2,Menangani material secara manual,,1
+183933,1254,AC147.A5.20,Mengelas dengan proses las busur manual,,1
+183934,1254,AC147.A5.20,Mengelas dengan proses las gas (metal),,1
+183935,1254,AC147.A5.20,Mengelas dengan proses las gas tungsen,,1
+183932,1254,AC147.A5.20,Mengelas dengan proses las oksigen-asetilen (las karbit,,1
+183936,1254,AC147.A5.23,Repair/modify aircraft composite material structure/ components,,1
+183918,1254,AC147.A5.5,Mengukur dengan menggunakan alat ukur,,1
+183916,1254,LOG.OO02.003.01,Melakukan pekerjaan yang membutuhkan kerjasama tim,,1
+183919,1254,LOG.OO02.007.01,Melakukan perhitungan dasar,,1
+183923,1254,LOG.OO0201001,Mengoperasikan Komputer,,1
+183931,1254,LOG.OO05.011.01,Merakit hasil fabrikasi,,1
+184400,1268,B.05PPN31.091.1,Melaksanakan Perawatan Harian Liquid Truck,,1
+184401,1268,B.05PPN31.092.1,Mengoperasikan Liquid Truck,,1
+184402,1268,B.05PPN31.093.1,Mengambil Cargo Liquid,,1
+184403,1268,B.05PPN31.094.1,Mendistribusikan Cargo Liquid,,1
+184404,1268,B.05PPN31.095.1,Menggunakan Alat Pemadam Api Ringan dan Fire Suppression,,1
+184384,1267,B.05PPN31.075.1,Melaksanakan Periodical Service Genset dan Sistem Penerangan,,1
+184385,1267,B.05PPN31.076.1,Melaksanakan Daily Check Unit Genset dan Sistem Penerangan,,1
+184386,1267,B.05PPN31.077.1,Melaksanakan Pemeriksaan Mesin Secara Cepat (Quick Pm) Unit Genset dan Siste Penerangan,,1
+184387,1267,B.05PPN31.078.1,Melaksanakan Periodical Services Pompa,,1
+184388,1267,B.05PPN31.079.1,Melaksanakan Daily Check Pompa,,1
+184389,1267,B.05PPN31.080.1,Melaksanakan Pemeriksaan Mesin Secara Cepat (Quick Pm) Pompa,,1
+184390,1267,B.05PPN31.081.1,Melaksanakan Periodical Services Mobile Crane,,1
+184391,1267,B.05PPN31.082.1,Melaksanakan Daily Check Mobile Crane,,1
+184392,1267,B.05PPN31.083.1,Melaksanakan Pemeriksaan Mesin Secara Cepat (Quick Pm) Mobile Crane,,1
+184393,1267,B.05PPN31.084.1,Mengidentifikasi Sistem-Sistem Dasar Pada Alat Berat,,1
+184394,1267,B.05PPN31.085.1,Menggunakan Alat Bantu Kerja pada Aktivitas Maintenance,,1
+184395,1267,B.05PPN31.086.1,Melaksanakan Technical Instruction Preventive Maintenance,,1
+184396,1267,B.05PPN31.087.1,Melaksanakan Technical Instruction Remove and Install,,1
+184397,1267,B.05PPN31.088.1,Melaksanakan Technical Instruction Repair,,1
+184398,1267,B.05PPN31.089.1,Melaksanakan Technical Instruction Machine Troubleshooting,,1
+184399,1267,B.05PPN31.090.1,Melaksanakan Technical Instruction Overhaul,,1
+179929,1184,B.05PPN30.001.2,Menerapkan K3 di Tempat Kerja,,1
+179930,1184,B.05PPN30.002.2,Melakukan Komunikasi di Tempat Kerja,,1
+179960,1184,B.05PPN31.001.1,Melaksanakan Perawatan Harian (P2H) Unit Light Dump Truck (LD),,1
+179961,1184,B.05PPN31.002.1,Mengoperasikan Unit Light Dump Truck,,1
+179931,1184,B.05PPN31.003.2,Melaksanakan Perawatan Harian (P2H) Unit Excavator,,1
+179932,1184,B.05PPN31.004.2,Melaksanakan Perawatan Harian (P2H) Unit Wheel Loader,,1
+179933,1184,B.05PPN31.005.2,Melaksanakan Perawatan Harian (P2H) Unit Articulated Dump Truck,,1
+179934,1184,B.05PPN31.006.2,Melaksanakan Perawatan Harian (P2H) Unit Heavy Dump Truck (HD),,1
+179935,1184,B.05PPN31.007.2,Melaksanakan Perawatan Harian (P2H) Unit Semi Dump Trailer (SDT),,1
+179936,1184,B.05PPN31.008.2,Melaksanakan Perawatan Harian (P2H) Unit Bulldozer,,1
+179937,1184,B.05PPN31.009.2,Melaksanakan Perawatan Harian (P2H) Unit Motor Grader,,1
+179938,1184,B.05PPN31.010.2,Melaksanakan Perawatan Harian (P2H) Unit Drilling Machine,,1
+179939,1184,B.05PPN31.011.2,Melaksanakan Perawatan Harian (P2H) Unit Jib Crane,,1
+179940,1184,B.05PPN31.012.2,Melaksanakan Perawatan Harian (P2H) Unit Barge Loader,,1
+179941,1184,B.05PPN31.013.3,Melaksanakan Perawatan Harian (P2H) Unit Mobile Crane,,1
+179942,1184,B.05PPN31.014.2,Mengoperasikan Unit Excavator,,1
+179943,1184,B.05PPN31.015.2,Mengoperasikan Unit Wheel Loader,,1
+179944,1184,B.05PPN31.016.2,Mengoperasikan Unit Articulated Dump Truck,,1
+179945,1184,B.05PPN31.017.2,Mengoperasikan Unit Heavy Dump Truck (HD),,1
+179946,1184,B.05PPN31.018.2,Mengoperasikan Unit Semi Dump Trailer (SDT),,1
+179947,1184,B.05PPN31.019.2,Mengoperasikan Unit Bulldozer,,1
+179948,1184,B.05PPN31.020.2,Mengoperasikan Unit Motor Grader,,1
+179949,1184,B.05PPN31.021.2,Mengoperasikan Unit Drilling Machine,,1
+179950,1184,B.05PPN31.022.2,Mengoperasikan Unit Jib Crane,,1
+179951,1184,B.05PPN31.023.2,Mengoperasikan Unit Barge Loader,,1
+179952,1184,B.05PPN31.024.3,Mengoperasikan Mobile Crane,,1
+179953,1184,B.05PPN31.025.2,Melakukan Travel Unit Mobile Crane,,1
+179954,1184,B.05PPN31.026.2,Mengoperasikan Crane,,1
+179955,1184,B.05PPN31.027.2,Mengoperasikan Unit Carrier Crane,,1
+179956,1184,B.05PPN31.028.2,Melaksanakan Perawatan Harian (P2H) Crane,,1
+179957,1184,B.05PPN31.029.2,Melaksanakan Perawatan Harian (P2H) Unit Carrier Crane,,1
+179958,1184,B.05PPN31.030.2,Melakukan Teknik Pengikatan Beban (Rigging),,1
+179959,1184,B.05PPN31.031.2,Menangani Beban untuk Truck Crane,,1
+179962,1184,B.05PPN31.073.1,Melakukan Penggalian Material Lumpur Menggunakan Excavator,,1
+179963,1184,B.05PPN31.074.1,Melakukan Pembuatan Jalan Tambang dengan Unit Bulldozer,,1
+179890,1183,B.05PPN31.032.2,Melaksanakan Periodical Service Unit  Excavator PC2000,,1
+179891,1183,B.05PPN31.033.2,Melaksanakan Daily Check Unit Excavator PC2000,,1
+179892,1183,B.05PPN31.034.2,Melaksanakan Pemeriksanaan Mesin Secara Cepat (Quick Pm) Unit Excavator  PC2000,,1
+179893,1183,B.05PPN31.035.2,Melaksanakan Periodical Service Unit  Excavator PC1250,,1
+179894,1183,B.05PPN31.036.2,Melaksanakan Daily Check Unit Excavator PC1250,,1
+179895,1183,B.05PPN31.037.2,Melaksanakan Pemeriksaan Mesin Secara Cepat (Quick Pm) Unit Excavator PC1250,,1
+179896,1183,B.05PPN31.038.2,Melaksanakan Periodical Service Unit Wheel Loader WA500,,1
+179897,1183,B.05PPN31.039.2,Melaksanakan Daily Check  Unit Wheel Loader WA500,,1
+179898,1183,B.05PPN31.040.2,Melaksanakan Pemeriksanaan Mesin Secara Cepat (Quick Pm) Wheel Loader WA500,,1
+179899,1183,B.05PPN31.041.2,Melaksanakan Periodical Service Unit Wheel Loader WA600,,1
+179900,1183,B.05PPN31.042.2,Melaksanakan Daily Check  Unit Wheel Loader WA 600,,1
+179901,1183,B.05PPN31.043.2,Melaksanakan Pemeriksanaan Mesin Secara Cepat (Quick Pm) Wheel Loader WA 600,,1
+179902,1183,B.05PPN31.044.2,Melaksanakan Periodical Service Unit Bulldozer D 375,,1
+179903,1183,B.05PPN31.045.2,Melaksanakan Daily Check  Unit  Bulldozer D 375,,1
+179904,1183,B.05PPN31.046.2,Melaksanakan Pemeriksanaan Mesin Secara Cepat (Quick Pm) Unit Bulldozer D 375,,1
+179905,1183,B.05PPN31.047.2,Melaksanakan Periodical Service Unit  Bulldozer D155,,1
+179906,1183,B.05PPN31.048.2,Melaksanakan Daily Check  Unit Bulldozer D155,,1
+179907,1183,B.05PPN31.049.2,Melaksanakan Pemeriksanaan Mesin Secara Cepat (Quick Pm) Unit Bulldozer  D155,,1
+179908,1183,B.05PPN31.050.2,Melaksanakan Periodical Service Unit  Motor Grader GD705,,1
+179909,1183,B.05PPN31.051.2,Melaksanakan Daily Check Unit Motor Grader GD705,,1
+179911,1183,B.05PPN31.053.2,Melaksanakan Periodical Service Unit  Motor Grader GD825,,1
+179912,1183,B.05PPN31.054.2,Melaksanakan Daily Check Unit Motor Grader GD825,,1
+179913,1183,B.05PPN31.055.2,Melaksanakan Pemeriksanaan Mesin Secara Cepat (Quick Pm) Unit Motor Grader GD825,,1
+179914,1183,B.05PPN31.056.2,Melaksanakan Periodical Service Heavy Dump Truck HD465,,1
+179915,1183,B.05PPN31.057.2,Melaksanakan Daily Check  Heavy Dump Truck HD465,,1
+179916,1183,B.05PPN31.058.2,Melaksanakan Pemeriksanaan Mesin Secara Cepat (Quick Pm) Heavy Dump Truck HD465,,1
+179917,1183,B.05PPN31.059.2,Melaksanakan Periodical Service Heavy Dump Truck HD785,,1
+179918,1183,B.05PPN31.060.2,Melaksanakan Daily Check  Heavy Dump Truck HD785,,1
+179919,1183,B.05PPN31.061.2,Melaksanakan Pemeriksanaan Mesin Secara Cepat (Quick Pm) Heavy Dump Truck HD785,,1
+179920,1183,B.05PPN31.062.1,Melaksanakan Periodical Service Drilling Machine,,1
+179921,1183,B.05PPN31.063.1,Melaksanakan Daily Check  Drilling Machine,,1
+179922,1183,B.05PPN31.064.1,Melaksanakan Pemeriksanaan Mesin Secara Cepat (Quick Pm) Drilling Machine,,1
+179923,1183,B.05PPN31.065.1,Melaksanakan Periodical Service Light Dump Truck (LDT),,1
+179924,1183,B.05PPN31.066.1,Melaksanakan Daily Check  Light Dump Truck (LDT),,1
+179925,1183,B.05PPN31.067.1,Melaksanakan Pemeriksanaan Mesin Secara Cepat (Quick Pm) Light Dump Truck (LDT),,1
+179926,1183,B.05PPN31.068.1,Melaksanakan Periodical Service Semi Dump Trailer (SDT),,1
+179927,1183,B.05PPN31.069.1,Melaksanakan Daily Check  Semi Dump Trailer (SDT),,1
+179928,1183,B.05PPN31.070.1,Melaksanakan Pemeriksanaan Mesin Secara Cepat (Quick Pm) Semi Dump Trailer (SDT),,1
+179910,1183,B.05PPN31052.2,Melaksanakan Pemeriksanaan Mesin Secara Cepat (Quick Pm)  Unit Motor Grader GD705,,1
+25560,847,F.42MPB00.001.1,Melakukan Pekerjaan Persiapan Timbunan Tubuh Bendungan,,1
+25562,847,F.42MPB00.002.1,Melakukan Pekerjaan Timbunan Tubuh Bendungan,,1
+25565,847,F.42MPB00.003.1,Membuat Laporan Pekerjaan Timbunan Tubuh Bendungan,,1
+28063,946,F.42HLK00.001.1,Melaksanakan Analisis Aliran Air pada Sungai dan Saluran,,1
+28064,946,F.42HLK00.002.1,Melakukan Analisis Hidrolika Bangunan Air di Sungai dan Saluran,,1
+28065,946,F.42HLK00.003.1,Melakukan Analisis Sedimen Transport,,1
+28066,946,F.42HLK00.004.1,Melakukan Analisis Bangunan Pengendali Sedimen,,1
+28067,946,F.42HLK00.005.1,Melaksanakan Analisis Perencanaan dan Pelaksanaan Bendung,,1
+28068,946,F.42HLK00.006.1,Melaksanakan Analisis Perencanaan dan Pelaksanaan Bendungan,,1
+28069,946,F.42HLK00.007.1,Melakukan Analisis Aliran Dalam Pipa,,1
+28070,946,F.42HLK00.008.1,Melakukan Perencanaan dan Pelaksanaan Jaringan Perpipaan,,1
+26552,905,F.42PAN00.001.1,Melakukan Survei Identifikasi Tingkat Kerusakan Pantai,,1
+26553,905,F.42PAN00.002.1,Menentukan Penyebab Kerusakan Pantai,,1
+26555,905,F.42PAN00.003.1,Membuat Analisis Penilaian Tingkat Kerusakan Daerah Pantai dan Prioritas Penanganan ,,1
+26557,905,F.42PAN00.004.1,Membuat Kajian tentang Konsep Penanganan Kerusakan Pantai ,,1
+26558,905,F.42PAN00.005.1,Melakukan Survei Lapangan,,1
+26560,905,F.42PAN00.006.1,Melakukan Kajian Sistem Pengembangan Kawasan Pantai Beserta Bangunan Pelindung Pantai,,1
+26562,905,F.42PAN00.007.1,Melakukan Kajian Bencana Pesisir ,,1
+26563,905,F.42PAN00.008.1,Melakukan Kajian Mitigasi Bencana Pesisir,,1
+26565,905,F.42PAN00.009.1,Menentukan Jenis dan Tipe Struktur Bangunan Pantai ,,1
+26567,905,F.42PAN00.010.1,Menentukan Tata Letak Bangunan Pantai dan Pengaruhnya Terhadap Angkutan Sedimen Pantai ,,1
+26571,905,F.42PAN00.011.1,Melakukan Kajian Borrow Area dan Quarry,,1
+26572,905,F.42PAN00.011.1,Melakukan Kajian Borrow Area dan Quarry,,1
+26573,905,F.42PAN00.011.1,Melakukan Kajian Borrow Area dan Quarry,,1
+26574,905,F.42PAN00.012.1,Menetukan Muka Air Laut Rencana ,,1
+26576,905,F.42PAN00.013.1,Menetukan Kala Ulang dan Tinggi Gelombang Rencana ,,1
+26577,905,F.42PAN00.014.1,Melakukan Analisis Wave Run-Up dan Penetapan Mercu Bangunan Pantai ,,1
+26579,905,F.42PAN00.015.1,Melaksanakan Perencanaan Pondasi ,,1
+26580,905,F.42PAN00.016.1,Merancang Struktur Bangunan Pantai,,1
+26581,905,F.42PAN00.017.1,Merancang Bangunan Sarana dan Prasarana Pendukung ,,1
+26582,905,F.42PAN00.018.1,Menyusun Metode Pelaksanaan Bangunan Pantai Sesuai Konstruksi ,,1
+26583,905,F.42PAN00.019.1,Menyusun Manual Operasi dan Pemeliharaan Bangunan Pantai ,,1
+26387,903,F.42RAW00.001.1,Membuat Kajian Tentang Kondisi Lahan di Daerah Rawa  ,,1
+26388,903,F.42RAW00.002.1,Membuat Perencanaan Pengaturan Tata Air di Lahan Rawa ,,1
+26389,903,F.42RAW00.003.1,Melaksanakan Pemanfaatan Lahan Rawa untuk Rawa Lebak ,,1
+26390,903,F.42RAW00.004.1,Melaksanakan Pemanfaatan Lahan Rawa untuk Rawa Pasang Surut ,,1
+26391,903,F.42RAW00.005.1,Melaksanakan Pemanfaatan Lahan Rawa untuk Tambak ,,1
+26392,903,F.42RAW00.006.1,Melaksanakan Pengawasan Pekerjaan Lahan Rawa ,,1
+26393,903,F.42RAW00.007.1,Melaksanakan Perbaikan Pekerjaan Lahan Rawa ,,1
+26394,903,F.42RAW00.008.1,Membuat Laporan Akhir Pekerjaan Lahan Rawa ,,1
+26615,907,F.42MPD00.001.1,Melakukan Pekerjaan Persiapan Drainase Jalan,,1
+26616,907,F.42MPD00.002.1,Melakukan Pekerjaan Drainase Jalan,,1
+26617,907,F.42MPD00.003.1,Membuat Laporan Hasil Pekerjaan Drainase Jalan,,1
+28055,945,F.41AEG00.001.1,Merancang Instalasi Listrik dan Sumber Tenaga Listrik pada Bangunan Gedung,,1
+28056,945,F.41AEG00.002.1,Membuat Dokumen Teknis Pelaksanaan Pekerjaan Instalasi Listrik dan Sumber Tenaga Listrik untuk Bangunan Gedung.,,1
+28057,945,F.41AEG00.003.1,Melakukan Kaji Ulang Rancangan Instalasi Listrik dan Sumber Tenaga Listrik pada Bangunan Gedung,,1
+28058,945,F.41AEG00.004.1,"Melakukan Persiapan Pekerjaan Instalasi Listrik, dan Sumber Tenaga Listrik untuk Bangunan Gedung",,1
+28059,945,F.41AEG00.005.1,Mengelola Pelaksanaan Pekerjaan Instalasi Listrik dan Sumber Tenaga Listrik untuk Bangunan Gedung,,1
+28060,945,F.41AEG00.006.1,Mengawasi Pelaksanaan Pekerjaan Instalasi Listrik dan Sumber Tenaga listrik untuk Bangunan Gedung,,1
+28061,945,F.41AEG00.007.1,"Membuat Pedoman Teknis untuk Operasi dan Pemeliharaan Instalasi Listrik, dan Sumber Tenaga Listrik untuk Bangunan Gedung",,1
+28062,945,F.41AEG00.008.1,Membuat Laporan Hasil Pekerjaan,,1
+168895,843,F.410140.001.01,MenerapkanKomunikasi di Tempat Kerja,,1
+168896,843,F.41GED.02.001.1,Mengkoordinir Diagnosa Permasalahan,,1
+168898,843,F.41GED.02.002.1,Memeriksa Perhitungan  Perkiraan  BiayaPekerjaan,,1
+168900,843,F.41GED.02.003.1,Memeriksa Jadwal Kerja6,,1
+168902,843,F.41GED.02.004.1,Mengelola Perkerjaan Perawatan Komponen-Komponen Bangunan Gedung,,1
+168904,843,F.41GED.02.005.1,Mengkoordinir   Pelaksanaan   Pengujian Kelayakan  (Testingdan Commissioning) Hasil Pekerjaan     Perawatan     Sesuai Dengan  Persyaratan  Untuk  Difungsikan Kembali,,1
+168906,843,F.41GED.02.006.1,Membuat Laporan,,1
+168892,843,M.71FSL01.001.2,Menerapkan Keselamatan dan Kesehatan Kerja (K3),,1
+169249,998,F.43GLG00.001.1,Melaksanakan Survei Geologi ,,1
+169250,998,F.43GLG00.002.1,Melaksanakan Kajian tentang Gerakan Tanah ,,1
+169251,998,F.43GLG00.003.1,Melaksanakan Kajian tentang Pengaruh Air ,,1
+169252,998,F.43GLG00.004.1,Melaksanakan Kajian tentang Kegempaan ,,1
+169253,998,F.43GLG00.005.1,Melaksanakan Kajian tentang Gunung Api ,,1
+169254,998,F.43GLG00.006.1,Melaksanakan Kajian tentang Kendala Geologi ,,1
+169255,998,F.43GLG00.007.1,Menganalisis Data Geologi pada Lokasi Konstruksi ,,1
+169256,998,F.43GLG00.008.1,Melakukan Evaluasi Kondisi Geologi Permukaan dan Bawah Permukaan Untuk Masukan Tahap Perencanaan dan Desain di Lokasi Konstruksi ,,1
+169257,998,F.43GLG00.009.1,Membuat Laporan terkait Aspek Geologi pada Lokasi Konstruksi ,,1
+167637,929,F.43OPT04.001.1,Melakukan Pemeliharaan Peralatan Sebelum Pekerjaan Grouting ,,1
+167638,929,F.43OPT04.002.1,Melakukan Persiapan Pekerjaan Grouting ,,1
+167639,929,F.43OPT04.003.1,Melakukan Pekerjaan Grouting sesuai dengan Spesifikasi Pekerjaan ,,1
+167640,929,F.43OPT04.004.1,Melakukan Pemeliharaan Peralatan Setelah Selesai Pekerjaan Grouting ,,1
+168488,973,F.43OPT05.001.1,Melakukan Pemeliharaan sebelum Pengoperasian Hydraulic Hammer Breaker,<p>.</p>,1
+168489,973,F.43OPT05.002.1,Melakukan Persiapan Pengoperasian Hydraulic Hammer Breaker,<p>.</p>,1
+168490,973,F.43OPT05.003.1,Melakukan Pengoperasian Hydraulic Hammer Breaker sesuai Spesifikasi Pekerjaan,<p>.</p>,1
+168491,973,F.43OPT05.004.1,Melakukan Pemeliharaan setelah Selesai Pengoperasian Hydraulic Hammer Breaker,<p>.</p>,1
+167634,928,F.43OPT06.001.1,Melakukan Pemeliharaan sebelum Pengoperasian Pile Drive Hammer ,,1
+167635,928,F.43OPT06.002.1,Melakukan Pengoperasian Pile Drive Hammer  sesuai Spesifikasi Pekerjaan ,,1
+167636,928,F.43OPT06.003.1,Melakukan Pemeliharaan setelah Selesai Pengoperasian Pile Drive Hammer ,,1
+25507,844,F.43OPT01.001.1,Menerapkan Ketentuan dan Peraturan Perundang-undangan yang terkait Keselamatan dan Kesehatan Kerja serta Lingkungan di Tempat Kerja,,1
+25510,844,F.43OPT01.002.1,Melakukan Komunikasi dan Kerja sama di Tempat Kerja ,,1
+25511,844,F.43OPT01.003.1,Melakukan Pemeliharaan Harian Sebelum Pengoperasian Pneumatic Tire Roller ,,1
+25515,844,F.43OPT01.004.1,Melakukan Persiapan Pengoperasian Pneumatic Tire Roller ,,1
+25517,844,F.43OPT01.005.1,Mengoperasikan Pneumatic Tire Roller Sesuai dengan Prosedur ,,1
+25520,844,F.43OPT01.006.1,Melakukan Kegiatan Akhir Pengoperasian Pneumatic Tire Roller ,,1
+26166,846,F.43OPT07.001.1,Melakukan Pemeliharaan sebelum Pengoperasian Ripper Tractor ,<p>-</p>,1
+26168,846,F.43OPT07.002.1,Melakukan Persiapan Pengoperasian Ripper Tractor ,<p>-</p>,1
+26170,846,F.43OPT07.003.1,Melakukan Pengoperasian Ripper Tractor sesuai Spesifikasi Pekerjaan ,,1
+26173,846,F.43OPT07.004.1,Melakukan Pemeliharaan setelah Selesai Pengoperasian Ripper Tractor ,,1
+27153,940,F.43OPT03.001.1,Menerapkan Ketentuan dan Peraturan Perundang-undangan yang terkait Keselamatan dan Kesehatan Kerja serta Lingkungan di Tempat Kerja ,,1
+27154,940,F.43OPT03.002.1,Melakukan Komunikasi dan Kerja sama di Tempat Kerja ,,1
+27155,940,F.43OPT03.003.1,Melakukan Pemeliharaan Harian Sebelum Pengoperasian Vibrator Roller ,,1
+27156,940,F.43OPT03.004.1,Melakukan Persiapan Pengoperasian Vibrator Roller ,,1
+27157,940,F.43OPT03.005.1,Mengoperasikan Vibrator Roller Sesuai dengan Prosedur ,,1
+27158,940,F.43OPT03.006.1,Melakukan Kegiatan Akhir Pengoperasian Vibrator Roller ,,1
+168327,970,F.43RAC01.001.1,Menerapkan Keselamatan dan Kesehatan Kerja dan Lingkungan Hidup (K3-LH) ,<p>.</p>,1
+168328,970,F.43RAC01.002.1,Menerapkan Komunikasi di Tempat Kerja,<p>.</p>,1
+168348,970,F.43RAC01.003.1,Menerapkan Kerjasama di Tempat Kerja,<p>.</p>,1
+168371,970,F.43RAC01.004.1,Mempersiapkan Peralatan dan Material ,<p>.</p>,1
+168374,970,F.43RAC01.005.1,Menginterpretasi Gambar Teknik Refrigerasi dan Tata Udara ,<p>.</p>,1
+168376,970,F.43RAC01.006.1,Merangkai Sistem Kelistrikan Sederhana ,<p>.</p>,1
+168379,970,F.43RAC01.007.1,Merangkai Sistem Pemipaan Sederhana ,<p>.</p>,1
+168382,970,F.43RAC01.008.1,Menggunakan Alat Ukur Refrigerasi dan Tata Udara ,<p>.</p>,1
+168384,970,F.43RAC01.009.1,Melakukan Instalasi Rangkaian Kontrol Motor Listrik Induksi 3 (Tiga) Phase,<p>.</p>,1
+168387,970,F.43RAC01.010.1,Memeriksa Kebocoran Refrigeran ,<p>.</p>,1
+168389,970,F.43RAC01.011.1,Menguji Instalasi Pemipaan ,<p>.</p>,1
+168392,970,F.43RAC01.012.1,Mengevakuasi Sistem Refrigerasi dan Tata Udara ,<p>.</p>,1
+168394,970,F.43RAC01.013.1,Melakukan Proses Pengisian Refrigeran ,<p>.</p>,1
+168397,970,F.43RAC01.014.1,Melakukan Recovery Refrigeran ,<p>.</p>,1
+168399,970,F.43RAC01.015.1,Melakukan Penanganan Refrigeran Amonia ,<p>.</p>,1
+168402,970,F.43RAC01.016.1,Melakukan Penanganan Refrigeran Mudah Menyala (flammable) ,<p>.</p>,1
+168404,970,F.43RAC01.017.1,Merawat Mesin Refrigerasi Komersial dan Industri ,<p>.</p>,1
+168406,970,F.43RAC01.018.1,Merawat Unit Tata Udara Komersial dan Sistem VRF ,<p>.</p>,1
+168407,970,F.43RAC01.019.1,Merawat Sistem Tata Udara Sentral dan Chiller,<p>.</p>,1
+168408,970,F.43RAC01.020.1,Memasang Sistem Refrigerasi Komersial dan Industri ,<p>.</p>,1
+168409,970,F.43RAC01.021.1,Memasang Unit Tata Udara Rumah Tangga/Residential ,<p>.</p>,1
+168410,970,F.43RAC01.022.1,Memasang Unit Tata Udara Komersial dan Sistem VRF ,<p>.</p>,1
+169394,970,F.43RAC01.023.1,Mengganti Komponen Elektrik dan Mekanik Pada Sistem Refrigerasi dan Tata Udara,,1
+169397,970,F.43RAC01.024.1,Memperbaiki Unit dan Sistem Refrigerasi dan Tata Udara,,1
+169398,970,F.43RAC01.025.1,Melakukan Testing dan Commissioning Unit Refrigerasi Komersial dan Industri,,1
+169401,970,F.43RAC01.026.1,Melakukan Testing dan Commissioning Unit Tata Udara Komersial dan Sistem VRF,,1
+169403,970,F.43RAC01.027.1,Melakukan Testing dan Commissioning Unit Chiller,,1
+185138,1288,F.42RFP00.001.1,Menerapkan Peraturan Perundang-Undangan dan Sistem Manajemen Keselamatan dan Kesehatan Kerja dan Lingkungan (SMK3-L) pada Kegiatan Perawatan Fasilitas Pelabuhan,,1
+185139,1288,F.42RFP00.002.1,Melaksanakan Komunikasi di Tempat Kerja,,1
+185140,1288,F.42RFP00.003.1,Menginventarisasi Data dan Perlengkapan Fasilitas Pelabuhan,,1
+185141,1288,F.42RFP00.004.1,Menganalisis Hasil Inventarisasi Data dan Perlengkapan Fasilitas Pelabuhan,,1
+185142,1288,F.42RFP00.005.1,Membuat Jadwal dan Rencana Perawatan dan Pemeliharaan,,1
+185143,1288,F.42RFP00.006.1,Melakukan Investigasi Struktur,,1
+185144,1288,F.42RFP00.007.1,Melakukan Evaluasi dan Penilaian Hasil Investigasi Struktur,,1
+185145,1288,F.42RFP00.008.1,Melakukan Perencanaan Penggunaan Fasilitas Pelabuhan Sebelum Perawatan dan Perbaikan,,1
+185146,1288,F.42RFP00.009.1,Merencanakan Perawatan Dermaga dan Trestle,,1
+185147,1288,F.42RFP00.010.1,Merencanakan Perawatan Causeway dan Lapangan Penumpukan,,1
+185148,1288,F.42RFP00.011.1,Merencanakan Perawatan Gudang dan Terminal Penumpang,,1
+185149,1288,F.42RFP00.012.1,Merencanakan Perawatan Penahan Gelombang,,1
+185150,1288,F.42RFP00.013.1,Melaksanakan Pekerjaan Pemeliharaan Dermaga,,1
+185151,1288,F.42RFP00.014.1,Melaksanakan Pekerjaan Pemeliharaan Trestle,,1
+185152,1288,F.42RFP00.015.1,Melaksanakan Pekerjaan Pemeliharaan Causeway,,1
+185153,1288,F.42RFP00.016.1,Melaksanakan Pekerjaan Pemeliharaan Lapangan Penumpukan,,1
+185154,1288,F.42RFP00.017.1,Melaksanakan Pekerjaan Pemeliharaan Gudang,,1
+185155,1288,F.42RFP00.018.1,Melaksanakan Pekerjaan Pemeliharaan Terminal Penumpang,,1
+185156,1288,F.42RFP00.019.1,Melaksanakan Pekerjaan Perawatan Dermaga,,1
+185157,1288,F.42RFP00.020.1,Melaksanakan Pekerjaan Perawatan Trestle,,1
+185158,1288,F.42RFP00.021.1,Melaksanakan Pekerjaan Perawatan Causeway,,1
+185159,1288,F.42RFP00.022.1,Melaksanakan Pekerjaan Perawatan Lapangan Penumpukan,,1
+185160,1288,F.42RFP00.023.1,Melaksanakan Pekerjaan Perawatan Gudang,,1
+185161,1288,F.42RFP00.024.1,Melaksanakan Pekerjaan Perawatan Terminal Penumpang,,1
+185162,1288,F.42RFP00.025.1,Melaksanakan Pekerjaan Perawatan Penahan Gelombang,,1
+185163,1288,F.42RFP00.026.1,Melaksanakan Pengendalian Kegiatan Perawatan dan Pemeliharaan,,1
+185164,1288,F.42RFP00.027.1,Mengimplementasikan Peraturan Perundang- Undangan Terkait Pengadaan Jasa Konstruksi,,1
+185165,1288,F.42RFP00.028.1,Mengimplementasikan Prosedur dan Pedoman Perawatan Fasilitas Pelabuhan,,1
+185166,1288,F.42RFP00.029.1,Memeriksa Kesiapan Pelaksana Pekerjaan untuk Memulai Pelaksanaan Pekerjaan,,1
+185167,1288,F.42RFP00.030.1,Melakukan Pengawasan Pelaksanaan Pekerjaan Perawatan Fasilitas Pelabuhan,,1
+185168,1288,F.42RFP00.031.1,Melakukan Pengawasan Pelaksanaan Pekerjaan Perawatan Aksesoris Fasilitas Pelabuhan,,1
+185169,1288,F.42RFP00.032.1,"Melakukan Pengawasan Mutu, Kuantitas, dan Waktu",,1
+185170,1288,F.42RFP00.033.1,Mengevaluasi Kinerja Pelaksanaan Pekerjaan,,1
+185171,1288,F.42RFP00.034.1,Melakukan Pengukuran Bersama untuk Penerbitan Sertifikat Pembayaran,,1
+185172,1288,F.42RFP00.035.1,Membuat Laporan Pengawasan,,1
+185173,1288,F.42RFP00.036.1,Melakukan Rekomendasi Penyerahan Akhir Pekerjaan,,1
+2285,60,M.71KFS01.001.1,Melakukan Persiapan Pekerjaan Penjaminan dan Pengendalian Kualitas,,1
+2286,60,M.71KFS01.002.1,Membuat Perencanaan dan Prosedur Pengujian dan Inspeksi,,1
+2287,60,M.71KFS01.003.1,"Menelaah Dokumen Prosedur, Desain, dan Rencana Konstruksi Fabrikasi",,1
+2288,60,M.71KFS01.004.1,"Menyiapkan Personil, Peralatan Pengujian dan Inspeksi",,1
+2289,60,M.71KFS01.005.1,Menelaah Penjaminan dan Pengendalian Kualitas Penyedia Eksternal,,1
+2290,60,M.71KFS01.006.1,Memastikan Mutu Pekerjaan Penyedia Eksternal,,1
+2291,60,M.71KFS01.007.1,Melakukan Verifikasi Bahan (Material) dan Peralatan Pekerjaan,,1
+2292,60,M.71KFS01.008.1,Melakukan Pemeriksaan Saat Proses Pekerjaan,,1
+2293,60,M.71KFS01.009.1,Melakukan Pemeriksaan Saat Proses Pengujian ,,1
+2294,60,M.71KFS01.010.1,Menyusun Pelaporan Hasil Pengujian dan Inspeksi,,1
+2295,60,M.71KFS01.011.1,Menyerahkan Laporan Pengujian dan Inspeksi Kepada Tim Manajemen Proyek,,1
+2296,60,M.71KFS01.012.1,Melakukan Internal Audit Terhadap Sistem Manajemen Mutu,,1
+2297,60,M.71KFS01.013.1,Mengevaluasi Kesesuaian/Ketidaksesuaian Pelaksanaan Pekerjaan,,1
+169456,961,F.41GED01.001.1,Mengobservasi Sumber Daya dan Material di Sekitar Lokasi,,1
+169457,961,F.41GED01.002.1,Menghitung Kebutuhan Panel RISHA,,1
+169458,961,F.41GED01.003.1,Membuat Konsep Perencanaan Perakitan Bangunan RISHA,,1
+169459,961,F.41GED01.004.1,Membuat Gambar Kerja Perakitan Bangunan RISHA,,1
+169460,961,F.41GED01.005.1,Memotong Baja Tulangan,,1
+169461,961,F.41GED01.006.1,Menekuk Baja Tulangan,,1
+169462,961,F.41GED01.007.1,Merangkai Baja Tulangan,,1
+169463,961,F.41GED01.008.1,Mencetak Panel RISHA,,1
+169464,961,F.41GED01.009.1,Melakukan Proses Curing,,1
+169465,961,F.41GED01.010.1,Melaksanakan Pekerjaan Persiapan Lokasi Kerja,,1
+169466,961,F.41GED01.011.1,Melaksanakan Pekerjaan Pondasi,,1
+169467,961,F.41GED01.012.1,Melaksanakan Pekerjaan Struktur RISHA,,1
+169468,961,F.41GED01.013.1,Melaksanakan Pekerjaan Pemasangan Rangka Atap,,1
+169469,961,F.41GED01.014.1,melaksanakan Pekerjaan Dinding,,1
+169470,961,F.41GED01.015.1,Melaksanakan Pekerjaan Lantai,,1
+169471,961,F.41GED01.016.1,Melaksanakan Pekerjaan Pemasangan Penutup Atap,,1
+169472,961,F.41GED01.017.1,Mengevaluasi Produk Panel RISHA,,1
+169473,961,F.41GED01.018.1,Melakukan Pemeriksaan Praperakitan,,1
+169474,961,F.41GED01.019.1,Melakukan Pemeriksaan Pascaperakitan,,1
+169475,961,F.41GED01.020.1,Melaksanakan Pemeliharaan Bangunan RISHA,,1
+169476,961,F.41GED01.021.1,Melaksanakan Pemeliharaan Utilitas,,1
+10787,371,F.43SCF00.001.2,Merencanakan Pemasangan Scaffolding,,1
+10788,371,F.43SCF00.002.2,Menyiapkan Operasi Scaffolding,,1
+10789,371,F.43SCF00.003.2,Memasang Scaffolding,,1
+10790,371,F.43SCF00.004.2,Membongkar Scaffolding,,1
+10791,371,F.43SCF00.005.2,Memeriksa Scaffolding,,1
+10458,346,F.429110.001.01,Menerapkan Peraturan-Peraturan Pembangunan Bendungan Besar,,1
+25672,346,F.429110.002.01,Menerapkan Komunikasi di Tempat Kerja,,1
+10459,346,F.429110.003.01,Menyiapkan Data Sekunder Perencanaan Bendungan Besar ,,1
+10460,346,F.429110.004.01,Menyiapkan  Data Primer Perencanaan Bendungan Besar ,,1
+10461,346,F.429110.005.01,Mengembangkan Alternatif Pembangunan Bendungan Besar,,1
+10462,346,F.429110.006.01,Melakukan Analisis Hidrologi,,1
+10463,346,F.429110.007.01,Membuat Desain Pendahuluan Bendungan Besar,,1
+10464,346,F.429110.008.01,Mengkaji Hasil Desain Pendahuluan Bendungan Besar,,1
+10465,346,F.429110.009.01,Menyiapkan Perhitungan Volume dan Biaya Pembangunan Bendungan Besar,,1
+10466,346,F.429110.010.01,Melakukan Evaluasi Kelayakan Proyek,,1
+10467,346,F.429110.011.01,Menyiapkan Kerangka Acuan Kerja Untuk Desain Rinci Bendungan Besar,,1
+10468,346,F.429110.012.01,Menyiapkan Investigasi Rinci,,1
+10469,346,F.429110.013.01,Membuat Desain Rinci Bendungan Besar,,1
+10470,346,F.429110.014.01,Mengkaji Hasil Desain Rinci Bendungan Besar,,1
+10471,346,F.429110.015.01,Membuat Laporan dan Dokumentasi Pekerjaan,,1
+10472,346,F.429110.016.01,"Melaksanakan Pekerjaan K3LM (K3, Lingkungan dan Sistem Manajemen Mutu)",,1
+10473,346,F.429110.017.01,Mengkaji Dokumen Kontrak,,1
+10474,346,F.429110.018.01,Membuat Program Kerja dan Metode Kerja,,1
+10475,346,F.429110.019.01,Melaksanakan Pekerjaan Persiapan Konstruksi Bendungan Besar,,1
+10476,346,F.429110.020.01,Mengelola Keuangan dan SDM,,1
+10477,346,F.429110.021.01,Mengelola Administrasi Teknik,,1
+10478,346,F.429110.022.01,Melaksanakan Pekerjaan Logistik dan Peralatan,,1
+10479,346,F.429110.023.01,Mengendalikan Pelaksanaan Pekerjaan Bangunan Pengelak,,1
+10480,346,F.429110.024.01,Mengendalikan Pelaksanaan Pekerjaan Galian Pondasi,,1
+10481,346,F.429110.025.01,Mengendalikan Pelaksanaan Pekerjaan Perbaikan Pondasi,,1
+10482,346,F.429110.026.01,Mengendalikan Pelaksanaan Pekerjaan Urugan Tubuh Bendungan,,1
+10483,346,F.429110.027.01,Mengendalikan Pelaksanaan Pekerjaan beton,,1
+10484,346,F.429110.028.01,Mengendalikan Pelaksanaan Pekerjaan Pemasangan Instrumentasi,,1
+10485,346,F.429110.029.01,Mengendalikan Pelaksanaan Pekerjaan Bendungan Beton,,1
+10486,346,F.429110.030.01,Mengendalikan Pelaksanaan Pekerjaan blasting,,1
+10487,346,F.429110.031.01,Mengendalikan Pelaksanaan Pekerjaan Hydromechanical ,,1
+10488,346,F.429110.032.01,"Melakukan Pengendalian Biaya, Mutu dan Waktu",,1
+10489,346,F.429110.033.01,Melaksanakan Pekerjaan Pengisian Awal Waduk,,1
+10490,346,F.429110.034.01,Melakukan Serah Terima Pekerjaan,,1
+10491,346,F.429110.035.01,Memeriksa Kesiapan Kontraktor Untuk Memulai Pelaksanaan Pekerjaan,,1
+10492,346,F.429110.036.01,Melakukan Supervisi Pelaksanaan Pekerjaan Bangunan Pengelak,,1
+10493,346,F.429110.037.01,Melakukan Supervisi Pelaksanaan Pekerjaan Galian Pondasi,,1
+10494,346,F.429110.038.01,Melakukan Supervisi Pelaksanaan Pekerjaan Perbaikan Pondasi,,1
+10495,346,F.429110.039.01,Melakukan Supervisi Pelaksanaan Pekerjaan Urugan Tubuh Bendungan,,1
+10496,346,F.429110.040.01,Melakukan Supervisi Pelaksanaan Pekerjaan Beton,,1
+10497,346,F.429110.041.01,Melakukan Supervisi Pelaksanaan Pekerjaan Pemasangan Intrumentasi,,1
+10498,346,F.429110.042.01,Melakukan Supervisi Pelaksanaan Pekerjaan Bendungan Beton,,1
+10499,346,F.429110.043.01,Melakukan Supervisi Pelaksanaan Pekerjaan blasting,,1
+10500,346,F.429110.044.01,Melakukan Supervisi Pelaksanaan Pekerjaan Hidromekanikal,,1
+10501,346,F.429110.045.01,"Melakukan Pengawasan Sistim Manajemen Mutu, Kuantitas dan Waktu",,1
+10502,346,F.429110.046.01,Mengevaluasi Kinerja Kontraktor,,1
+10503,346,F.429110.047.01,Melakukan Pengukuran Bersama Untuk Penerbitan Sertifikat Pembayaran,,1
+10504,346,F.429110.048.01,Membuat Laporan Pekerjaan Supervisi,,1
+10505,346,F.429110.049.01,Melakukan Supervisi Pelaksanaan Pekerjaan Pengisian Awal Waduk,,1
+10506,346,F.429110.050.01,Melakukan Penyerahan Akhir Pekerjaan,,1
+25745,347,F.429120.001.01,Menerapkan Komunikasi di Tempat Kerja,,1
+10507,347,F.429120.002.01,Menyiapkan Data Sekunder yang Terkait dengan Perencanaan Dermaga,,1
+10508,347,F.429120.003.01,Melaksanakan Survei Hidro-oceanografi  dan Topografi,,1
+10509,347,F.429120.004.01,Mendesain Lay out Dermaga,,1
+10510,347,F.429120.005.01,Melaksanakan Survei Penyelidikan Tanah,,1
+10511,347,F.429120.006.01,Mengkaji Hasil Perencanaan Pendahuluan Dermaga,,1
+10512,347,F.429120.007.01,Melaksanakan Pekerjaan Persiapan Perencanaan Detail Dermaga,,1
+10513,347,F.429120.008.01,Melakukan Perhitungan Detail Desain Struktur Dermaga,,1
+10514,347,F.429120.009.01,Mengkaji Hasil Perhitungan Struktur Dermaga,,1
+10515,347,F.429120.010.01,Membuat Gambar Rencana Dermaga,,1
+10516,347,F.429120.011.01,Membuat Desain Final Dermaga,,1
+10517,347,F.429120.012.01,Mengkaji Gambar Detail dan Pembuatan Desain Final Konstruksi Dermaga,,1
+10518,347,F.429120.013.01,Membuat Laporan dan Dokumentasi Pekerjaan,,1
+10519,347,F.429120.014.01,"Melaksanakan Pekerjaan K3LM (K3, Lingkungan dan Sistem Manajemen Mutu)",,1
+10520,347,F.429120.015.01,Mengkaji Dokumen Kontrak,,1
+10521,347,F.429120.016.01,Membuat Program Kerja dan Metode Kerja,,1
+10522,347,F.429120.017.01,Melaksanakan Pekerjaan Persiapan Konstruksi Dermaga,,1
+10523,347,F.429120.018.01,Mengelola Keuangan dan Sumber Daya Manusia,,1
+10524,347,F.429120.019.01,Mengelola Administrasi Teknik,,1
+10525,347,F.429120.020.01,Mengendalikan Pelaksanaan Pekerjaan Tanah,,1
+10526,347,F.429120.021.01,Mengendalikan Pelaksanaan Pekerjaan Beton,,1
+10527,347,F.429120.022.01,Mengendalikan Pelaksanaan Pekerjaan Pemancangan,,1
+10528,347,F.429120.023.01,Mengendalikan Pelaksanaan Pekerjaan Asesoris Dermaga,,1
+10529,347,F.429120.024.01,"Melakukan Pengendalian Biaya, Mutu dan Waktu",,1
+10530,347,F.429120.025.01,Melakukan Proses Serah Terima Pekerjaan,,1
+10531,347,F.429120.026.01,Memeriksa Kesiapan Kontraktor untuk Memulai Pelaksanaan Pekerjaan,,1
+10532,347,F.429120.027.01,Melakukan Supervisi Pelaksanaan Pekerjaan Tanah pada Konstruksi Dermaga,,1
+10533,347,F.429120.028.01,Melakukan Supervisi Pelaksanaan Pekerjaan Beton pada Konstruksi Dermaga,,1
+10534,347,F.429120.029.01,Melakukan Supervisi Pelaksanaan Pekerjaan Pemancangan pada Konstruksi Dermaga,,1
+10535,347,F.429120.030.01,Melakukan Supervisi Pelaksanaan Pekerjaan Asesoris Dermaga,,1
+10536,347,F.429120.031.01,"Melakukan Pengawasan Mutu, Kuantitas dan Waktu",,1
+10537,347,F.429120.032.01,Mengevaluasi Kinerja Kontraktor,,1
+10538,347,F.429120.033.01,Melakukan Pengukuran Bersama untuk Penerbitan Sertifikat Pembayaran,,1
+10539,347,F.429120.034.01,Membuat Laporan Pekerjaan Supervisi,,1
+10540,347,F.429120.035.01,Melakukan Rekomendasi Penyerahan Akhir Pekerjaan,,1
+10603,357,F.410201.001.02,Memasang Rangka Atap Baja Ringan Sesuai dengan Hasil Perancangan,,1
+10604,357,F.410201.002.01,Memasang Rangka Dinding Baja Ringan Sesuai dengan Hasil Perancangan,,1
+10605,357,F.410201.003.01,Memasang Rangka Lantai Baja Ringan Sesuai dengan Hasil Perancangan,,1
+10606,357,F.410202.004.02,Melakukan Persiapan Pekerjaan Rangka Atap Baja Ringan,,1
+10607,357,F.410202.005.02,Melakukan Pengarahan Lapangan Pemasangan Rangka Atap Baja Ringan,,1
+10608,357,F.410202.006.02,Melakukan Koordinasi Pemasangan Rangka Atap Baja Ringan,,1
+10609,357,F.410202.007.02,Melakukan Pekerjaan Inspeksi Pemasangan Rangka Atap Baja Ringan,,1
+10610,357,F.410202.008.01,Melakukan Persiapan Pekerjaan Rangka Dinding dan Rangka Lantai Baja Ringan,,1
+10611,357,F.410202.009.01,Melakukan Pengarahan Lapangan Pemasangan Rangka Dinding dan Rangka Lantai Baja Ringan,,1
+10612,357,F.410202.010.01,Melakukan Koordinasi Pemasangan Rangka Dinding dan Rangka Lantai Baja Ringan,,1
+10613,357,F.410202.011.01,Melakukan Pekerjaan Inspeksi Pemasangan Rangka Dinding dan Rangka Lantai Baja Ringan,,1
+10732,369,F.410140.001.01,Menerapkan Komunikasi di Tempat Kerja,,1
+10733,369,F.410140.002.01,Mengendalikan Pengumpulan Data Perancangan Struktur Bangunan Gedung,,1
+10734,369,F.410140.003.01,Membuat Perancangan Struktur Atas Bangunan Gedung Bertingkat Rendah,,1
+10735,369,F.410140.004.01,Membuat Perancangan Struktur Atas Bangunan Gedung Bertingkat Tinggi,,1
+10736,369,F.410140.005.01,Membuat Perancangan Pondasi Dangkal,,1
+10737,369,F.410140.006.01,Membuat Perancangan Pondasi Dalam,,1
+10738,369,F.410140.007.01,Membuat Perancangan Basement,,1
+10739,369,F.410140.008.01,Membuat Perancangan Gambar Struktur,,1
+10740,369,F.410140.009.01,Menyusun Spesifikasi Teknis Bangunan Gedung,,1
+10741,369,F.410140.010.01,Mengendalikan Pengumpulan Data dan Informasi Mengenai Pekerjaan Struktur Bangunan Gedung,,1
+10742,369,F.410140.011.01,Melakukan Pekerjaan Persiapan Pelaksanaan Struktur Bangunan Gedung,,1
+10743,369,F.410140.012.01,Melakukan Review Design Struktur Bangunan Gedung,,1
+10744,369,F.410140.013.01,Mengendalikan Pelaksanaan Pekerjaan Struktur Bawah Bangunan Gedung sesuai dengan Gambar Rencana,,1
+10745,369,F.410140.014.01,Mengendalikan Pelaksanaan Pekerjaan Struktur Atas Baja Bangunan Gedung sesuai dengan Gambar Rencana,,1
+10746,369,F.410140.015.01,Mengendalikan Pelaksanaan Pekerjaan Struktur Atas Beton Bertulang Bangunan Gedung sesuai dengan Gambar Rencana,,1
+10747,369,F.410140.016.01,Mengendalikan Pelaksanaan Pekerjaan Struktur Atas Beton Komposit Bangunan Gedung sesuai dengan Gambar Rencana,,1
+10748,369,F.410140.017.01,Mengendalikan Pelaksanaan Pekerjaan Struktur Atas Beton Pracetak Bangunan Gedung sesuai dengan Gambar Rencana,,1
+10749,369,F.410140.018.01,Melaksanakan Uji Kelaikan Fungsi Struktur Bangunan Gedung,,1
+10750,369,F.410140.019.01,Menyiapkan Serah Terima Hasil Pekerjaan Struktur Bangunan Gedung ,,1
+10751,369,F.410140.020.01,Memeriksa Administrasi Rencana Pelaksanaan Struktur Bangunan Gedung,,1
+10752,369,F.410140.021.01,Mengawasi Pelaksanaan Pekerjaan Persiapan Struktur  Bangunan Gedung,,1
+10753,369,F.410140.022.01,Mengawasi Pelaksanaan Pekerjaan Struktur Bawah Bangunan Gedung,,1
+10754,369,F.410140.023.01,Mengawasi Pelaksanaan Pekerjaan Struktur Atas Baja Bangunan Gedung,,1
+10755,369,F.410140.024.01,Mengawasi Pelaksanaan Pekerjaan Struktur Atas Beton Bertulang Bangunan Gedung,,1
+10756,369,F.410140.025.01,Mengawasi Pelaksanaan Pekerjaan Struktur Atas Beton Komposit Bangunan Gedung,,1
+10757,369,F.410140.026.01,Mengawasi Pelaksanaan Pekerjaan Struktur Atas Beton Pracetak Bangunan Gedung,,1
+10758,369,F.410140.027.01,"Mengintegrasikan Perancangan, Pelaksanaan, dan Pengawasan pada Pekerjaan Bangunan Gedung",,1
+10759,369,F.410140.028.01,Membuat Laporan Akhir,,1
+10829,377,F.410201.001.02,Memasang Rangka Atap Baja Ringan Sesuai dengan Hasil Perancangan,,1
+10830,377,F.410201.002.01,Memasang Rangka Dinding Baja Ringan Sesuai dengan Hasil Perancangan ,,1
+10831,377,F.410201.003.01,Memasang Rangka Lantai Baja Ringan Sesuai dengan Hasil Perancangan ,,1
+10832,377,F.410202.004.02,Melakukan Persiapan Pekerjaan Rangka Atap Baja Ringan ,,1
+10833,377,F.410202.005.02,Melakukan Pengarahan Lapangan Pemasangan Rangka Atap Baja Ringan ,,1
+10834,377,F.410202.006.02,Melakukan Koordinasi Pemasangan Rangka Atap Baja Ringan ,,1
+26784,377,F.410202.007.02,Melakukan Pekerjaan Inspeksi Pemasangan Rangka Atap Baja Ringan,<p>null</p>,1
+26785,377,F.410202.008.01,Melakukan Persiapan Pekerjaan Rangka Dinding dan Rangka Lantai Baja Ringan,"<p>null</p>
+<p>&nbsp;</p>",1
+26786,377,F.410202.009.01,Melakukan Pengarahan Lapangan Pemasangan Rangka Dinding dan Rangka Lantai Baja Ringan,<p>null</p>,1
+26787,377,F.410202.010.01,Melakukan Koordinasi Pemasangan Rangka Dinding dan Rangka Lantai Baja Ringan,<p>null</p>,1
+26788,377,F.410202.011.01,Melakukan Pekerjaan Inspeksi Pemasangan Rangka Dinding dan Rangka Lantai Baja Ringan,<p>null</p>,1
+10918,390,F.439092.001.01,"Melakukan Persiapan Material, Peralatan, dan Perlengkapan Pekerjaan Besi Beton",,1
+10919,390,F.439092.002.01,Menyusun Daftar Pemotongan dan Pembengkokan Besi Beton,,1
+10920,390,F.439092.003.01,Melaksanakan Pemotongan Besi Beton,,1
+10921,390,F.439092.004.01,Melaksanakan Pembengkokan Besi Beton,,1
+10922,390,F.439092.005.01,Melakukan Pekerjaan Pembuatan Tulangan Besi Beton,,1
+10923,391,F.433032.001.01,Mengatur Kegiatan Pengecatan,,1
+10924,391,F.433032.002.01,Melakukan Penanganan Material Cat,,1
+10925,391,F.433032.003.01,Melakukan Pemeliharaan Peralatan dan Perlengkapan Pengecatan,,1
+10926,391,F.433032.004.01,Melakukan Persiapan Lapangan Untuk Pengecatan,,1
+10927,391,F.433032.005.01,Melakukan Persiapan Untuk Pekerjaan Pengecatan Baru,,1
+10928,391,F.433032.006.01,Melakukan Persiapan Bidang Permukaan Untuk Pengecatan Ulang,,1
+10929,391,F.433032.007.01,Melakukan Pekerjaan Pengecatan,,1
+10930,391,F.433032.008.01,Membersihkan Lapangan Pengecatan,,1
+25573,392,F.433042.001.01,Melaksanakan Pengaturan Material Pekerjaan Kayu,,1
+25575,392,F.433042.002.01,Melaksanakan Pengaturan Mesin Pekerjaan Kayu ,,1
+25579,392,F.433042.003.01,Melakukan Pengaturan Pekerjaan Kayu,,1
+25582,392,F.433042.004.01,Melaksanakan Pekerjaan Pabrikasi Kayu,,1
+25586,392,F.433042.005.01,Melakukan Pekerjaan Pemasangan Konstruksi Kayu,,1
+25589,392,F.433042.006.01,Melakukan Pemasangan Pekerjaan Kayu,,1
+25592,392,F.433042.007.01,Melakukan Pekerjaan Dekorasi Kayu ,,1
+25594,392,F.433042.008.01,Melaksanakan Pekerjaan Finishing Kayu,,1
+10931,393,F.439092.001.01,Menyiapkan Material dan Peralatan Pekerjaan Pasangan Bata,,1
+10932,393,F.439092.002.01,Menyiapkan Tata Letak Area Pekerjaan,,1
+10933,393,F.439092.003.01,Membuat Mortar untuk Pekerjaan Pasangan Bata,,1
+10934,393,F.439092.004.01,Melaksanakan Pekerjaan Struktur Dinding Bata,,1
+10935,393,F.439092.005.01,Membuat Pilar Pasangan Bata,,1
+10936,393,F.439092.006.01,Membuat Pasangan Bata lengkung,,1
+10937,393,F.439092.007.01,Membuat Pasangan Bata Dekoratif,,1
+10938,394,F.433022.001.01,"Menyiapkan Material, Peralatan, dan Perlengkapan Pasang Ubin",,1
+10939,394,F.433022.002.01,Menyiapkan Lantai Kerja Pasang Ubin,,1
+10940,394,F.433022.003.01,Melakukan Pemasangan Ubin,,1
+10941,394,F.433022.004.01,Melaksanakan Aktifitas Pemasangan Mosaik,,1
+10942,394,F.433022.005.01,Memasang Marmer dan Teraso,,1
+10943,395,F.432212.001.01,Melaksanakan Persiapan di Tempat Kerja,,1
+10944,395,F.432212.002.01,Memasang Instalasi Pipa Air Bersih,,1
+10945,395,F.432212.003.01,Memasang Instalasi Pipa Air Kotor/Air Limbah,,1
+10946,395,F.432212.004.01,Memasang Perlengkapan Sanitasi,,1
+10947,395,F.432212.005.01,Memasang Instalasi Tangki Air,,1
+10948,395,F.432212.006.01,Melakukan Pengujian dan Komisioning,,1
+10949,395,F.432212.007.01,Melakukan Pemasangan Pipa Cabang,,1
+10950,395,F.432212.008.01,Melakukan Pekerjaan Pemeliharaan,,1
+10951,396,F.433022.001.01,Melaksanakan Persiapan Pekerjaan Plesteran,,1
+10952,396,F.433022.002.01,Memasang Patok/Profil Penyangga Permukaan,,1
+10953,396,F.433022.003.01,Melaksanakan Pencampuran Adukan Plesteran,,1
+10954,396,F.433022.004.01,Melaksanakan Pekerjaan Plesteran,,1
+10955,396,F.433022.005.01,Melaksanakan Pekerjaan Finishing Plesteran,,1
+7882,221,M.7110000.001.01,Merencanakan Strategi Penahapan Proyek Ukuran Kompleksitas Risiko Tinggi (RT).,,1
+7883,221,M.7110000.002.01,Menyiapkan Perijinan dan Pembebasan Lahan untuk Proyek Ukuran Kompleksitas Risiko Tinggi (RT).,,1
+7884,221,M.7110000.003.01,Melakukan Evaluasi terhadap Kelayakan Proyek untuk Ukuran Kompleksitas Risiko Tinggi (RT),,1
+7885,221,M.7110000.004.01,Membuat Program Tahapan Disain untuk Proyek Ukuran Kompleksitas Risiko Tinggi (RT).,,1
+7886,221,M.7110000.005.01,Melakukan Koordinasi Kebijakan-Kebijakan untuk Proyek Ukuran Kompleksitas Risiko Tinggi (RT).,,1
+7887,221,M.7110000.006.01,Melaksanakan Evaluasi Program Kegiatan Disain untuk Proyek Ukuran Kompleksitas Risiko Tinggi (RT).,,1
+7888,221,M.7110000.007.01,Membuat  Program Pengadaan Pelaksanaan Konstruksi untuk Proyek Ukuran Kompleksitas Risiko Tinggi (RT).,,1
+7889,221,M.7110000.008.01,Melaksanakan Pengadaan Pelaksanaan Konstruksi untuk Proyek Ukuran Kompleksitas Risiko Tinggi (RT).,,1
+7890,221,M.7110000.009.01,Melaksanakan Persiapan Pra Konstruksi Untuk Proyek.,,1
+7891,221,M.7110000.010.01,Melakukan Pengelolaan Pada Tahapan Pelaksanaan untuk Proyek Ukuran Kompleksitas Risiko Tinggi (RT).,,1
+7892,221,M.7110000.011.01,Melakukan Kaji Ulang Program Pelaksanaan Konstruksi untuk Proyek Ukuran kompleksitas Risiko Tinggi (RT) ,,1
+7893,221,M.7110000.012.01,Melakukan Pengawasan Pelaksanaan Konstruksi untuk Proyek Ukuran Kompleksitas Risiko Tinggi (RT),,1
+7894,221,M.7110000.013.01,Melakukan Pengendalian Pelaksanaan Konstruksi untuk Proyek Ukuran Kompleksitas Risiko Tinggi (RT),,1
+7895,221,M.7110000.014.01,Menyusun Program Serah Terima Pekerjaan untuk Proyek Ukuran Kompleksitas Risiko Tinggi (RT),,1
+7896,221,M.7110000.015.01,Melakukan Uji Daya/Trima (Testing Commisioning) untuk Proyek Ukuran Kompleksitas Risiko Tinggi (RT),,1
+7897,221,M.7110000.016.01,Melakukan Serah Terima Pekerjaan untuk Proyek,,1
+7898,221,M.7110000.017.01,Melakukan Evaluasi Program Kegiatan Desain untuk Proyek Ukuran Kompleksitas Risiko Moderat (RM),,1
+7899,221,M.7110000.018.01,Membuat Program Pengadaan Pelaksanaan Konstruksi untuk Proyek Ukuran Kompleksitas Risiko Moderat (RM),,1
+7900,221,M.7110000.019.01,Melaksanakan Pengadaan Pelaksanaan Konstruksi untuk Proyek Ukuran Kompleksitas Risiko Moderat (RM),,1
+7901,221,M.7110000.020.01,Melaksanakan Pengawasan pada Tahapan Pelaksanaan untuk Proyek Ukuran Kompleksitas Risiko Moderat (RM),,1
+7902,221,M.7110000.021.01,Melakukan Evaluasi Program Pelaksanaan Konstruksi untuk Proyek Ukuran Kompleksitas Risiko Moderat (RM),,1
+7903,221,M.7110000.022.01,Melakukan Pengawasan Program Pelaksanaan Konstruksi untuk Proyek Ukuran Kompleksitas Risiko Moderat (RM),,1
+7904,221,M.7110000.023.01,Melakukan Pengendalian Pelaksanaan Konstruksi untuk Proyek Ukuran Kompleksitas Risiko Moderat (RM),,1
+7905,221,M.7110000.024.01,Menyusun Program Serah Terima Pekerjaan untuk Proyek Ukuran Kompleksitas Risiko Moderat (RM),,1
+7906,221,M.7110000.025.01,Melakukan Uji Daya/Terima (Testing Commisioning) untuk Proyek Ukuran Kompleksitas Risiko Moderat (RM),,1
+7907,221,M.7110000.026.01,Melakukan Serah Terima Pekerjaan untuk Proyek Ukuran Kompleksitas Risiko Moderat (RM),,1
+7908,221,M.7110000.027.01,Melakukan Pengawasan pada Tahapan  Pelaksanaan untuk Proyek Ukuran Kompleksitas Risiko Rendah/Sederhana (RR),,1
+7909,221,M.7110000.028.01,Melakukan Evaluasi Program Pelaksanaan Konstruksi untuk Proyek Ukuran Kompleksitas Risiko Moderat (RR),,1
+7910,221,M.7110000.029.01,Melakukan Pengawasan Pelaksanaan Konsruksi Untuk Proyek ukuran Kompleksitas Risiko Moderat (RM),,1
+7911,221,M.7110000.030.01,Menyusun Program Serah Terima Pekerjaan untuk Proyek Ukuran Kompleksitas Risiko Rendah (RR),,1
+7912,221,M.7110000.031.01,Melakukan Uji Daya/Terima (Testing Commisioning) untuk Proyek Ukuran Kompleksitas Risiko Rendah (RR),,1
+177697,221,M.7110000.032.01,Melakukan Serah Terima Akhir Pekerjaan untuk Proyek Ukuran Kompleksitas Risiko Rendah/Sederhana (RR),,1
+8060,234,M.711000.001.01,Menerapkan Keselamatan dan Kesehatan Kerja (K3) Konstruksi Prasarana Lingkungan,,1
+8061,234,M.711000.002.01,Melakukan Komunikasi di Tempat Kerja Konstruksi Prasarana Lingkungan,,1
+8062,234,M.711000.003.01,Mengidentifikasi Kebutuhan Prasarana Lingkungan,,1
+8063,234,M.711000.004.01,Merumuskan Rencana Umum Pembangunan Prasarana Lingkungan,,1
+8064,234,M.711000.005.01,Menyusun Desain Konseptual  Prasarana Lingkungan,,1
+8065,234,M.711000.006.01,Menyusun Rencana Konstruksi Prasarana Lingkungan,,1
+8066,234,M.711000.007.01,Menilai Pelaksanaan Konstruksi Prasarana Lingkungan,,1
+8067,234,M.711000.008.01,Menyusun Dokumen Teknis Konstruksi Prasarana Lingkungan,,1
+8254,251,M.691001.001.01,Menerapkan Peraturan Perundang-Undangan Terkait Dengan Kontrak Konstruksi,,1
+8255,251,M.691001.002.01,Melakukan Komunikasi di Tempat Kerja,,1
+8256,251,M.691001.003.01,Merencanakan Strategi Pengadaan Kontrak Konstruksi,,1
+8257,251,M.691001.004.01,Membuat Dokumen Kontrak Konstruksi,,1
+8258,251,M.691001.005.01,Mengkaji Kontrak Konstruksi,,1
+8259,251,M.691001.006.01,Menentukan Teknik dan Strategi Negosiasi Kontrak Konstruksi,,1
+8260,251,M.691001.007.01,Mengendalikan Kontrak Kerja Konstruksi,,1
+8261,251,M.691001.008.01,Menyelesaikan Perselisihan Kontrak Konstruksi,,1
+8262,251,M.691001.009.01,Mengevaluasi Kegagalan Bangunan Dari Aspek  Kontraktual Dan Komersial,,1
+8263,251,M.691001.010.01,Menyusun Laporan Pekerjaan Kontrak Kerja Konstruksi,,1
+10140,316,F.421110.001.01,Menerapkan Keselamatan dan Kesehatan Kerja (K3),,1
+10141,316,F.421110.002.01,Melakukan Komunikasi di Tempat Kerja,,1
+10142,316,F.421110.003.01,Mengendalikan Pekerjaan  Survei Pendahuluan (Reconnaissance Survey),,1
+10143,316,F.421110.004.01,Melaksanakan Pekerjaan Pengumpulan Data,,1
+10144,316,F.421110.005.01,Melaksanakan Studi Kelayakan dan Lingkungan,,1
+10145,316,F.421110.006.01,Melaksanakan Pekerjaan Perencanaan Geometrik  Jalan,,1
+10146,316,F.421110.007.01,Melaksanakan Pekerjaan Rekayasa Lalu-Lintas,,1
+10147,316,F.421110.008.01,Melaksanakan Pekerjaan  Rekayasa Geoteknik,,1
+10148,316,F.421110.009.01,Melaksanakan Pekerjaan  Perencanaan Perkerasan Jalan,,1
+10149,316,F.421110.010.01,Melaksanakan Pekerjaan Perencanaan Drainase ,,1
+10150,316,F.421110.011.01,Melaksanakan Pekerjaan Perencanaan Dinding Penahan Tanah,,1
+10151,316,F.421110.012.01,Melaksanakan Pekerjaan Perencanaan  Bangunan Pelengkap Jalan,,1
+10152,316,F.421110.013.01,Menyiapkan Dokumen Lelang,,1
+10153,316,F.421110.014.01,Melakukan Pelaksanaan Pekerjaan Persiapan Konstruksi Jalan ,,1
+10154,316,F.421110.015.01,Melaksanakan Kegiatan Administrasi Pelaksanaan Konstruksi Jalan,,1
+10155,316,F.421110.016.01,Melaksanakan Pekerjaan Drainase,,1
+10156,316,F.421110.017.01,Melaksanakan Pekerjaan Tanah,,1
+10157,316,F.421110.018.01,Melaksanakan Pekerjaan Pelebaran Perkerasan dan Bahu Jalan,,1
+10158,316,F.421110.019.01,Melaksanakan Pekerjaan Perkerasan Berbutir dan Perkerasan Beton Semen,,1
+10159,316,F.421110.020.01,Melaksanakan Pekerjaan Perkerasan Aspal (Flexible Pavement),,1
+10160,316,F.421110.021.01,Melaksanakan Pekerjaan Struktur,,1
+10161,316,F.421110.022.01,Melaksanakan Pekerjaan Pengembalian Kondisi dan Pekerjaan Minor,,1
+10162,316,F.421110.023.01,Melaksanakan Pekerjaan Pemeliharaan Rutin,,1
+10163,316,F.421110.024.01,Melakukan Pengawasan Kegiatan Pekerjaan Persiapan Konstruksi Jalan,,1
+10164,316,F.421110.025.01,Melaksanakan Kegiatan Pengawasan Administrasi Konstruksi Jalan,,1
+10165,316,F.421110.026.01,Mengawasi Pelaksanaan Pekerjaan Drainase sesuai dengan Spesifikasi yang Disyaratkan,,1
+10166,316,F.421110.027.01,Mengawasi Pelaksanaan Pekerjaan Tanah sesuai dengan Spesifikasi yang Disyaratkan,,1
+10167,316,F.421110.028.01,Mengawasi Pelaksanaan Pekerjaan Perlebaran Perkerasan dan Bahu Jalan sesuai dengan Spesifikasi yang Disyaratkan,,1
+10168,316,F.421110.029.01,Mengawasi Pelaksanaan Pekerjaan Perkerasan Berbutir dan Perkerasan Beton Semen sesuai dengan Spesifikasi yang Disyaratkan,,1
+10169,316,F.421110.031.01,Mengawasi Pelaksanaan Pekerjaan Struktur sesuai dengan Spesifikasi yang Disyaratkan,,1
+10170,316,F.421110.032.01,Mengawasi Pelaksanaan Pekerjaan Pengembalian Kondisi dan Pekerjaan Minor sesuai dengan Spesifikasi yang Disyaratkan,,1
+10171,316,F.421110.033.01,Mengawasi Pelaksanaan Pekerjaan Pemeliharaan Rutin sesuai dengan Spesifikasi yang Disyaratkan,,1
+10172,316,F.421110.034.01,Membuat Laporan Akhir Teknik Jalan,,1
+10173,316,F.421110030.01,Mengawasi Pelaksanaan Pekerjaan Perkerasan Aspal (Flexible Pavement) sesuai dengan Spesifikasi yang Disyaratkan,,1
+10174,317,F.421120.001.01,Menerapkan Keselamatan dan Kesehatan Kerja (K3),,1
+10175,317,F.421120.002.01,Melakukan Komunikasi di Tempat Kerja,,1
+10176,317,F.421120.003.01,Mengendalikan Pelaksanaan Survei Lapangan,,1
+10177,317,F.421120.004.01,Membuat Perancangan Bangunan Atas Jembatan Standar,,1
+10178,317,F.421120.005.01,Membuat Perancangan Bangunan Atas Jembatan Non Standar,,1
+10179,317,F.421120.006.01,Membuat Perancangan Bangunan Bawah Jembatan ,,1
+10180,317,F.421120.007.01,Membuat Perancangan Bangunan Pengaman,,1
+10181,317,F.421120.008.01,Membuat Perancangan Oprit Jembatan (Jalan Pendekat),,1
+10182,317,F.421120.009.01,Membuat Dokumen Tender,,1
+10183,317,F.421120.010.01,Melaksanakan Pekerjaan Persiapan Konstruksi Jembatan,,1
+10184,317,F.421120.011.01,Melaksanakan Kegiatan Administrasi Pelaksanaan Konstruksi Jembatan,,1
+10185,317,F.421120.012.01,Melaksanakan Pekerjaan Oprit (Jalan Pendekat),,1
+10186,317,F.421120.013.01,Melaksanakan Pekerjaan Pondasi,,1
+10187,317,F.421120.014.01,Melaksanakan Pekerjaan Bangunan Bawah Jembatan,,1
+10188,317,F.421120.015.01,Melaksanakan Pekerjaan Bangunan Atas Jembatan Standar,,1
+10189,317,F.421120.016.01,Melakukan Pelaksanaan Pekerjaan Bangunan Atas Jembatan Non Standar,,1
+10190,317,F.421120.017.01,"Melaksanakan Pekerjaan Bangunan Pelengkap, Pengaman",,1
+10191,317,F.421120.018.01,Mengawasi Tercapainya Spesifikasi yang Disyaratkan untuk Pekerjaan Persiapan Pelaksanaan Konstruksi Jembatan,,1
+10192,317,F.421120.019.01,Mengawasi Tercapainya Spesifikasi yang Disyaratkan untuk Pelaksanaan Pekerjaan Oprit (Jalan Pendekat),,1
+10193,317,F.421120.020.01,Mengawasi Tercapainya Spesifikasi yang Disyaratkan untuk Pelaksanaan Pekerjaan Pondasi,,1
+10194,317,F.421120.021.01,Mengawasi Tercapainya Spesifikasi yang Disyaratkan untuk Pelaksanaan Pekerjaan Bangunan Bawah,,1
+10195,317,F.421120.022.01,Mengawasi Tercapainya Spesifikasi yang Disyaratkan untuk Pelaksanaan Pekerjaan Bangunan Atas Jembatan Standar,,1
+10196,317,F.421120.023.01,Mengawasi Tercapainya Spesifikasi yang Disyaratkan untuk Pelaksanaan Pekerjaan Bangunan Atas Jembatan Non Standar,,1
+10197,317,F.421120.024.01,Mengawasi Tercapainya Spesifikasi yang Disyaratkan untuk Pelaksanaan Pekerjaan Bangunan Pelengkap dan Pengaman,,1
+10198,317,F.421120.025.01,Melaksanakan Pekerjaan Pemeriksaan Kondisi Jembatan,,1
+10199,317,F.421120.026.01,Melaksanakan Pekerjaan Pemeliharaan Jembatan,,1
+10200,317,F.421120.027.01,Melaksanakan Pekerjaan Rehabilitasi Jembatan,,1
+10201,317,F.421120.028.01,Membuat Laporan Akhir,,1
+10202,318,F.422110.001.01,Menerapkan Ketentuan dan Peraturan dalam Perencanaan Awal Sumber Daya Air (SDA),,1
+10203,318,F.422110.002.01,Menerapkan Komunikasi di Tempat Kerja,,1
+10204,318,F.422110.003.01,Melaksanakan Pekerjaan Persiapan Perencanaan Awal Sumber Daya Air ,,1
+10205,318,F.422110.004.01,"Melakukan Analisis Water Balance, Design Flood dan Gelombang Rencana",,1
+10206,318,F.422110.005.01,"Mendisain Lay Out Jaringan, Sarana dan Prasarana Sumber Daya Air",,1
+10207,318,F.422110.006.01,Mengkaji Hasil Perencanaan Pendahuluan,,1
+10208,318,F.422110.007.01,Melaksanakan Pekerjaan Persiapan Perencanaan Detail Sumber Daya Air,,1
+10209,318,F.422110.008.01,Melaksanakan Perhitungan Perencanaan Detail Sarana & Prasarana  Sumber Daya Air,,1
+10210,318,F.422110.009.01,Mengkaji Hasil Perhitungan Perencanaan Detail Sarana & Prasarana Sumber Daya Air,,1
+10211,318,F.422110.010.01,Membuat Gambar Perencanaan Detail Sarana dan Prasarana Sumber Daya Air,,1
+10212,318,F.422110.011.01,Membuat Desain Final Sarana dan Prasarana Sumber Daya Air,,1
+10213,318,F.422110.012.01,Mengkaji Gambar Perencanaan Detail dan Pembuatan Desain Final Sarana dan Prasarana Sumber Daya ,,1
+10214,318,F.422110.013.01,Membuat Laporan Pekerjaan,,1
+10215,318,F.422110.014.01,"Melaksanakan Manajemen Pendukung Pekerjaan Bidang K3, Lingkungan dan Sistem Mutu",,1
+10216,318,F.422110.015.01,Mengkaji Dokumen Kontrak,,1
+10217,318,F.422110.016.01,Membuat Program Kerja ,,1
+10218,318,F.422110.017.01,Melaksanakan Pekerjaan Persiapan Konstruksi Sumber Daya Air,,1
+10219,318,F.422110.018.01,Mengelola Keuangan dan Sumber Daya Manusia,,1
+10220,318,F.422110.019.01,Mengelola Administrasi Teknik,,1
+10221,318,F.422110.020.01,Mengendalikan Pelaksanaan Pekerjaan Irigasi,,1
+10222,318,F.422110.021.01,Mengendalikan Pelaksanaan Pekerjaan Sungai,,1
+10223,318,F.422110.022.01,Mengendalikan Pelaksanaan Pekerjaan Rawa,,1
+10224,318,F.422110.023.01,Mengendalikan Pelaksanaan Pekerjaan Pantai,,1
+10225,318,F.422110.024.01,Mengendalikan Pelaksanaan Pekerjaan Konservasi ,,1
+10226,318,F.422110.025.01,Mengendalikan Pelaksanaan Pekerjaan Air Baku,,1
+10227,318,F.422110.026.01,"Melakukan Pengendalian Biaya, Mutu dan Waktu",,1
+10228,318,F.422110.027.01,Melakukan Proses Serah Terima Pekerjaan ,,1
+10229,318,F.422110.028.01,Memeriksa Kesiapan Kontraktor untuk Memulai Pelaksanaan Pekerjaan,,1
+10230,318,F.422110.029.01,Melakukan Supervisi Pelaksanaan Pekerjaan Irigasi,,1
+10231,318,F.422110.030.01,Melakukan Supervisi Pelaksanaan Pekerjaan Sungai,,1
+10232,318,F.422110.031.01,Melakukan Supervisi Pelaksanaan Pekerjaan Rawa,,1
+10233,318,F.422110.032.01,Melakukan Supervisi Pelaksanaan Pekerjaan Pantai,,1
+10234,318,F.422110.033.01,Melakukan Supervisi Pelaksanaan Pekerjaan Konservasi,,1
+10235,318,F.422110.034.01,Melakukan Supervisi Pelaksanaan Pekerjaan Air Baku,,1
+10236,318,F.422110.035.01,"Melakukan Pengawasan Mutu, Kuantitas dan Waktu",,1
+10237,318,F.422110.036.01,Mengevaluasi Kinerja Kontraktor,,1
+10238,318,F.422110.037.01,Melakukan Pengukuran Bersama untuk Penerbitan Sertifikat Pembayaran,,1
+10239,318,F.422110.038.01,Membuat Laporan Pekerjaan Supervisi,,1
+10240,318,F.422110.039.01,Melakukan Supervisi Proses Serah Terima Pekerjaan,,1
+10411,340,F.421110.001.01,Menerapkan Peraturan Perundang-Undangan dan Sistem Manajemen Keselamatan dan Kesehatan Kerja dan Lingkungan (SMK3-L) pada Kegiatan Pemeliharaan Jalan dan Jembatan,,1
+10412,340,F.421110.002.01,Melakukan Komunikasi di Tempat Kerja,,1
+10413,340,F.421110.003.01,"Melakukan Inventarisasi Data Kinerja Jalan, Kinerja Jembatan, Perlengkapan Jalan dan Perlengkapan Jembatan",,1
+10414,340,F.421110.004.01,"Menganalisis Hasil Inventarisasi Data Kinerja Jalan, Kinerja Jembatan,  Perlengkapan Jalan dan Perlengkapan Jembatan",,1
+10415,340,F.421110.005.01,Membuat Rencana Pelaksanaan Pemeliharaan,,1
+10416,340,F.421110.006.01,Membuat Laporan Akhir Rencana Pelaksanaan Pemeliharaan ,,1
+10417,341,F.422120.001.01,"Menerapkan Keselamatan, dan Kesehatan Kerja terkait dengan pekerjaan perencanaan jaringan drainase",,1
+10418,341,F.422120.002.01,Melakukan Komunikasi di Tempat Kerja,,1
+10419,341,F.422120.003.01,Melakukan Pekerjaan Persiapan,,1
+10420,341,F.422120.004.01,Melaksanakan Pekerjaan Survei dan Investigasi Lapangan,,1
+10421,341,F.422120.005.01,Melakukan Analisis Kawasan Perencanaan,,1
+10422,341,F.422120.006.01,Merencanakan Sistem Jaringan Drainase,,1
+10423,341,F.422120.007.01,Membuat Detail Desain Jaringan Drainase,,1
+10424,341,F.422120.008.01,Membuat Rencana Anggaran Biaya,,1
+10425,341,F.422120.009.01,Membuat Prinsip-Prinsip Rencana Operasi dan Pemeliharaan,,1
+10426,341,F.422120.010.01,Membuat Laporan Perencanaan Jaringan Drainase,,1
+10427,342,F.421120.001.01,"Menerapkan Peraturan Perundang-Undangan, Sistem Manajemen Keselamatan dan Kesehatan Kerja (SMK3) dan Sistem Manajemen Lingkungan (SML) pada Kegiatan Perencanaan Jembatan Rangka Baja",,1
+10428,342,F.421120.002.01,Melakukan Komunikasi di Tempat Kerja,,1
+10429,342,F.421120.003.01,Melaksanakan Pekerjaan Persiapan,,1
+10430,342,F.421120.004.01,Membuat Pra Desain (Preliminary Design) Jembatan Rangka Baja,,1
+10431,342,F.421120.005.01,Merencanakan Struktur Atas Jembatan Rangka Baja,,1
+10432,342,F.421120.006.01,Menyiapkan Dokumen Lelang ,,1
+10433,342,F.421120.007.01,Membuat Laporan Akhir ,,1
+10434,343,F.422110.001.01,Menerapkan Keselamatan dan Kesehatan Kerja (K3),,1
+10435,343,F.422110.002.01,Melakukan Komunikasi di Tempat Kerja,,1
+10436,343,F.422110.003.01,Melakukan Pekerjaan Persiapan Operasi dan Pemeliharaan Jaringan Irigasi,,1
+10437,343,F.422110.004.01,Merencanakan Operasi Jaringan Irigasi,,1
+10438,343,F.422110.005.01,Merencanakan Pemeliharaan Jaringan Irigasi,,1
+10439,343,F.422110.006.01,Melakukan Pemantauan dan Pemeriksaan Ulang Pekerjaan Operasi dan Pemeliharaan Jaringan Irigasi,,1
+10440,343,F.422110.007.01,Membuat Laporan Hasil Pekerjaan Operasi dan Pemeliharaan Jaringan Irigasi,,1
+10441,344,F.429110.001.01,Menerapkan Keselamatan dan Kesehatan Kerja (K3) ,,1
+10442,344,F.429110.002.01,Melakukan Komunikasi di Tempat Kerja,,1
+10443,344,F.429110.003.01,Melakukan Persiapan Pekerjaan  Operasi dan Pemeliharaan Prasarana Sungai serta Pemeliharaan Sungai,,1
+10444,344,F.429110.004.01,Membuat Perencanaan Operasi Prasarana Sungai ,,1
+10445,344,F.429110.005.01,Membuat Perencanaan Pemeliharaan Untuk Pencegahan Kerusakan dan/atau Penurunan Fungsi Prasarana Sungai Serta Penurunan Fungsi Sungai,,1
+10446,344,F.429110.006.01,Membuat Perencanaan Perbaikan Terhadap Kerusakan Prasarana Sungai serta Kerusakan Sungai  ,,1
+10447,344,F.429110.007.01,Membuat Perencanaan Konservasi Sungai  ,,1
+10448,344,F.429110.008.01,Membuat Perencanaan  Pemantauan dan Evaluasi Operasi dan Pemeliharaan,,1
+10449,344,F.429110.009.01,Membuat Laporan Perencanaan Operasi Prasarana Sungai dan Pemeliharaan Prasarana Sungai serta Pemeliharaan Sungas,,1
+10450,345,F.421120.001.01,Menerapkan Peraturan Perundang-Undangan dan Sistem Manajemen Keselamatan dan Kesehatan Kerja dan Lingkungan (SMK3-L) pada Kegiatan Rehabilitasi Jembatan,,1
+10451,345,F.421120.002.01,Melakukan Komunikasi di Tempat Kerja,,1
+10452,345,F.421120.003.01,Melakukan Pekerjaan Persiapan Rehabilitasi Jembatan,,1
+10453,345,F.421120.004.01,Melakukan Pemeriksaan Kerusakan Jembatan,,1
+10454,345,F.421120.005.01,Melakukan Analisis Kerusakan Jembatan,,1
+10455,345,F.421120.006.01,Membuat Rencana Pelaksanaan Rehabilitasi Jembatan,,1
+10456,345,F.421120.007.01,Melaksanakan  Pekerjaan Rehabilitasi Jembatan,,1
+10457,345,F.421120.008.01,Membuat Laporan Rekomendasi Pelaksanaan Rehabilitasi Jembatan,,1
+10541,348,F.421120.001.01,Menerapkan Ketentuan Keselamatan dan Kesehatan Kerja dan Lingkungan pada Pengoperasian Launching Girder,,1
+10542,348,F.421120.002.01,Menerapkan Komunikasi dan Kerjasama di Tempat Kerja,,1
+10543,348,F.421120.003.01,Melakukan Pemeliharaan Harian Launching Girder,,1
+10544,348,F.421120.004.01,Mengoperasikan Launching Girder untuk Pemasangan Monolith Girder,,1
+10545,348,F.421120.005.01,Mengoperasikan Launching Girder untuk Pemasangan Precast Segmental Girder,,1
+10546,348,F.421120.006.01,Melakukan Pemindahan Launching Girder,,1
+10547,349,F.429110.001.01,"Melaksanakan Keselamatan, Kesehatan Kerja pada Pekerjaan Pemeliharaan Bendungan",,1
+10548,349,F.429110.002.01,Menerapkan Komunikasi di Tempat Kerja,,1
+10549,349,F.429110.003.01,Melakukan Persiapan Pekerjaan Pelaksanaan Operasi dan Pemeliharaan Bendungan beserta Bangunan Pelengkapnya,,1
+10550,349,F.429110.004.01,Melaksanakan Pekerjaan Operasi Bendungan,,1
+10551,349,F.429110.005.01,"Melaksanakan Pekerjaan Pemeliharaan Bendungan, Waduk dan Bangunan Pelengkapnya",,1
+10552,349,F.429110.006.01,Melaksanakan Pekerjaan Pemeliharaan Peralatan Instrumentasi dan Hidroklimatologi,,1
+10553,349,F.429110.007.01,Melaksanakan Penanggulangan/Perbaikan Darurat Bendungan,,1
+10554,349,F.429110.008.01,Membuat Laporan Hasil Pelaksanaan Pekerjaan Operasi dan Pemeliharaan Bendungan,,1
+10555,350,F.422110.001.01,"Melaksanakan Keselamatan, Kesehatan Kerja pada Pekerjaan Pemeliharaan Jaringan Irigasi",,1
+10556,350,F.422110.002.01,Menerapkan Komunikasi dan Kerjasama di Tempat Kerja,,1
+10557,350,F.422110.003.01,Melakukan Persiapan Pekerjaan Pemeliharaan Jaringan Irigasi,,1
+10558,350,F.422110.004.01,Melaksanakan Pekerjaan Pemeliharaan Jaringan Irigasi,,1
+10559,350,F.422110.005.01,Melaksanakan Penaggulangan/Perbaikan Darurat Jaringan Irigasi,,1
+10560,350,F.422110.006.01,Membuat Laporan Pelaksanaan Pekerjaan Pemeliharaan Jaringan Irigasi,,1
+10561,351,F.429110.001.01,"Melaksanakan Keselamatan, Kesehatan Kerja pada Pekerjaan Pemeliharaan Sungai",,1
+10562,351,F.429110.002.01,Menerapkan Komunikasi dan Kerjasama di Tempat Kerja,,1
+10563,351,F.429110.003.01,Melakukan Persiapan Pekerjaan Pemeliharaan Sungai,,1
+10564,351,F.429110.004.01,Melaksanakan Pekerjaan Pemeliharaan untuk Pencegahan Kerusakan dan/atau Penurunan Fungsi Prasarana Sungai serta Penurunan Fungsi Sungai,,1
+10565,351,F.429110.005.01,Melaksanakan Pekerjaan Perbaikan terhadap Kerusakan Prasarana Sungai serta Kerusakan Sungai,,1
+10566,351,F.429110.006.01,Membuat Laporan Pelaksanaan Pekerjaan Pemeliharaan Sungai,,1
+10567,352,F.421110.001.01,Menerapkan Peraturan Perundang-Undangan dan Sistem Manajemen Keselamatan dan Kesehatan Kerja dan Lingkungan (SMK3-L) pada Kegiatan Pemeliharaan Jalan,,1
+10568,352,F.421110.002.01,Melakukan Komunikasi di Tempat Kerja,,1
+10569,352,F.421110.003.01,Melaksanakan Pekerjaan Persiapan Pemeliharaan Jalan,,1
+10570,352,F.421110.004.01,Melaksanakan Survei Lapangan,,1
+10571,352,F.421110.005.01,Menyusun Rencana Pelaksanaan Pemeliharaan Jalan,,1
+10572,352,F.421110.006.01,Melaksanakan jenis-jenis pekerjaan pemeliharaan jalan,,1
+10573,352,F.421110.007.01,Membuat Laporan Akhir Pelaksanaan Pemeliharaan Jalan,,1
+10574,353,F.421120.001.01,Menerapkan Peraturan Perundang-Undangan dan Sistem Manajemen Keselamatan dan Kesehatan Kerja dan Lingkungan (SMK3-L) pada Kegiatan Pemeliharaan Jembatan,,1
+10575,353,F.421120.002.01,Melakukan Komunikasi di Tempat Kerja,,1
+10576,353,F.421120.003.01,Melaksanakan Pekerjaan Persiapan Pemeliharaan Jembatan,,1
+10577,353,F.421120.004.01,Melakukan Survei Lapangan,,1
+10578,353,F.421120.005.01,Membuat Rencana Pelaksanaan Pemeliharaan Jembatan,,1
+10579,353,F.421120.006.01,Melaksanakan  Pekerjaan Pemeliharaan Jembatan,,1
+10580,353,F.421120.007.01,Membuat Jembatan Sementara,,1
+10581,353,F.421120.008.01,Melakukan Perbaikan Komponen Jembatan,,1
+10582,353,F.421120.009.01,Membuat Laporan Akhir Pekerjaan Pemeliharaan Jembatan,,1
+10583,354,F.422120.001.01,Menerapkan Keselamatan dan Kesehatan Kerja terkait Pengawas Pekerjaan Drainase,,1
+10584,354,F.422120.002.01,Melakukan Komunikasi di Tempat Kerja,,1
+10585,354,F.422120.003.01,Melakukan Persiapan Pekerjaan Pengawasan,,1
+10586,354,F.422120.004.01,Mengawasi Pekerjaan Pengukuran dan Pembuatan Bouwplank Drainase,,1
+10587,354,F.422120.005.01,Mengawasi Pekerjaan Penggalian Badan Saluran dan Pondasi Bangunan Pelengkap Drainase,,1
+10588,354,F.422120.006.01,Mengawasi Pekerjaan Pemasangan Badan Saluran dan Bangunan Pelengkap Drainase,,1
+10589,354,F.422120.007.01,Membuat Laporan Hasil Pengawasan,,1
+10590,355,F.421120.001.01,Menerapkan Peraturan Perundang-Undangan dan Sistem Manajemen Keselamatan dan Kesehatan Kerja dan Lingkungan (SMK3-L) pada Kegiatan Pemasangan Jembatan Rangka Baja,,1
+10591,355,F.421120.002.01,Melakukan Komunikasi di Tempat Kerja,,1
+10592,355,F.421120.003.01,Melaksanakan Pekerjaan Persiapan Pemasangan Jembatan Rangka Baja,,1
+10593,355,F.421120.004.01,Melakukan Peninjauan Lapangan untuk Mengetahui Kesesuaian dengan Dokumen Kontrak,,1
+10594,355,F.421120.005.01,Menyusun Rencana Kerja Pemasangan Jembatan Rangka Baja,,1
+10595,355,F.421120.006.01,Melaksanakan Pekerjaan Pemasangan Jembatan Rangka Baja,,1
+10596,355,F.421120.007.01,Membuat Laporan Hasil Pelaksanaan Pemasangan Jembatan Rangka Baja,,1
+10597,356,F.421200.001.01,Menerapkan Ketentuan Keselamatan dan Kesehatan Kerja di Tempat Kerja,,1
+10598,356,F.421200.002.01,Menerapkan Komunikasi dan Kerjasama di Tempat Kerja,,1
+10599,356,F.421200.003.01,Melakukan Pekerjaan Persiapan,,1
+10600,356,F.421200.004.01,Memasang Selubung Strand dan Aksesorisnya,,1
+10601,356,F.421200.005.01,Memeriksa Kesiapan Lokasi Kerja untuk Stressing,,1
+10602,356,F.421200.006.01,Melaksanakan Stressing,,1
+10682,364,F.410100.001.02,"Menerapkan Peraturan Perundang-Undangan, Sistem Manajemen Mutu (SMM), dan Sistem Manajemen Keselamatan dan Kesehatan Kerja dan Lingkungan (SMK3L)",,1
+10683,364,F.410100.002.02,Melakukan Komunikasi di Tempat Kerja,,1
+10684,364,F.410100.003.02,Menyusun Rencana Pelaksanaan,,1
+10685,364,F.410100.004.02,Melakukan Pekerjaan Persiapan,,1
+10686,364,F.410100.005.02,Mengelola Pekerjaan Pelaksanaan,,1
+10687,364,F.410100.006.02,Melakukan Pekerjaan Akhir,,1
+10688,365,F.410100.001.02,Menerapkan Sistem Manajemen Keselamatan dan Kesehatan Kerja serta Lingkungan Hidup (SMK3 LH),,1
+10689,365,F.410100.002.02,Menentukan Target Keuntungan,,1
+10690,365,F.410100.003.02,Melaksanakan Pengelolaan Sumber Daya Manusia,,1
+10691,365,F.410100.004.02,Melaksanakan Pengelolaan Urusan Umum,,1
+10692,365,F.410100.005.02,Melaksanakan Pengelolaan Keuangan,,1
+10693,365,F.410100.006.02,Melaksanakan Pengelolaan Pemasaran,,1
+10694,365,F.410100.007.02,Melaksanakan Pengelolaan  Keamanan,,1
+10695,365,F.410100.008.02,Melaksankan Pengelolaan Pengoperasian,,1
+10696,365,F.410100.009.02,Melaksanakan Pengelolaan Pemeliharaan,,1
+10697,365,F.410100.010.02,Melaksanakan Pengelolaan Perawatan,,1
+10698,365,F.410100.011.02,Membuat Laporan Pengelolaan Bangunan Gedung ,,1
+10699,366,F.410100.001.02,Melaksanakan Ketentuan Keselamatan dan Kesehatan Kerja dan Lingkungan (K3L) di Tempat Kerja,,1
+10700,366,F.410100.002.02,Melakukan Komunikasi di Tempat Kerja,,1
+10701,366,F.410100.003.02,Melaksanakan Pekerjaan Persiapan,,1
+10702,366,F.410100.004.02,Melaksanakan Pekerjaan Pondasi,,1
+10703,366,F.410100.005.02,Melaksanakan Pekerjaan Struktur ,,1
+10704,366,F.410100.006.02,Melaksanakan Pekerjaan Arsitektur,,1
+10705,366,F.410100.007.02,Membuat  Laporan Pelaksanaan Pekerjaan,,1
+10719,368,F.410100.001.02,"Melaksanakan Persyaratan Kesehatan dan Keselamatan Kerja dan Lingkungan (K3L), serta Peraturan Perundang-Undangan yang Terkait dengan Pelaksanaan Pekerjaan",,1
+10720,368,F.410100.002.02,Melakukan Komunikasi Timbal Balik di Tempat Kerja,,1
+10721,368,F.410100.003.02,Menggunakan Peralatan Manual dan Peralatan Listrik ,,1
+10722,368,F.410100.004.02,Menyiapkan Proses Konstruksi Kayu,,1
+10723,368,F.410100.005.02,Membuat Komponen Bangunan ,,1
+10724,368,F.410100.006.02,Memasang Perancah dan Bekisting Kayu,,1
+10725,368,F.410100.007.02,Memasang Rangka Plafon dan Penutup Plafon ,,1
+10726,368,F.410100.008.02,Merakit Kuda-Kuda dan Memasang Rangka Atap,,1
+10727,368,F.410100.009.02,"Memasang dan Menyetel Kusen, Daun Pintu dan Jendela",,1
+10728,368,F.410100.010.02,Merakit dan Memasang Tangga serta Railing dari Kayu,,1
+10729,368,F.410100.011.02,Merakit dan Memasang Konstruksi Lantai Kayu,,1
+10730,368,F.410100.012.02,Memasang Lantai Parket,,1
+10731,368,F.410100.013.02,Merakit dan Memasang Dinding Kayu ,,1
+10760,370,F.432910.001.01,"Menerapkan Keselamatan dan Kesehatan Kerja (K3), Manajemen Lingkungan dan Manajemen Sistem Mutu",,1
+10761,370,F.432910.002.01,Menerapkan Komunikasi dan Koordinasi,,1
+10762,370,F.432910.003.01,Menganalisis dan Mengimplementasikan Dokumen Kontrak Perencanaan dan Kerangka Acuan Kerja (KAK),,1
+10763,370,F.432910.004.01,"Menganalisis Gambar Arsitek, Data Hasil Survei  dan Hasil Diskusi dengan Ahli Lainnya",,1
+10764,370,F.432910.005.01,Merencanakan Pekerjaan Sistem Plambing,,1
+10765,370,F.432910.006.01,Merencanakan Pekerjaan Sistem Tata Udara,,1
+10766,370,F.432910.007.01,Merencanakan Pekerjaan Sistem Transportasi Gedung,,1
+10767,370,F.432910.008.01,Membuat Laporan Pekerjaan Perencanaan  ,,1
+10768,370,F.432910.009.01,Mengkaji Dokumen Kontrak,,1
+10769,370,F.432910.010.01,Membuat Program Kerja dan Metode Kerja,,1
+10770,370,F.432910.011.01,Melaksanakan Pekerjaan Persiapan,,1
+10771,370,F.432910.012.01,Mengelola Keuangan dan SDM,,1
+10772,370,F.432910.013.01,Mengelola Administrasi Teknik,,1
+10773,370,F.432910.014.01,Mengendalikan Pelaksanaan Pekerjaan Sistem Plambing,,1
+10774,370,F.432910.015.01,Mengendalikan Pelaksanaan Pekerjaan Sistem Tata Udara,,1
+10775,370,F.432910.016.01,Mengendalikan Pelaksanaan Pekerjaan Sistem Transportasi Gedung,,1
+10776,370,F.432910.017.01,"Melakukan Pengendalian Biaya, Mutu dan Waktu",,1
+10777,370,F.432910.018.01,Melaksanakan Proses Serah Terima Pekerjaan,,1
+10778,370,F.432910.019.01,Mengkaji Dokumen Kontrak Kontraktor dan Konsultan Supervisi,,1
+10779,370,F.432910.020.01,Memeriksa Kesiapan Kontraktor untuk Memulai Pelaksanaan Pekerjaan,,1
+10780,370,F.432910.021.01,Melakukan Pengawasan Pekerjaan Sistem Plambing,,1
+10781,370,F.432910.022.01,Melakukan Pengawasan Pekerjaan Sistem Tata Udara ,,1
+10782,370,F.432910.023.01,Melakukan Pengawasan Pekerjaan Sistem Transportasi Gedung ,,1
+10783,370,F.432910.024.01,Mengevaluasi Kinerja Kontraktor,,1
+10784,370,F.432910.025.01,Melakukan Pengukuran Bersama untuk Penerbitan Sertifikat Pembayaran,,1
+10785,370,F.432910.026.01,Membuat Laporan Pekerjaan Pengawasan,,1
+10786,370,F.432910.027.01,Melakukan Supervisi Proses Serah Terima Pekerjaan,,1
+10861,381,F.431100.001.01,Menerapkan Keselamatan dan Kesehatan Kerja terkait dengan Pelaksanaan Pembongkaran,,1
+10862,381,F.431100.002.01,Melakukan Komunikasi di Tempat Kerja,,1
+10863,381,F.431100.003.01,Melakukan Persiapan Pelaksanaan Pembongkaran Bangunan Gedung dan/atau Bangunan,,1
+10864,381,F.431100.004.01,Melakukan Pembongkaran Bangunan Gedung dan/atau Bangunan dengan Peledakan,,1
+10865,381,F.431100.005.01,Melakukan Pembongkaran Bangunan Gedung dan/atau Bangunan dengan Alat Berat,,1
+10866,381,F.431100.006.01,Membuat Laporan Hasil Pelaksanaan Pembongkaran,,1
+10873,383,F.439010.001.01,Menerapkan Ketentuan Keselamatan dan Kesehatan Kerja dan Lingkungan pada Pengoperasian Mesin Bore Pile,,1
+10874,383,F.439010.002.01,Menerapkan Komunikasi dan Kerjasama di Tempat Kerja,,1
+10875,383,F.439010.003.01,Melakukan Pemeliharaan Harian Mesin Bore Pile Sebelum Operasi,,1
+10876,383,F.439010.004.01,Melakukan Persiapan Pengoperasian Mesin Bore Pile,,1
+10877,383,F.439010.005.01,Mengoperasikan Mesin Bore Pile Sesuai Spesifikasi Pekerjaan,,1
+10878,383,F.439010.006.01,Melakukan Pemeliharaan Harian Mesin Bore Pile Setelah Operasi,,1
+10879,383,F.439010.007.01,Membuat Laporan Pekerjaan,,1
+10880,384,F.439050.001.02,Menerapkan Ketentuan Keselamatan dan Kesehatan Kerja serta Lingkungan dalam Pengoperasian Dump Truck,,1
+10881,384,F.439050.002.02,Melakukan Komunikasi dan Kerjasama di Tempat Kerja,,1
+10882,384,F.439050.003.02,Melakukan Pemeliharaan Harian Dump Truck,,1
+10883,384,F.439050.004.02,Melakukan Persiapan Pengoperasian Dump Truck,,1
+10884,384,F.439050.005.02,Mengoperasikan Dump Truck Sesuai dengan Prosedur,,1
+10885,384,F.439050.006.02,Melakukan Pemeliharaan setelah Selesai Pengoperasian Dump Truck,,1
+10886,385,F.432210.001.01,Menerapkan  Komunikasi Di Tempat Kerja,,1
+26803,385,F.432210.001.01,Menerapkan Keselamatan dan Kesehatan Kerja (K3),,1
+10887,385,F.432210.003.01,Melakukan Pekerjaan Persiapan Sistem Plambing,,1
+10888,385,F.432210.004.01,Mengelola Pekerjaan Sistem Plambing dan Kelengkapannya,,1
+10889,385,F.432210.005.01,Menguji Performa Sistem  Plambing Terpasang,,1
+10890,385,F.432210.006.01,Menyusun Laporan Hasil Pekerjaan,,1
+10891,386,F.439020.001.02,Menerapkan Peraturan Keselamatan dan Kesehatan Kerja dan Lingkungan (K3L) di Tempat Kerja ,,1
+10892,386,F.439020.002.02,Menerapkan Komunikasi dan Kerjasama di Tempat Kerja,,1
+10893,386,F.439020.003.02,Melaksanakan Pengukuran dan Pemasangan Bouwplank   ,,1
+10894,386,F.439020.004.02,Melaksanakan Pemasangan Perancah  dan Acuan/Cetakan Beton dari Bahan Kayu,,1
+10895,386,F.439020.005.02,Melaksanakan Pemasangan Perancah  dan Acuan/Cetakan Beton dari Bahan Logam,,1
+10896,386,F.439020.006.02,Melaksanakan Pembongkaran  Perancah  dan Acuan/Cetakan Beton,,1
+10897,386,F.439020.007.02,Melakukan Pemeliharaan Komponen Perancah  dan Acuan/Cetakan Beton,,1
+10898,387,F.432910.001.01,Menerapkan Keselamatan dan Kesehatan Kerja (K3),,1
+10899,387,F.432910.002.01,Melakukan Komunikasi di Tempat Kerja,,1
+10900,387,F.432910.003.01,Melakukan Persiapan Pengawasan Pekerjaan Mekanikal  ,,1
+10901,387,F.432910.004.01,Melaksanakan Pengawasan Pekerjaan Mekanikal ,,1
+10902,387,F.432910.005.01,Membuat Laporan Hasil Pengawasan Pekerjaan Mekanikal ,,1
+10903,388,F.432230.001.01,Melaksanakan Keselamatan dan Kesehatan Kerja,,1
+10904,388,F.432230.002.01,Menggunakan Peralatan Kerja Perpipaan dan/atau Jenis Material dan Baja,,1
+10905,388,F.432230.003.01,Menerapkan Dasar-Dasar Perhitungan Perpipaan,,1
+10906,388,F.432230.004.01,Menerapkan Dasar-Dasar Pemasangan Pipa dan/atau Penyetelan Fitting dengan Pipa,,1
+10907,388,F.432230.005.01,Membaca dan Menghitung Ukuran-Ukuran Spool Pipa pada Gambar Isometrik,,1
+10908,388,F.432230.006.01,Memotong Logam dengan Menggunakan Alat potong/Obor potong nyala,,1
+10909,388,F.432230.007.01,Merakit/Fabrikasi Pipa,,1
+10910,388,F.432230.008.01,Melakukan Evaluasi Hasil Kerja,,1
+10673,363,F.410100.001.01,Menerapkan Peraturan Perundang-Undangan Terkait Pekerjaan Konstruksi dan Sistem Manajemen Keselamatan dan Kesehatan Kerja dan Lingkungan (SMK3L),,1
+10674,363,F.410100.002.01,Melakukan Komunikasi di Tempat Kerja ,,1
+10675,363,F.410100.003.01,Mengevaluasi Kondisi Lingkungan (Site)  di Lokasi Rencana Gedung Sesuai dengan Analisis Mengenai Dampak Lingkungan (AMDAL),,1
+10676,363,F.410100.004.01,Membuat Rancang Bangun Konstruksi Berdasarkan Desain Arsitektur  ,,1
+10677,363,F.410100.005.01,Merancang Persyaratan Teknis Konstruksi Bangunan Gedung,,1
+10678,363,F.410100.006.01,Membuat Metode Kerja Pekerjaan Konstruksi Terkait Rekayasa Desain Konstruksi,,1
+10679,363,F.410100.007.01,Menyusun Standar Quality Control  Hasil Rekayasa Konstruksi,,1
+10680,363,F.410100.008.01,Melakukan Rekayasa Ulang Konstruksi ,,1
+10681,363,F.410100.009.01,Membuat Laporan Pekerjaan Rekayasa Konstruksi Bangunan Gedung,,1
+7913,222,S.941200.001.01,Melaksanakan Penerapan Peraturan Perundang-undangan di Bidang K3 Konstruksi,,1
+7914,222,S.941200.002.01,Melakukan Komunikasi di Tempat Kerja Konstruksi,,1
+7915,222,S.941200.003.01,Merencanakan Program Pengawasan,,1
+7916,222,S.941200.004.01,Melakukan Persiapan Pelaksanaan Pengawasan,,1
+7917,222,S.941200.005.01,Melaksanakan Kegiatan Pengawasan,,1
+7918,222,S.941200.006.01,Melakukan Evaluasi Program Pengawasan,,1
+7919,222,S.941200.007.01,Mengawasi Tindakan Perbaikan,,1
+7920,222,S.941200.008.01,Membuat Laporan Pelaksanaan,,1
+7921,222,S.941200.009.01,Mengidentifikasi Peraturan Perundang-Undangan dan Standar K3 yang Diperlukan,,1
+7922,222,S.941200.010.01,Melaksanakan Konsultasi dan Komunikasi K3,,1
+7923,222,S.941200.011.01,Mengidentifikasi dan Mengendalikan Resiko Bahaya,,1
+7924,222,S.941200.012.01,Menyusun Sasaran dan Program K3 Konstruksi,,1
+7925,222,S.941200.013.01,Melaksanakan Penyuluhan tentang Pelatihan K3 Konstruksi,,1
+7926,222,S.941200.014.01,Melaksanakan Program Pelatihan Simulasi Tanggap Darurat ,,1
+7927,222,S.941200.015.01,Melakukan Inspeksi K3 Konstruksi,,1
+7928,222,S.941200.016.01,Mengontrol Tindakan dan Kondisi Berbahaya,,1
+7929,222,S.941200.017.01,Melaporkan Setiap Kecelakaan Kerja,,1
+7930,222,S.941200.018.01,Mengukur Pencapaian Pelaksanaan Rencana K3 Konstruksi,,1
+7931,222,S.941200.019.01,Menerapkan Peraturan Perundang-undangan yang terkait dengan K3 Konstruksi,,1
+7932,222,S.941200.020.01,Melakukan Komunikasi di Tempat Kerja,,1
+7933,222,S.941200.021.01,Menyusun Rencana K3 Konstruksi,,1
+7934,222,S.941200.022.01,Menyusun Program Pelatihan K3 ,,1
+7935,222,S.941200.023.01,Menyusun Rencana Tanggap Darurat                                                       ,,1
+7936,222,S.941200.024.01,Menyusun Kriteria Evaluasi Penerapan K3 Konstruksi,,1
+7937,222,S.941200.025.01,Melakukan Evaluasi Sasaran dan Program K3,,1
+7938,222,S.941200.026.01,Melakukan Audit Internal SMK3                                                                                         ,,1
+7939,222,S.941200.027.01,Melakukan Evaluasi Hasil Inspeksi K3 di Lapangan,,1
+7940,222,S.941200.028.01,Melakukan Investigasi Kecelakaan Kerja,,1
+7941,222,S.941200.029.01,Menganalisis Kode dan Standar K3 Nasional dan Internasional Terkini Terkait dengan Penerapan K3 Konstruksi,,1
+7942,222,S.941200.030.01,Melakukan Komunikasi Kepada Para Pengambil Keputusan di Seluruh Proyek Dibawah Koordinasinya,,1
+7943,222,S.941200.031.01,Merumuskan Rancangan Kebijakan K3 Konstruksi di Tempat Kerja,,1
+7944,222,S.941200.032.01,Mengembangkan Rencana K3 Konstruksi,,1
+7945,222,S.941200.033.01,Merumuskan Penerapan SMK3 ,,1
+7946,222,S.941200.034.01,Mengembangkan Sistem Pengukuran Kinerja K3 Konstruksi,,1
+7947,222,S.941200.035.01,Melakukan Kajian Penerapan SMK3,,1
+7948,222,S.941200.036.01,Melakukan Tindakan Teknis Rekayasa K3 Konstruksi,,1
+7949,222,S.941200.037.01,Mengkaji Ulang Teknologi dan/atau Standar K3 Konstruksi yang Digunakan,,1
+7950,222,S.941200.038.01,Menentukan Tingkat Penerapan Budaya K3 Konstruksi,,1
+7951,222,S.941200.039.01,Merencanakan Tahapan Pengembangan Budaya K3 Konstruksi,,1
+10706,367,F.410100.001.01,Menerapkan Keselamatan dan Kesehatan Kerja dan Lingkungan (K3-L),,1
+10707,367,F.410100.002.01,Melaksanakan Pekerjaan Persiapan Lokasi Kerja,,1
+10708,367,F.410100.003.01,Melaksanakan Pekerjaan Pondasi Dangkal,,1
+10709,367,F.410100.004.01,Melaksanakan Pekerjaan Beton,,1
+10710,367,F.410100.005.01,Melaksanakan Pemasangan Bata dan Kusen,,1
+10711,367,F.410100.006.01,Melaksanakan Pekerjaan Kuda-kuda,,1
+10712,367,F.410100.007.01,Melaksanakan Pemasangan Rangka dan Penutup Atap,,1
+10713,367,F.410100.008.01,Melaksanakan Pekerjaan Plester dan Acian,,1
+10714,367,F.410100.009.01,Melaksanakan Pekerjaan Plambing,,1
+10715,367,F.410100.010.01,Melaksanakan Pemasangan Plafon,,1
+10716,367,F.410100.011.01,Melaksanakan Pemasangan Daun Pintu dan Daun Jendela,,1
+10717,367,F.410100.012.01,Melaksanakan Pengecatan,,1
+10718,367,F.410100.013.01,Melaksanakan Pemasangan Penutup Lantai dan Dinding,,1
+10867,382,F.432910.001.01,Mengelola Keselamatan dan Kesehatan Kerja serta Lingkungan Hidup di Tempat Kerja,,1
+10868,382,F.432910.002.01,Merencanakan Persiapan Pekerjaan Mekanikal,,1
+10869,382,F.432910.003.01,Menyiapkan Pelaksanaan Pekerjaan Mekanikal di Lapangan,,1
+10870,382,F.432910.004.01,Melaksanakan Pekerjaan Utama Mekanikal,,1
+10871,382,F.432910.005.01,Menganalisis Uji Kelayakan (Test Commisioning),,1
+10872,382,F.432910.006.01,Membuat Laporan Pelaksanaan Pekerjaan Mekanikal,,1
+10911,389,F.432210.001.01,Menerapkan Keselamatan dan Kesehatan Kerja dan Lingkungan di Tempat Kerja,,1
+10912,389,F.432210.002.01,Melakukan Persiapan Pekerjaan,,1
+10913,389,F.432210.003.01,"Melakukan Penanganan (Handling) Pipa, Fitting dan Alat kerja",,1
+10914,389,F.432210.004.01,Melakukan Pekerjaan Tanah,,1
+10915,389,F.432210.005.01,"Melakukan Pemasangan Pipa, Fitting, dan Bangunan Penunjang",,1
+10916,389,F.432210.006.01,"Melakukan Pengetesan, Penggelontoran dan Desinfeksi",,1
+10917,389,F.432210.007.01,Membuat Laporan Pemasangan Pipa,,1
+7854,219,M.711000.001.01,Menerapkan Peraturan Perundangundangan Terkait Konstruksi & SMK3 Konstruksi Perusahaan di Tempat Kerja,,1
+7855,219,M.711000.002.01,Melakukan Komunikasi di Tempat Kerja,,1
+7856,219,M.711000.003.01,Melakukan Persiapan Pelaksanaan K3 Konstruksi,,1
+7857,219,M.711000.004.01,Melakukan Identifikasi Bahaya dan Resiko Pekerjaan,,1
+7858,219,M.711000.005.01,Melaksanakan Prosedur Kerja K3 Konstruksi,,1
+7859,219,M.711000.006.01,Melaksanakan Prosedur Penanggulangan Keadaan Darurat,,1
+7860,219,M.711000.007.01,Membuat Laporan Pelaksanaan K3 Konstruksi,,1
+10241,319,F.429110.001.01,Menerapkan Peraturan dan Perundang- Undangan Yang Terkait Jasa Konstruksi Dan Sistem Manajemen Mutu Keselamatan Dan Kesehatan Kerja dan Lingkungan (SMK3L),,1
+10242,319,F.429110.002.01,Menerapkan Pedoman Operasi dan Petunjuk Pemeliharaan Bendungan Beserta Bangunan Pelengkapnya,,1
+10243,319,F.429110.003.01,Melakukan Kegiatan Operasi dan Pemeliharaan Bendungan Beserta Bangunan Pelengkapnya,,1
+10244,319,F.429110.004.01,Melakukan Kegiatan Operasi dan Pemeliharaan Peralatan Hidro-Elektromekanik,,1
+10245,319,F.429110.005.01,Melakukan Kegiatan Pemeliharaan Waduk,,1
+10246,319,F.429110.006.01,Melakukan Kegiatan Konservasi Daerah Tangkapan Air Bersama-Sama Dengan Instansi Terkait,,1
+10247,319,F.429110.007.01,Melakukan Kegiatan Operasi dan Pemeliharaan Instrumentasi (Alat Pemantau Perilaku Bendungan),,1
+10248,319,F.429110.008.01,Melakukan Kegiatan Pengelolaan Hidroklimatologi,,1
+10249,319,F.429110.009.01,"Melakukan Kegiatan Penyusunan Analisis Kebutuhan Nyata (Biaya) Operasi dan Pemeliharaan Bendungan Beserta Waduknya (Identifikasi, Evaluasi, Data Kebutuhan Perbaikan, Perhitungan Biaya, Usulan Kebutuhan)",,1
+10250,319,F.429110.010.01,Membuat Laporan/Dokumentasi Seluruh Kegiatan Operasi dan Pemeliharaan Bendungan dan Bangunan Pelengkapnya,,1
+10251,319,F.429110.011.01,Melakukan Partisipasi Aktif Dalam Kegiatan Tindak Darurat Untuk Bendungan Yang Bersangkutan,,1
+10252,320,F.429110.001.01,Menerapkan Keselamatan dan Kesehatan Kerja dan Lingkungan (K3-L),,1
+10253,320,F.429110.002.01,Melakukan Komunikasi di Tempat Kerja,,1
+10254,320,F.429110.003.01,Melaksanakan Pekerjaan Persiapan,,1
+10255,320,F.429110.004.01,Melaksanakan Pekerjaan Tanah,,1
+10256,320,F.429110.005.01,Melaksanakan Pekerjaan Bronjong,,1
+10257,320,F.429110.006.01,Menghitung Volume Hasil Pekerjaan,,1
+10258,320,F.429110.007.01,Melaksanakan Pekerjaan Akhir,,1
+10259,321,F.4221140.001.01,"Melaksanakan Etos Kerja dan Etika Profesi, Sistem Manajemen Keselamatan dan Kesehatan Kerja (SMK3), Sistem Manajemen Mutu (SMM) dan Sistem Manajemen Lingkungan (SML) serta Peraturan Perundangan di Bidang Perkeretaapian yang Berlaku",,1
+10260,321,F.4221140.002.01,Merumuskan Alur Perencanaan Teknik Jalan Rel,,1
+10261,321,F.4221140.003.01,Menganalisis Hasil Survei dan Pemetaan dalam Trase Jalan Rel Yang Direncanakan,,1
+10262,321,F.4221140.004.01,Membuat Desain Geometri Jalan Rel,,1
+10263,321,F.4221140.005.01,Membuat Desain Struktur Jalan Rel,,1
+10264,321,F.4221140.006.01,Membuat Gambar Desain Jalan Rel,,1
+10265,321,F.4221140.007.01,Menyusun Spesifikasi Teknis Pekerjaan,,1
+10266,321,F.4221140.008.01,Menyusun Estimasi Biaya Konstruksi Jalan Rel,,1
+10267,321,F.4221140.009.01,Menyusun Laporan Akhir Perencanaan Jalan Rel,,1
+10268,321,F.4221140.010.01,Menerapkan Aplikasi Perangkat Lunak (Software) untuk Perencanaan Teknik Jalan Rel,,1
+10269,322,F.421140.001.01,Menerapkan Sistem Manajemen Keselamatan dan Kesehatan Kerja dan Lingkungan (SMK3-L),,1
+10270,322,F.421140.002.01,Melaksanakan Komunikasi dan kerjasama di Tempat Kerja,,1
+10271,322,F.421140.003.01,Melakukan Analisis Dokumen Kontrak Pelaksanaan,,1
+10272,322,F.421140.004.01,Mengorganisasikan Pekerjaan Persiapan Bidang Teknik,,1
+10273,322,F.421140.005.01,Mengelola Dokumen Pelaksanaan Pekerjaan Pembangunan Jalur Kereta Api,,1
+10274,322,F.421140.006.01,Melakukan Kegiatan Pengawasan dan Pengendalian Pelaksanaan Pekerjaan,,1
+10275,322,F.421140.007.01,Melakukan Pengendalian Mutu Hasil Pekerjaan,,1
+10276,322,F.421140.008.01,Membuat Laporan Pekerjaan Rutin dan Laporan Akhir Pekerjaan,,1
+10277,323,F.421140.001.01,Menerapkan Sistem Manajemen Keselamatan dan Kesehatan Kerja dan Lingkungan (SMK3-L),,1
+10278,323,F.421140.002.01,Menerapkan Komunikasi dan Kerjasama di Tempat Kerja,,1
+10279,323,F.421140.003.01,Melakukan Pekerjaan Persiapan Pembangunan Jalur Kereta Api,,1
+10280,323,F.421140.004.01,Melaksanakan Pekerjaan Tanah,,1
+10281,323,F.421140.005.01,Melaksanakan Pekerjaan Lapisan Balas,,1
+10282,323,F.421140.006.01,Melaksanakan Pekerjaan Pemasangan Bantalan dan Rel,,1
+10283,323,F.421140.007.01,Melaksanakan Pekerjaan Wesel,,1
+10284,323,F.421140.008.01,Melaksanakan Pemeriksaan Ulang Pembangunan Jalur Kereta Api,,1
+10285,324,F.421110.001.04,Menerapkan Keselamatan dan Kesehatan Kerja dan Lingkungan (K3-L),,1
+10286,324,F.421110.002.04,Menerapkan Komunikasi Dan Kerjasama Ditempat Kerja,,1
+10287,324,F.421110.003.04,Melaksanakan Pekerjaan Drainase,,1
+10288,324,F.421110.004.04,Melaksanakan Pekerjaan Tanah,,1
+10289,324,F.421110.005.04,Melaksanakan Pekerjaan Perkerasan Berbutir,,1
+10290,324,F.421110.006.04,Melaksanakan Pekerjaan Perkerasan Aspal,,1
+10291,324,F.421110.007.04,Melaksanakan Pekerjaan Perkerasan Beton Semen,,1
+10292,324,F.421110.008.04,Melaksanakan Pekerjaan Pelengkap Jalan,,1
+10293,325,421110.001.01,Menerapkan Peraturan Perundang-Undangan yang Terkait dengan Kegiatan Perencanaan Keselamatan Jalan,,1
+10294,325,F.421110.002.01,Menerapkan Sistem Manajemen Keselamatan dan Kesehatan Kerja (SMK3) dan Sistem Manajemen Lingkungan (SML) pada Kegiatan Perencanaan Keselamatan Jalan,,1
+10295,325,F.421110.003.01,Melakukan Komunikasi di Tempat Kerja,,1
+10296,325,F.421110.004.01,"Melakukan Inventarisasi Data Lokasi Rawan Kecelakaan, Tingkat Kecelakaan Lalulintas dan Kondisi Jalan dan/atau Data Perencanaan Teknis Jalan Baru",,1
+10297,325,F.421110.005.01,"Menganalisis Data Lokasi Rawan Kecelakaan, Tingkat Kecelakaan Lalulintas, dan Kondisi Jalan dan/atau Data Perencanaan Teknis Jalan Baru",,1
+10298,325,F.421110.006.01,Mengevaluasi Hasil Survei Teknis Yang Dilakukan di Lokasi Rawan Kecelakaan,,1
+10299,325,F.421110.007.01,Membuat Rekomendasi Perbaikan Perencanaan Teknis Jalan,,1
+10300,325,F.421110.008.01,Membuat Laporan Akhir,,1
+10301,326,F.421110.001.01,Menerapkan Peraturan Perundang-Undangan yang Terkait dengan Kegiatan Perencanaan Material Jalan,,1
+10302,326,F.421110.002.01,Menerapkan Sistem Manajemen Keselamatan dan Kesehatan Kerja (SMK3) dan Sistem Manajemen Lingkungan (SML) pada Kegiatan Perencanaan Material Jalan,,1
+10303,326,F.421110.003.01,Melakukan Komunikasi di Tempat Kerja,,1
+10304,326,F.421110.004.01,Melakukan Pekerjaan Persiapan Dalam Perencanaan Material Jalan,,1
+10305,326,F.421110.005.01,Melakukan Identifikasi Material untuk Perencanaan Perkerasan Jalan,,1
+10306,326,F.421110.006.01,Melakukan Analisis Kebutuhan Material Jalan Perkerasan Lentur (Flexibel Pavement) Yang Direncanakan,,1
+10307,326,F.421110.007.01,Melakukan Analisis Kebutuhan Material Jalan Perkerasan Kaku (Rigid Pavement) Yang Direncanakan,,1
+10308,326,F.421110.008.01,Melakukan Analisis Kebutuhan Material Perkerasan Jalan Daur Ulang,,1
+10309,326,F.421110.009.01,Membuat Laporan Perencanaan Material Jalan,,1
+10310,327,F.421150.001.01,Menerapkan Peraturan Perundang-Undangan Yang Terkait Dengan Kegiatan Perencanaan Terowongan Jalan,,1
+10311,327,F.421150.002.01,Menerapkan Sistem Manajemen Keselamatan dan Kesehatan Kerja (SMK3) dan Sistem Manajemen Lingkungan (SML) Pada Kegiatan Perencanaan Terowongan Jalan,,1
+10312,327,F.421150.003.01,Melakukan Komunikasi Di Tempat Kerja,,1
+10313,327,F.421150.004.01,Melakukan Pekerjaan Persiapan Perencanaan Terowongan Jalan,,1
+10314,327,F.421150.005.01,Membuat Konsep Desain,,1
+10315,327,F.421150.006.01,Membuat Rencana Terowongan,,1
+10316,327,F.421150.007.01,Membuat Rencana Detail Desain,,1
+10317,327,F.421150.008.01,Membuat Laporan Akhir,,1
+10318,328,F.421110.001.02,Menerapkan Ketentuan Undang-Undang Jasa Konstruksi (UUJK) Dan Etika Profesi,,1
+10319,328,F.421110.002.02,Menerapkan Sistem Manajemen Keselamatan Dan Kesehatan Kerja Di Bidang Konstruksi,,1
+10320,328,F.421110.003.02,Menerapkan Pengendalian Dampak Lingkungan Dan Pengaturan Lalu Lintas,,1
+10321,328,F.421110.004.02,Mengendalikan Aspek Teknis Pelaksanaan Pekerjaan,,1
+10322,328,F.421110.005.02,Mengendalikan Peralatan Dan Logistik,,1
+10323,328,F.421110.006.02,Mengendalikan Pelaksanaan Pekerjaan Jalan,,1
+10324,328,F.421110.007.02,Mengendalikan Pelaksanaan Pekerjaan Jembatan,,1
+10325,328,F.421110.008.02,Mengelola Administrasi Dan Keuangan Pekerjaan Jalan/Jembatan,,1
+10326,329,F.421110.001.01,Menerapkan Keselamatan dan Kesehatan Kerja dan Lingkungan (K3-L),,1
+10327,329,F.421110.002.01,Melakukan Komunikasi di Tempat Kerja,,1
+10328,329,F.421110.003.01,Melakukan Persiapan Pekerjaan Perkerasan Jalan,,1
+10329,329,F.421110.004.01,Melaksanakan Pekerjaan Perkerasan Lapisan Bawah (sub base course),,1
+10330,329,F.421110.005.01,Melaksanakan Pekerjaan Perkerasan Lapisan Atas (base course),,1
+10331,329,F.421110.006.01,Melaksanakan Pekerjaan Konstruksi Bahu Jalan (shoulder),,1
+10332,329,F.421110.007.01,Melaksanakan Pekerjaan Perkerasan Lapisan Permukaan (surface course),,1
+10333,329,F.421110.008.01,Melaksanakan Pekerjaan Perapian Bahu Jalan (finishing),,1
+10334,330,F.421110.001.02,Melakukan Komunikasi dan Kerjasama di Tempat Kerja,,1
+10335,330,F.421110.002.02,Menerapkan Ketentuan Keselamatan dan Kesehatan Kerja dan Lingkungan di Tempat Kerja,,1
+10336,330,F.421110.003.02,Melakukan Pemeliharaan Mesin Pencampur Aspal,,1
+10337,330,F.421110.004.02,Menghidupkan Komponen Mesin Pencampur Aspal Sesuai dengan Prosedur,,1
+10338,330,F.421110.005.02,Mengoperasikan Mesin Pencampur Aspal untuk Menyalurkan Aspal Sesuai dengan Prosedur,,1
+10339,330,F.421110.006.02,Mengoperasikan Mesin Pencampur Aspal untuk Menyalurkan Agregat dan Filler Sesuai dengan Prosedur,,1
+10340,330,F.421110.007.02,"Melakukan Pencampuran Agregat, Filler dan Aspal dalam Mixer untuk Memproduksi Campuran Aspal Panas (Hot mix)",,1
+10341,330,F.421110.008.02,Melakukan Kegiatan Akhir Produksi,,1
+10342,331,F.421110.001.02,Melakukan Komunikasi dan Kerjasama di Tempat Kerja,,1
+10343,331,F.421110.002.02,Menerapkan Ketentuan Keselamatan dan Kesehatan Kerja dan Lingkungan di Tempat Kerja,,1
+10344,331,F.421110.003.02,Melakukan Pemeliharaan Harian Mesin Penggelar Aspal,,1
+10345,331,F.421110.004.02,Mengoperasikan Mesin Penggelar Aspal,,1
+10346,331,F.421110.005.02,Memindahkan Mesin Penggelar Aspal,,1
+10347,331,F.421110.006.02,Membuat Laporan Harian Operasi,,1
+10348,332,F.421110.001.01,Melakukan Komunikasi dan Kerjasama di Tempat Kerja,,1
+10349,332,F.421110.002.01,Menerapkan Ketentuan Keselamatan dan Kesehatan Kerja serta Pengendalian Dampak Lingkungan di Tempat Kerja,,1
+10350,332,F.421110.003.01,Melakukan Pemeliharaan Harian Sebelum Operasi,,1
+10351,332,F.421110.004.01,Melakukan Mobilisasi Peralatan ke Lokasi Proyek,,1
+10352,332,F.421110.005.01,Menempatkan Unit Concrete Pump di Tempat,,1
+10353,332,F.421110.006.01,Mengoperasikan Pemompaan Beton Segar (Siap Pakai) Pemompaan Beton,,1
+10354,332,F.421110.007.01,Mengatasi Gangguan (Trouble Shooting) Pemompaan Beton dengan Melakukan Perbaikan Komponen,,1
+10355,332,F.421110.008.01,Melakukan Kegiatan Akhir Pengoperasian Concrete Pump,,1
+10356,333,F.421110.001.02,Melakukan Komunikasi dan Kerjasama di Tempat Kerja,,1
+10357,333,F.421110.002.02,Menerapkan Ketentuan Keselamatan dan Menerapkan Ketentuan Keselamatan dan Kesehatan Kerja dan Lingkungan di Tempat Kerja,,1
+10358,333,F.421110.003.02,Menyiapkan Produksi Campuran Aspal Panas,,1
+10359,333,F.421110.004.02,Mengatur Pelaksanaan Produksi Campuran Aspal Panas,,1
+10360,333,F.421110.005.02,Melakukan Kegiatan Akhir Produksi Harian,,1
+10361,333,F.421110.006.02,Melakukan Pembinaan Kompetensi Kelompok Kerja Produksi Campuran Aspal Panas,,1
+10362,334,F.422120.001.01,Menerapkan Keselamatan dan Kesehatan Kerja dan Lingkungan di Tempat Kerja,,1
+10363,334,F.422120.002.01,Menyusun Rencana Kerja Definitif Pengoperasian dan Pemeliharaan Unit Pelayanan Air Minum,,1
+10364,334,F.422120.003.01,Merencanakan Kebutuhan Sumber Daya,,1
+10365,334,F.422120.004.01,Melaksanakan Pengoperasian dan Pemeliharaan Sambungan Langganan,,1
+10366,334,F.422120.005.01,Melaksanakan Pengoperasian dan Pemeliharaan Kran Umum,,1
+10367,334,F.422120.006.01,Melaksanakan Pengoperasian dan Pemeliharaan Hidran Umum dan Hidran Kebakaran,,1
+10368,334,F.422120.007.01,Melaksanakan Pengoperasian dan Pemeliharaan Terminal Air,,1
+10369,334,F.422120.008.01,Melaksanakan Pengoperasian dan Pemeliharaan Depo Air,,1
+10370,334,F.422120.009.01,Membuat Laporan Bulanan atau Tahunan,,1
+10371,335,F.422130.001.01,"Menerapkan Sistem Manajemen Keselamatan, Kesehatan Kerja Dan Lingkungan (SMK3L)",,1
+10372,335,F.422130.002.01,Melaksanakan Persiapan Pengawasan,,1
+10373,335,F.422130.003.01,Melaksanakan Pengawasan Kegiatan Awal Pekerjaan Lapangan,,1
+10374,335,F.422130.004.01,Melaksanakan Pengawasan Pelaksanaan Bendung,,1
+10375,335,F.422130.005.01,"Melaksanakan Pengawasan Pelaksanaan Saluran Air (Waterway), Pipa Pesat (Penstock), Kolam Tando Harian Dan Saluran Buri (Tailrace)",,1
+10376,335,F.422130.006.01,Melaksanakan Proses Serah Terima Pekerjaan Lapangan,,1
+10377,335,F.422130.007.01,Membuat Laporan Pengawasan,,1
+10378,336,F.422120.001.01,"Menerapkan Peraturan Perundang-undangan Jasa Konstruksi, Sistem Manajemen Keselamatan dan Kesehatan Kerja (SMK3), Pengendalian Lingkungan Kerja dan Mutu",,1
+10379,336,F.422120.002.01,Menganalisis Dokumen Kontrak,,1
+10380,336,F.422120.003.01,Mempersiapkan Pelaksanaan Konstruksi Sistem Produksi Air Minum,,1
+10381,336,F.422120.004.01,Melaksanakan Pekerjaan Konstruksi Sistem Produksi Air Minum,,1
+10382,336,F.422120.005.01,Mengendalikan Pelaksanaan Pekerjaan Konstruksi Sistem Produksi Air Minum,,1
+10383,336,F.422120.006.01,Melaksanakan Tes Komisioning dan Serah Terima Pekerjaan,,1
+10384,336,F.422120.007.01,Membuat Laporan Akhir Pelaksanaan Pekerjaan Konstruksi Sistem Produksi Air Minum,,1
+10385,337,F.422120.001.01,Menerapkan Sistem Manajemen Keselamatan dan Kesehatan Kerja dan Lingkungan (SMK3-L),,1
+10386,337,F.422120.002.01,Menerapkan Komunikasi di Tempat Kerja,,1
+10387,337,F.422120.003.01,Melaksanakan Pekerjaan Persiapan,,1
+10388,337,F.422120.004.01,Melaksanakan Pengukuran Lapangan,,1
+10389,337,F.422120.005.01,Melaksanakan Penggalian Badan Saluran,,1
+10390,337,F.422120.006.01,Melaksanakan Pekerjaan Pemasangan Badan Saluran,,1
+10391,337,F.422120.007.01,Melaksanakan Pekerjaan Perapihan Dan Pemeliharaan,,1
+10392,338,F.422110.001.01,Menerapkan Keselamatan Dan Kesehatan Kerja Dan Lingkungan (K3-L),,1
+10393,338,F.422110.002.01,Menerapkan Komunikasi Dan Kerjasama Ditempat Kerja,,1
+10394,338,F.422110.003.01,Melakukan Persiapan Pekerjaan,,1
+10395,338,F.422110.004.01,Melakukan Survei Lapangan,,1
+10396,338,F.422110.005.01,"Melakukan Pengukuran, Pematokan Dan Pemasangan Bouwplank Profil Saluran",,1
+10397,338,F.422110.006.01,Melaksanakan Pekerjaan Tanah,,1
+10398,338,F.422110.007.01,Melakukan Pekerjaan Saluran,,1
+10399,338,F.422110.008.01,"Melakukan Pengendalian Biaya, Mutu, Waktu (BMW)",,1
+10400,338,F.422110.009.01,Melaksanakan Uji Coba Aliran (Running Test),,1
+10401,338,F.422110.010.01,Melakukan Pekerjaan Akhir Saluran Irigasi,,1
+10402,339,F.422110.001.01,"Menerapkan Peraturan dan Perundang-Undangan yang Terkait Jasa Konstruksi, dan Sistem Manajemen Keselamatan dan Kesehatan Kerja serta Lingkungan (SMK3L)",,1
+10403,339,F.422110.002.01,Menerapkan Prinsip-Prinsip Pengelolaan Sumber Daya Air,,1
+10404,339,F.422110.003.01,Mengumpulkan Data Perencanaan Irigasi,,1
+10405,339,F.422110.004.01,Merencanakan Layout Daerah Irigasi,,1
+10406,339,F.422110.005.01,Merencanakan Saluran dan Bangunan Irigasi,,1
+10407,339,F.422110.006.01,Merencanakan Bangunan Utama (Bendung),,1
+10408,339,F.422110.007.01,Menerapkan Parameter Standar Penggambaran Irigasi,,1
+10409,339,F.422110.008.01,Menyusun Panduan Operasi dan Pemeliharaaan Irigasi Berdasarkan Kriteria Perencanaan,,1
+10410,339,F.422110.009.01,Melakukan Aplikasi Model Matematis Jaringan Irigasi,,1
+10614,358,F.410200.001.01,Menerapkan Peraturan dan PerUndang-Undangan yang Terkait Jasa Konstruksi dan Sistem Manajemen Keselamatan dan Kesehatan Kerja dan Lingkungan (SMK3L),,1
+10615,358,F.410200.002.01,Melakukan Pekerjaan Persiapan Perencanaan Beton Pracetak,,1
+10616,358,F.410200.003.01,Melakukan Perencanaan Komponen Beton Pracetak untuk Struktur Bangunan Gedung,,1
+10617,358,F.410200.004.01,Menerapkan Parameter Standar Penggambaran Pabrikasi Beton Pracetak,,1
+10618,358,F.410200.005.01,Menyusun Spesifikasi Teknis Pekerjaan Beton Pracetak,,1
+10619,358,F.410200.006.01,Membuat Rencana Anggaran Biaya Komponen Beton Pracetak untuk Struktur Bangunan Gedung,,1
+10620,358,F.410200.007.01,Melakukan Pengawasan Produksi Komponen Struktur Beton Pracetak,,1
+10621,358,F.410200.008.01,Menyusun Laporan Perencanaan Komponen Beton Pracetak untuk Struktur Bangunan Gedung,,1
+10622,358,F.410200.009.01,Menggunakan Program Aplikasi Komputer Perhitungan Struktur Beton Pracetak.,,1
+10623,359,F.410140.001.01,"Menerapkan Peraturan PerUndang-Undangan, Sistem Manajemen Mutu (SMM) dan Sistem Manajemen Keselamatan Dan Kesehatan Kerja Dan Lingkungan (SMK3L)",,1
+10624,359,F.410140.002.01,Melakukan Komunikasi Di Tempat Kerja.,,1
+10625,359,F.410140.003.01,Melakukan Pekerjaan Persiapan Pengawasan Lapangan,,1
+10626,359,F.410140.004.01,Mengawasi Pekerjaan Bouwplank Pada Struktur Bangunan Gedung,,1
+10627,359,F.410140.005.01,Mengawasi Pekerjaan Struktur Bawah Bangunan Gedung,,1
+10628,359,F.410140.006.01,Mengawasi Pekerjaan Struktur Atas Bangunan Gedung,,1
+10629,359,F.410140.007.01,Mengawasi Pekerjaan Struktur Rangka Atap Bangunan Gedung,,1
+10630,359,F.410140.008.01,Melaksanakan Pekerjaan Akhir Pengawasan,,1
+10631,359,F.410140.009.01,Membuat Laporan Hasil Pengawasan,,1
+10632,360,F.410120.001.01,Menerapkan Sistem Manajemen Keselamatan dan Kesehatan Kerja dan Lingkungan (SMK3-L) Bidang Konstruksi,,1
+10633,360,F.410120.002.01,Memeriksa Kelaikan Fungsi Sistem Daya Listrik pada Bangunan Gedung,,1
+10634,360,F.410120.003.01,Memeriksa Kelaikan Fungsi Sistem Instalasi Listrik pada Bangunan Gedung,,1
+10635,360,F.410120.004.01,Memeriksa Kelaikan Fungsi Sistem Komunikasi pada Bangunan Gedung,,1
+10636,360,F.410120.005.01,Memeriksa Kelaikan Fungsi Tata Suara pada Bangunan Gedung,,1
+10637,360,F.410120.006.01,Memeriksa Kelaikan Fungsi Sistem Alarm pada Bangunan Gedung,,1
+10638,360,F.410120.007.01,Memeriksa Kelaikan Fungsi Sistem Keamanan (Security System) pada Bangunan Gedung,,1
+10639,360,F.410120.008.01,Memeriksa Kelaikan Fungsi Sistem Otomatisasi Gedung (Building Automation System/ BAS),,1
+10640,360,F.410120.010.01,Memeriksa Kelaikan Fungsi Sistem Proteksi pada Bangunan Gedung,,1
+10641,360,F.410120.011.01,Membuat Laporan Akhir,,1
+10642,360,F.410120.012.01,Menggunakan Program Aplikasi Elektrikal Terapan,,1
+10643,360,F410120.009.01,Memeriksa Kelaikan Fungsi Sistem Pencahayaan pada Bangunan Gedung,,1
+10644,361,F.410131.101.01,Menerapkan Sistem Manajemen Keselamatan dan Kesehatan Kerja dan Lingkungan (SMK3-L) Bidang Konstruksi,,1
+10645,361,F.410131.102.01,Melaksanakan Pemeriksaan Kelaikan Fungsi Sistem Pembangkit Listrik Cadangan (Genset),,1
+10646,361,F.410131.103.01,Melaksanakan Pemeriksaan Kelaikan Fungsi Sistem Tata Udara (Air Condition/AC),,1
+10647,361,F.410131.104.01,Melaksanakan Pemeriksaan Kelaikan Fungsi Sistem Sirkulasi Udara (Air Ventilation),,1
+10648,361,F.410131.105.01,Melaksanakan Pemeriksaan Kelaikan Fungsi Sistem Plambing,,1
+10649,361,F.410131.106.01,Melaksanakan Pemeriksaan Kelaikan Fungsi Sistem Pengolahan Air Limbah (Sewage Treatment Plant /STP),,1
+10650,361,F.410131.107.01,"Melaksanakan Pemeriksaan Kelaikan Sistem Transportasi dalam Bangunan (Lift, Eskalator, Travelator dan Conveyor)",,1
+10651,361,F.410131.108.01,Melaksanakan Pemeriksaan Kelaikan Fungsi Sistem Proteksi Kebakaran (Fire Fighting),,1
+10652,361,F.410131.109.01,Melaksanakan Pemeriksaan Kelaikan Fungsi Sistem Gondola,,1
+10653,361,F.410131.110.01,Melaksanakan Pemeriksaan Kelaikan Fungsi Sistem Boiler,,1
+10654,361,F.410131.111.01,Melaksanakan Pemeriksaan Kelaikan Fungsi Sistem Dapur,,1
+10655,361,F.410131.112.01,Menggunakan Aplikasi Program Mekanikal Terapan,,1
+10656,361,F.410131.113.01,Melaksanakan Pemeriksaan Kelaikan Fungsi Sistem Instalasi Gas Medik,,1
+10657,361,F.410131.114.01,Melaksanakan Pemeriksaan Kelaikan Fungsi Sistem Tempat Pembakaran Sampah (Incinerator),,1
+10658,361,F.410131.115.01,Membuat Laporan Akhir,,1
+10659,362,F.410120.001.01,Menerapkan Sistem Manajemen Keselamatan dan Kesehatan Kerja dan Lingkungan (SMK3-L) Bidang Konstruksi,,1
+10660,362,F.410120.002.01,Melaksanakan Pemeriksaan Kelaikan Fungsi Pondasi,,1
+10661,362,F.410120.003.01,Melaksanakan Pemeriksaan Kelaikan Fungsi Dinding Basement,,1
+10662,362,F.410120.004.01,Melaksanakan Pemeriksaan Kelaikan Fungsi Lantai Basement,,1
+10663,362,F.410120.005.01,Melaksanakan Pemeriksaan Kelaikan Fungsi Tie Beam,,1
+10664,362,F.410120.006.01,Melaksanakan Pemeriksaan Kelaikan Fungsi Kolom Beton dan Baja,,1
+10665,362,F.410120.007.01,Melaksanakan Pemeriksaan Kelaikan Fungsi Balok Beton dan Baja,,1
+10666,362,F.410120.008.01,Melaksanakan Pemeriksaan Kelaikan Fungsi Pelat Lantai,,1
+10667,362,F.410120.009.01,Melaksanakan Pemeriksaan Kelaikan Fungsi Tangga,,1
+10668,362,F.410120.010.01,Melaksanakan Pemeriksaan Kelaikan Fungsi Dinding Geser (Shear Wall),,1
+10669,362,F.410120.011.01,"Melaksanakan Pemeriksaan Kelaikan Fungsi Rangka Atap Kayu, Beton dan Baja",,1
+10670,362,F.410120.012.01,Membuat Laporan Akhir,,1
+10671,362,F.410120.013.01,Menggunakan Aplikasi Program (Software Pengolah Data) Struktur Terapan,,1
+10672,362,F.410120.014.01,Melaksanakan Pemeriksaan Perlengkapan Perkuatan atau Pengaman Struktur Bangunan Gedung Tingkat Tinggi,,1
+10792,372,F.432110.002.01,Melakukan Persiapan Pemasangan Unit Pelayanan,,1
+10793,372,F.432210.001.01,Menerapkan Keselamatan dan Kesehatan Kerja dan Lingkungan di Tempat Kerja,,1
+10794,372,F.432210.003.01,Melakukan Pemasangan Unit Pelayanan,,1
+10795,372,F.432210.004.01,Melakukan Pengujian Pemasangan Unit Pelayanan,,1
+10796,372,F.432210.005.01,"Melakukan Pemasangan Pelindung (Box) Meter Air, Pengurukan, dan Perapian Lokasi Kerja",,1
+10797,372,F.432210.006.01,Melakukan Kegiatan Pelaporan dan Pengembalian Material,,1
+10798,373,F.432110.001.01,"Menerapkan Peraturan Perundang-Undangan, Sistem Manajemen Mutu (SMM) dan Sistem Manajemen Keselamatan Dan Kesehatan Kerja Dan Lingkungan (SMK3L)",,1
+10799,373,F.432110.002.01,Melakukan Komunikasi Pada Tempat Kerja,,1
+10800,373,F.432110.003.01,Melakukan Persiapan Kerja Pengawasan,,1
+10801,373,F.432110.005.01,Mengawasi Pemasangan Luminer,,1
+10802,373,F.432110.006.01,Mengawasi Pemasangan Alat Kontrol,,1
+10803,373,F.432110.007.01,Melaksanakan Pekerjaan Akhir Pengawasan,,1
+10804,373,F.432110.008.01,Membuat Laporan Hasil Pengawasan,,1
+10805,373,F.434213.004.01,Mengawasi Penataan Posisi Luminer,,1
+10806,374,F.432110.001.01,"Melaksanakan Penerapan Sistem Manajemen Keselamatan, Kesehatan Kerja dan Lingkungan Pada Pekerjaan Iluminasi",,1
+10807,374,F.432110.002.01,Menerapkan Komunikasi dan Kerjasama di Tempat Kerja,,1
+10808,374,F.432110.003.01,Mengidentifikasi Dokumen Pelaksanaan,,1
+10809,374,F.432110.004.01,Melakukan Persiapan Pekerjaan,,1
+10810,374,F.432110.005.01,Melaksanakan Pekerjaan Pemasangan Luminer,,1
+10811,374,F.432110.006.01,Melaksanakan Pekerjaan Pemasangan Alat Kontrol,,1
+10812,374,F.432110.007.01,Melakukan Pengujian Hasil Pelaksanaan Pekerjaan Iluminasi,,1
+10813,374,F.432110.008.01,Membuat Laporan Pelaksanaan Pekerjaan Iluminasi,,1
+10814,375,F.432110.001.01,"Menerapkan Sistem Manajemen Keselamatan, Kesehatan Kerja dan Lingkungan (SMK3L)",,1
+10815,375,F.432110.002.01,Melaksanakan Persiapan Perencanaan Iluminasi,,1
+10816,375,F.432110.003.01,Mengumpulkan Data,,1
+10817,375,F.432110.004.01,Membuat Analisis dan Sintesis Perencanaan Iluminasi,,1
+10818,375,F.432110.005.01,Membuat Perencanaan Iluminasi,,1
+10819,375,F.432110.006.01,Membuat Dokumen Perencanaan,,1
+10820,375,F.432110.007.01,Melakukan Pengawasan Berkala Pelaksanaan Kegiatan,,1
+10821,375,F.432110.008.01,Membuat Laporan Perencanaan Iluminasi,,1
+10822,376,F.439090.001.01,Melaksanakan Keselamatan dan Kesehatan Kerja (K3),,1
+10823,376,F.439090.002.01,Melakukan Komunikasi Timbal Balik di Tempat Kerja,,1
+10824,376,F.439090.003.01,Melakukan Persiapan Pekerjaan Water Proofing,,1
+10825,376,F.439090.004.01,Melakukan Pekerjaan Awal Pemasangan Water Proofing,,1
+10826,376,F.439090.005.01,Pemasangan Water Proofing,,1
+10827,376,F.439090.006.01,Melakukan Test Kebocoran,,1
+10828,376,F.439090.007.01,Melakukan Pekerjaan Water Proofing dengan Metode Penjenuhan Pori-Pori Beton,,1
+10835,378,F.431200.001.01,Mengelola Penerapan Sistem Manajemen Keselamatan dan Kesehatan Kerja dan Lingkungan (SMK3-L) Bidang Konstruksi,,1
+10836,378,F.431200.002.01,Merencanakan Persiapan Kebutuhan Alat Berat Pra Pelaksanaan di Lapangan,,1
+10837,378,F.431200.003.01,Melaksanakan Koordinasi Pengadaan Alat Berat,,1
+10838,378,F.431200.004.01,Merencanakan Sumber Daya Manusia (SDM),,1
+10839,378,F.431200.005.01,Merencanakan Anggaran Biaya (RAB),,1
+10840,378,F.431200.006.01,Mengelola Alat Berat,,1
+10841,378,F.431200.007.01,Melakukan Monitoring dan Evaluasi Kegiatan Operasional dan Pemeliharaan Alat Berat,,1
+10842,378,F.431200.008.01,Membuat Laporan,,1
+10843,379,F.433040.001.01,"Menerapkan Peraturan Perundang-Undangan, Sistem Manajemen Mutu (SMM), dan Sistem Manajemen Keselamatan dan Kesehatan Kerja dan Lingkungan (SMK3L)",,1
+10844,379,F.433040.002.01,Melakukan Komunikasi di Tempat Kerja,,1
+10845,379,F.433040.003.01,Melakukan Persiapan Pengawasan Pekerjaan Interior,,1
+10846,379,F.433040.004.01,Mengawasi Pekerjaan Plafon,,1
+10847,379,F.433040.005.01,Mengawasi Pekerjaan Dinding dan Partisi,,1
+10848,379,F.433040.006.01,Mengawasi Pekerjaan Lantai,,1
+10849,379,F.433040.007.01,Mengawasi pekerjaan Perabot (Furniture),,1
+10850,379,F.433040.008.01,Melaksanakan Pekerjaan Akhir Pengawasan,,1
+10851,379,F.433040.009.01,Membuat Laporan Hasil Pengawasan,,1
+10852,380,F.433000.001.01,"Melaksanakan Penerapan Sistem Manajemen Keselamatan, Kesehatan Kerja dan Lingkungan(SMK3L) pada Pekerjaan Interior",,1
+10853,380,F.433000.002.01,Menerapkan Komunikasi dan Kerjasama di Tempat Kerja,,1
+10854,380,F.433000.003.01,Melakukan Persiapan Kerja Pelaksanaan Pekerjaan Interior,,1
+10855,380,F.433000.004.01,Melaksanakan Pekerjaan Langit-langit/Plafon,,1
+10856,380,F.433000.005.01,Melaksanakan Pekerjaan Dinding dan Partisi,,1
+10857,380,F.433000.006.01,Melaksanakan Pekerjaan Lantai,,1
+10858,380,F.433000.007.01,Melaksanakan Pekerjaan Perabot/Furnitur,,1
+10859,380,F.433000.008.01,Melakukan Pemeriksaan Hasil Akhir Pelaksanaan Pekerjaan Interior,,1
+10860,380,F.433000.009.01,Membuat Laporan Pelaksanaan Pekerjaan Interior,,1
+184667,1279,F.421110.001.04,Menerapkan Keselamatan dan Kesehatan Kerja dan Lingkungan (K3-L),,1
+184668,1279,F.421110.002.04,Menerapkan Komunikasi Dan Kerjasama Ditempat Kerja,,1
+184669,1279,F.421110.003.04,Melaksanakan Pekerjaan Drainase,,1
+184670,1279,F.421110.004.04,Melaksanakan Pekerjaan Tanah,,1
+184671,1279,F.421110.005.04,Melaksanakan Pekerjaan Perkerasan Berbutir,,1
+184672,1279,F.421110.006.04,Melaksanakan Pekerjaan Perkerasan Aspal,,1
+184673,1279,F.421110.007.04,Melaksanakan Pekerjaan Perkerasan Beton Semen,,1
+184674,1279,F.421110.008.04,Melaksanakan Pekerjaan Pelengkap Jalan,,1
+21248,719,SPL.QS01.001.00,"Melaksanakan Perundangan-undangan dan / atau ketentuan Usaha Jasa Konstruksi (UUJK), Sistim Manajemen Keselamatan Kerja Kesehatan dan Lingkungan (SMK3L) dan Kode Etik Profesi Quantity Surveyor.",,1
+21249,719,SPL.QS02.001.00,Membuat Studi Biaya dan Solusi Alternatif,,1
+21250,719,SPL.QS02.002.00,Mengerjakan Rencana Anggaran (Cost Plan) Berdasarkan Gambar Desain Tahap Skematik dan Tahap Pengembangan Desain (Design Development),,1
+21251,719,SPL.QS02.003.00,Membuat Rencana Anggaran Final (Owner Estimate),,1
+21252,719,SPL.QS02.004.00,Menghitung Bills of Quantities (BQ) berdasarkan SMM (Standard Method of Measurement),,1
+21253,719,SPL.QS02.005.00,Mengerjakan Dokumen Tender / Penawaran,,1
+21254,719,SPL.QS02.006.00,Membuat Dokumen Kontrak,,1
+21255,719,SPL.QS02.007.00,Mengerjakan Penilaian Progres Pekerjaan Secara Berkala (Interim Valuation),,1
+21256,719,SPL.QS02.008.00,Menghitung Perubahan Pekerjaan (pekerjaan tambah-kurang),,1
+21257,719,SPL.QS02.009.00,Mengerjakan Laporan Keuangan Secara Berkala (Cost Report),,1
+21258,719,SPL.QS02.010.00,Mengerjakan Perhitungan Akhir (Final Account),,1
+21259,719,SPL.QS03.001.00,Memproses Analisis Biaya Konstruksi / Feedback Cost Data (Cost Analysis),,1
+21260,719,SPL.QS03.002.00,Mengerjakan Pembiayaan Pembangunan (Development Appraisal),,1
+21261,719,SPL.QS03.003.00,Mengerjakan Analisis Penyusutan Fiskal (Tax Depreciation),,1
+21262,719,SPL.QS03.004.00,Melaksanakan Tugas dan Fungsi Sebagai Manajer Fasilitas dan Aset (Facility Management),,1
+21263,719,SPL.QS03.005.00,Melaksanakan Uji Kelayakan Biaya (Technical Due Diligence),,1
+21264,719,SPL.QS03.006.00,Memberikan Bantuan Kepada Loss Adjuster Dalam Menilai Kerugian,,1
+21265,719,SPL.QS03.007.00,Melaksanakan Tugas dan Fungsi Sebagai Saksi Ahli (Expert Witness),,1
+20803,685,SPL.KS13.111.01,Menerapkan Sistem Manajemen Keselamatan Kesehatan Kerja dan Lingkungan (SMK3L).,,1
+20804,685,SPL.KS23.111.01,Mengidentifikasi Hasil Perhitungan Beban Struktur Atas.,,1
+20805,685,SPL.KS23.112.01,Melakukan Survei Lapangan.,,1
+20806,685,SPL.KS23.113.01,Menentukan Pengujian Lapangan dan Laboratorium.,,1
+20807,685,SPL.KS23.114.01,Membuat Detail Engineering Design (DED) Pondasi.,,1
+20808,685,SPL.KS23.115.01,Membuat Gambar Rencana Pondasi.,,1
+20809,685,SPL.KS23.116.01,Menyusun Spesifikasi Teknis.,,1
+20810,685,SPL.KS23.117.01,Membuat Laporan Perencanaan Pondasi.,,1
+20811,685,SPL.KS23.118.01,Membuat Alternatif Jenis,,1
+20901,700,MEK.PW12.231.00,Menerapkan Keselamatan dan Kesehatan Kerja serta Lingkungan Hidup ditempat kerja,,1
+20902,700,MEK.PW12.232.00,Melakukan Komunikasi dan Kerjasama di Tempat Kerja,,1
+20903,700,MEK.PW22.231.00,Mengidentifikasi Komponen pada Sistem Hidrolik Alat Berat,,1
+20904,700,MEK.PW22.232.00,Melakukan Pemeliharaan Sistem Hidrolik Alat Berat,,1
+20905,700,MEK.PW22.233.00,Melakukan Perbaikan Komponen pada Sistem Hidrolik Alat Berat,,1
+20906,700,MEK.PW22.234.00,Mengatasi Gangguan (troubleshooting) pada Sistem Hidrolik Alat Berat,,1
+20907,700,MEK.PW22.235.00,Membuat Laporan Pekerjaan,,1
+20908,701,MEK.PW12.211.00,Menerapkan Ketentuan Keselamatan dan Kesehatan Kerja (K3) dan Lingkungan Hidup di tempat kerja,,1
+20909,701,MEK.PW12.212.00,Melakukan komunikasi dan kerjasama di tempat kerja,,1
+20910,701,MEK.PW22.211.00,Melakukan pemeliharaan harian backhoe loader sebelum operasi,,1
+20911,701,MEK.PW22.212.00,Mengoperasikan attachment loader pada unit backhoe loader,,1
+20912,701,MEK.PW22.213.00,Mengoperasikan attachment backhoe pada unit backhoe loader,,1
+20913,701,MEK.PW22.214.00,Menaikkan dan menurunkan unit backhoe loader ke / dari atas truk trailer,,1
+20914,701,MEK.PW22.215.00,Melaksanakan pemeliharaan harian backhoe loader setelah operasi,,1
+20915,701,MEK.PW22.216.00,Membuat Laporan Harian Operasi,,1
+20916,702,MEK.PW12.221.00,Menerapkan Ketentuan Keselamatan dan Kesehatan Kerja dan Lingkungan Hidup di tempat kerja,,1
+20917,702,MEK.PW12.222.00,Melakukan komunikasi dan kerjasama di tempat kerja,,1
+20918,702,MEK.PW22.221.00,Melakukan pemeliharaan harian wheel excavator,,1
+20919,702,MEK.PW22.222.00,Mengoperasikan wheel excavator untuk pekerjaan pembuatan saluran,,1
+20920,702,MEK.PW22.223.00,Mengoperasikan wheel excavator untuk pekerjaan pembuatan saluran dengan profil tertentu dan normalisasi saluran,,1
+20921,702,MEK.PW22.224.00,Mengoperasikan wheel excavator untuk pekerjaan penggalian dan pemindahan material,,1
+20922,702,MEK.PW22.225.00,Mengoperasikan wheel excavator untuk pekerjaan pembuatan tanggul,,1
+20923,702,MEK.PW22.226.00,Mengoperasikan wheel excavator untuk pekerjaan pembuatan tanggul dengan profil tertentu dan slope,,1
+20924,702,MEK.PW22.227.00,Mengoperasikan wheel excavator untuk pekerjaan pindah lokasi kerja,,1
+20925,702,MEK.PW22.228.00,Mengoperasikan wheel excavator untuk pekerjaan pindah lokasi kerja serta menaikan dan menurunkan wheel excavator ke/dari alat angkut,,1
+20932,704,TTL.PS13.101.01,Menerapkan Peraturan Perundang-undangan yang berkaitan dengan Perencanaan Pengelolaan Sampah,,1
+20933,704,TTL.PS23.101.01,Menyiapkan Penyusunan Konsep Perencanaan Pengelolaan Sampah,,1
+20934,704,TTL.PS23.102.01,Menyusun Konsep Perencanaan Pengelolaan Sampah,,1
+20935,704,TTL.PS23.103.01,Menyiapkan Kegiatan Pengumpulan Data Perencanaan Pengelolaan Sampah,,1
+20936,704,TTL.PS23.104.01,Mengumpulkan Data Perencanaan Pengelolaan Sampah,,1
+20937,704,TTL.PS23.105.01,Membuat Pra-Analisis Kondisi Eksisting Daerah Perencanaan Pengelolaan Sampah,,1
+20938,704,TTL.PS23.106.01,Melakukan Pengolahan Data Kondisi Eksisting Daerah Perencanaan Pengelolaan Sampah,,1
+20939,704,TTL.PS23.107.01,Merencanakan Pengelolaan Sampah,,1
+20940,704,TTL.PS23.108.01,"Merencanakan Gambar Teknis, Spesifikasi Teknis serta Menghitung Volume Pekerjaan (BOQ) dan Rencana Anggaran Biaya (RAB)",,1
+20941,704,TTL.PS23.109.01,"Membuat Gambar Teknis, Spesifikasi Teknis dan Rencana Anggaran Biaya",,1
+20942,704,TTL.PS23.110.01,Mengevaluasi Kegiatan Perencanaan Pengelolaan Sampah,,1
+20943,704,TTL.PS23.111.01,Menyusun Laporan Perencanaan Pengelolaan Sampah,,1
+21073,711,TTL.OL15.201.01,Menerapkan Keselamatan dan Kesehatan Kerja dan Lingkungan Hidup di Tempat Kerja,,1
+21074,711,TTL.OL25.201.01,Mengoperasikan Instalasi pada Tahap Awal (start up).,,1
+21075,711,TTL.OL25.202.01,Mengoperasikan IPLT,,1
+21076,711,TTL.OL25.203.01,"Melakukan Pendataan Kualitas, Volume Lumpur Tinja dan Air Limbah IPLT",,1
+21077,711,TTL.OL25.204.01,Memelihara Fasilitas dan Peralatan IPLT,,1
+21243,718,TTL.OL15.201.01,Menerapkan Keselamatan dan Kesehatan Kerja dan Lingkungan Hidup di Tempat Kerja,,1
+21244,718,TTL.OL25.201.01,Mengoperasikan Instalasi pada Tahap Awal (start up).,,1
+21245,718,TTL.OL25.202.01,Mengoperasikan IPLT,,1
+21246,718,TTL.OL25.203.01,"Melakukan Pendataan Kualitas, Volume Lumpur Tinja dan Air Limbah IPLT",,1
+21247,718,TTL.OL25.204.01,Memelihara Fasilitas dan Peralatan IPLT,,1
+21719,728,PAM.KD01.001.01,"Menerapkan Ketentuan UUJK, K3, Pengendalian Lingkungan Kerja dan Mutu",,1
+21720,728,PAM.KD01.002.01,Menguasai Dokumen Kontrak,,1
+21721,728,PAM.KD02.001.01,Melaksanakan dan Mengorganisasi Aktivitas Sesuai Jadwal Pelaksanaan,,1
+21722,728,PAM.KD02.002.01,Melaksanakan Pekerjaan Persiapan Lapangan,,1
+21723,728,PAM.KD02.003.01,Melakukan Pekerjaan Pemasangan Pipa dan Aksesorinya,,1
+21724,728,PAM.KD02.004.01,Melakukan Pekerjaan Konstruksi Bangunan Pelengkap Sistem Perpipaan Pipa Sesuai Gambar Pelaksanaan,,1
+21725,728,PAM.KD02.005.01,Melakukan Pekerjaan Pemasangan Sambungan Pelayanan,,1
+21726,728,PAM.KD02.006.01,Membuat Laporan Pelaksanaan Pekerjaan Konstruksi Bangunan Unit Distribusi SPAM,,1
+25855,878,KON.KS14.261.01,"Menerapkan ketentuan Undang-undang Jasa Konstruksi (UUJK), Keselamatan dan Kesehatan Kerja (K3), Lingkungan Hidup dan Manajemen Mutu di Tempat Kerja ",,1
+25857,878,KON.KS14.262.01,Melakukan Komunikasi dan Kerjasama di Tempat Kerja ,,1
+25858,878,KON.KS24.261.01,Melakukan Survey Lapangan ,,1
+25863,878,KON.KS24.262.01,Melakukan Persiapan Pemasangan Pintu Air ,,1
+25869,878,KON.KS24.263.01,Melaksanakan Pemasangan Pintu Air ,,1
+25871,878,KON.KS24.264.01,Melaksanakan Persiapan Komisioning ,,1
+20783,682,SPL.IG15.211.01,"Menerapkan UUJK, Keselamatan dan Kesehatan Kerja (K3), dan Lingkungan, Selama Melaksanakan Pekerjaan",,1
+20784,682,SPL.IG25.211.01,Menggunakan Alat dan Perlengkapan Pemasangan Sistem Fire Alarm,,1
+20785,682,SPL.IG25.212.01,Melaksanakan Pemasangan Sistem Fire Alarm,,1
+20786,682,SPL.IG25.213.01,Melakukan Pra-Komisioning Sistem Fire Alarm,,1
+20787,682,SPL.IG25.214.01,Melaksanakan Pemeliharaan dan Perawatan Sistem Fire Alarm.,,1
+20788,682,SPL.IG25.215.01,Membuat Laporan Pekerjaan,,1
+20789,683,SPL.IG16.111.01,Merencanakan Persyaratan Penerapan dan Pelaksanaan K3 dan Tata Lingkungan,,1
+20790,683,SPL.IG26.111.01,Mempersiapkan Perencanaan Sistem Pesawat Lift dan Eskalator,,1
+20791,683,SPL.IG26.112.01,Merencanakan Sistem Pesawat Lift dan Eskalator,,1
+20792,683,SPL.IG26.113.01,Merencanakan Teknis Komponen Lift dan Eskalator Sesuai Fungsinya.,,1
+20793,683,SPL.IG26.114.01,"Memilih Jenis Operasi Kerja Kelompok, Lokasi dan Tata Letak Satuan-satuan Pesawat Lift dan Eskalator",,1
+20794,683,SPL.IG26.115.01,Melakukan uji kesesuaian (commisioning) Atas Satuan-satuan Pesawat Lift dan Eskalator yang Baru Selesai Terpasang untuk Diverifikasi Dengan Spesifikasi Teknis Perencanaan.,,1
+20795,684,SPL.IG16.221.01,Menerapkan Keselamatan dan Kesehatan Kerja (K3) Selama Mengoperasikan Gondola.,,1
+20796,684,SPL.IG16.222.01,Menerapkan Komunikasi yang Efektif di Tempat Kerja,,1
+20797,684,SPL.IG16.223.01,Menerapkan Kerjasama ditempat kerja,,1
+20798,684,SPL.IG26.221.01,Mengidentifikasi Spesifikasi Teknik Gondola,,1
+20799,684,SPL.IG26.222.01,Melaksanakan Pemeriksaan Gondola sebelum Dioperasikan Sesuai Petunjuk Pengoperasian,,1
+20800,684,SPL.IG26.223.01,Melakukan Gerakan Dasar Pengoperasian Gondola.,,1
+20801,684,SPL.IG26.224.01,Melaksanakan Tahapan Operasional Gondola,,1
+20802,684,SPL.IG26.225.01,Membuat Laporan Harian Operasi.,,1
+20813,686,SPL.KS10.001.01,"Menerapkan Ketentuan UUJK, K3, Lingkungan dan Kode Etik Profesi",,1
+20814,686,SPL.KS20.001.01,Mengiventarisasi Gambar Pelaksanaan dan menyusun Program Pelaksanaan Pengukuran,,1
+20815,686,SPL.KS20.002.01,Mempersiapkan Pelaksanaan Pengukuran,,1
+20816,686,SPL.KS20.003.01,Mengawasi Pelaksanaan Pengukuran,,1
+20817,686,SPL.KS20.004.01,Membuat Laporan,,1
+20818,687,SPL.KS14.221.01,Menerapkan Ketentuan UUJK dan SMK3,,1
+20819,687,SPL.KS14.222.01,Melakukan Komunikasi dan Kerja Sama di Tempat Kerja,,1
+20820,687,SPL.KS24.221.01,Mengidentifikasi Kebutuhan Pekerjaan Awal Pemasangan Rangka Atap Baja Ringan,,1
+20821,687,SPL.KS24.222.01,Membuat Rencana Kerja Harian dan Mingguan Pelaksanaan Pemasangan Rangka Atap Baja Ringan,,1
+20822,687,SPL.KS24.223.01,Membantu Dalam Pengaturan Material,,1
+20823,687,SPL.KS24.224.01,Melakukan Persiapan Pemasangan Rangka Atap Baja Ringan,,1
+20824,687,SPL.KS24.225.01,Mengkoordinasi dan Mengawasi Pelaksanaan Pemasangan Rangka Atap Baja Ringan,,1
+20825,687,SPL.KS24.226.01,Membuat Laporan Pelaksanaan Pemasangan Rangka Atap Baja Ringan,,1
+20826,688,SPL.KS11.231.01,"Menerapkan Undang-undang Jasa Konstruksi (UUJK), Sistem Manajemen Keselamatan & Kesehatan Kerja (SMK3) Terkait Dengan Pelaksanaan Pekerjaan Pemasangan Beton Precast.",,1
+20827,688,SPL.KS11.232.01,Melakukan komunikasi dan kerja sama di tempat  kerja,,1
+20828,688,SPL.KS21.231.01,"Memberikan Penjelasan Gambar Kerja, Jadwal (schedule) Kerja, Metode dan Prosedur Kerja.",,1
+20829,688,SPL.KS21.232.01,Membuat rencana kerja harian dan mingguan.,,1
+20830,688,SPL.KS21.233.01,Mengkoordinasikan persiapan pekerjaan pemasangan beton precast.,,1
+20831,688,SPL.KS21.234.01,Melakukan pengawasan dan mengkoordinasikan pelaksanaan pemasangan beton precast.,,1
+20832,688,SPL.KS21.235.01,"Memeriksa, mengevaluasi dan melaporkan hasil pekerjaan pemasangan beton precast.",,1
+20833,688,SPL.KS31.231.01,Menangani Perjanjian/Kontrak Kerja.,,1
+20834,689,KON.KS14.311.01,"Menerapkan Undang-Undang Nomor 18 tahun 1999 tentang Jasa Konstruksi (UUJK), Sistem Manajemen Keselamatan dan Kesehatan Kerja (SMK3), Ketentuan Pengendalian Dampak Lingkungan dan Ketentuan Sistem Manajemen Mutu (SMM)",,1
+20835,689,KON.KS24.311.01,Mengidentifikasi dan menginterpretasi dokumen kontrak baik kontrak Konsultan maupun kontrak Kontraktor,,1
+20836,689,KON.KS24.312.01,Melakukan pengawasan pekerjaan persiapan,,1
+20837,689,KON.KS24.313.01,Melakukan pengawasan pekerjaan galian dan pekerjaan perbaikan pondasi,,1
+20838,689,KON.KS24.314.01,Melakukan pengawasan pekerjaan timbunan dan pekerjaan instrumentasi,,1
+20839,689,KON.KS24.315.01,Melakukan evaluasi dan pelaporan pelaksanaan pekerjaan,,1
+25541,689,KON.SA11.341.01,"Menerapkan Undang-Undang Nomor 18 tahun 1999 tentang Jasa Konstruksi (UUJK), Sistem Manajemen Keselamatan dan Kesehatan Kerja (SMK3), Ketentuan Pengendalian Dampak Lingkungan dan Ketentuan Sistem Manajemen Mutu (SMM). ",,1
+25526,689,KON.SA21.341.01,Mengidentifikasi dan menginterpretasi dokumen kontrak baik kontrak Konsultan maupun kontrak Kontraktor. ,,1
+25530,689,KON.SA21.342.01,Melakukan pengawasan pekerjaan persiapan. ,,1
+25531,689,KON.SA21.343.01,Melakukan pengawasan pekerjaan galian dan pekerjaan perbaikan pondasi. ,,1
+25534,689,KON.SA21.344.01,Melakukan pengawasan pekerjaan timbunan dan pekerjaan instrumentasi. ,,1
+25536,689,KON.SA21.345.01,Melakukan evaluasi dan pelaporan pelaksanaan pekerjaan. ,,1
+20840,690,KON.SG16.201.01,Menerapkan Ketentuan K3 dan Lingkungan Hidup di Tempat Kerja,,1
+20841,690,KON.SG16.202.01,Melakukan Komunikasi dan Kerjasama di Tempat Kerja,,1
+20842,690,KON.SG26.201.01,Mengidentifikasi Komponen Utama,,1
+20843,690,KON.SG26.202.01,Melakukan Pemeliharaan Harian dan Berkala Kapal Keruk,,1
+20844,690,KON.SG26.203.01,Melakukan Perbaikan Ringan,,1
+20845,690,KON.SG26.204.01,Menganalisa dan Mengatasi Gangguan (trouble shooting),,1
+20846,691,KON.KS17.261.01,"Menerapkan ketentuan UUJK, K3, lingkungan dan mutu.",,1
+20847,691,KON.KS27.261.01,Melakukan identifikasi dan interpretasi dokumen kontrak dan rencana mutu kontrak.,,1
+20848,691,KON.KS27.262.01,Membuat program kerja mingguan dan metode pelaksanaan pekerjaan secara detail.,,1
+20849,691,KON.KS27.263.01,Melaksanakan pekerjaan persiapan lapangan.,,1
+20850,691,KON.KS27.264.01,Melaksanakan pekerjaan fisik bangunan pengaman pantai.,,1
+20851,691,KON.KS27.265.01,Membuat laporan dan evaluasi hasil pekerjaan.,,1
+20852,692,KON.SG10.201.01,"Menerapkan Ketentuan Undang-undang Jasa Konstruksi (UUJK), Keselamatan dan Kesehatan Kerja (K3), Lingkungan Kerja dan Mutu",,1
+20853,692,KON.SG20.201.01,"Melakukan Identifikasi dan Intepretasi Spesifikasi Pekerjaan, Peta Lokasi Daerah Penyelidikan dan Risalah Penjelasan Pekerjaan.",,1
+20854,692,KON.SG20.202.01,Melakukan Persiapan Pelaksanaan Pekerjaan.,,1
+20855,692,KON.SG20.203.01,Melakukan Penyelidikan Dilapangan.,,1
+20856,692,KON.SG20.204.01,Melakukan Pengambilan Contoh Tanah/Batuan di Lapangan Untuk Pengujian di Laboratorium.,,1
+20857,692,KON.SG20.205.01,Membuat Laporan Hasil Pelaksanaan Pekerjaan Lapangan.,,1
+169030,693,KON.KS14.201.01,"Menerapkan Ketentuan Undang-Undang Jasa Konstruksi (UUJK), Keselamatan dan Kesehatan Kerja (K3), lingkungan dan mutu.",,1
+169031,693,KON.KS24.201.01,"Melakukan Identifikasi dan Interpretasi Spesifikasi, Gambar Kontrak, Gambar Kerja dan Rencana Mutu.",,1
+169032,693,KON.KS24.202.01,Membuat Program Kerja dan Mempersiapkan Pelaksanaan Pekerjaan Grouting.,,1
+169033,693,KON.KS24.203.01,Melaksanakan Pekerjaan Grouting Sesuai Spesifikasi.,,1
+169034,693,KON.KS24.204.01,Membuat Laporan Hasil Pelaksanaan Grouting.,,1
+20858,694,SPL.KS11.201.01,Menerapkan Keselamatan dan Kesehatan Kerja (K-3),,1
+20859,694,SPL.KS21.201.01,Menyiapkan Metode Pelaksanaan Dan Rencana Kerja Survai Topografi,,1
+20860,694,SPL.KS21.202.01,Membuat Rencana Anggaran Biaya Survai Topografi,,1
+20861,694,SPL.KS21.203.01,Membuat Organisasi Dan Prosedur Kerja Topografi,,1
+20862,694,SPL.KS21.204.01,Melaksanakan Survai Pendahuluan Untuk Menentukan Jalur/Trase Jalan / Jembatan Rencana,,1
+20863,694,SPL.KS21.205.01,Mengelola Pelaksanaan Survai Topografi,,1
+20864,695,SPL.KS11.231.00,"Menerapkan Ketentuan Peraturan Konstruksi, Ketentuan K3 dan Etika Profesi",,1
+20865,695,SPL.KS11.232.00,Melaksanakan Kepemimpinan Pekerjaan Pemasangan Jembatan Rangka Baja Standar,,1
+20866,695,SPL.KS21.231.00,Menyusun Rencana Kerja Pekerjaan Pemasangan Jembatan Rangka Baja Standar,,1
+20867,695,SPL.KS21.232.00,Menyiapkan Lokasi Pelaksanaan Pekerjaan dan Melaksanakan Mobilisasi,,1
+20868,695,SPL.KS21.233.00,Menerapkan Metode Kerja Pekerjaan Pemasangan Jembatan Rangka Baja Standar,,1
+20869,695,SPL.KS21.234.00,Membuat Laporan Kemajuan Pelaksanaan Pekerjaan Pemasangan Jembatan Rangka Baja Standar,,1
+20870,696,SPL.KS11.221.00,Menerapkan Ketentuan Tentang Kegagalan Bangunan dan Konstruksi,,1
+20871,696,SPL.KS11.222.00,Melaksanakan Sistem Manajemen Keselamatan Dan Kesehatan Kerja Secara Konsisten.,,1
+20872,696,SPL.KS21.221.00,Melaksanakan pekerjaan berdasarkan prosedur manajemen konstruksi,,1
+20873,696,SPL.KS21.222.00,Menyediakan data untuk pembuatan gambar kerja pelaksanaan perkerasan jalan beton,,1
+20874,696,SPL.KS21.223.00,Menerapkan Spesifikasi teknik untuk pelaksanaan perkerasan jalan beton,,1
+20875,696,SPL.KS21.224.00,Melaksanakan pekerjaan perkerasan jalan beton,,1
+20876,696,SPL.KS21.225.00,Melaksanakan pengendalian mutu dan waktu dalam pelaksanaan perkerasan jalan beton,,1
+20877,696,SPL.KS21.226.00,Melaksanakan pengendalian pencemaran lingkungan dan pengaturan lalu lintas,,1
+20878,696,SPL.KS21.227.00,Melaksanakan pengukuran dan perhitungan hasil pekerjaan pelaksanaan perkerasan jalan beton,,1
+20879,696,SPL.KS21.228.00,Membuat laporan pelaksanaan perkerasan jalan beton,,1
+20880,697,SPL.KS21.231.00,"Menggambar/plot Peta, Diagram Dan Profil",,1
+20881,697,SPL.KS21.232.00,"Membuat Draft Gambar Rinci Bangunan, Instalasi Dan Proyek Konstruksi",,1
+20882,697,SPL.KS21.233.00,"Mengaplikasikan Sketsa Kasar Gambar, Spesifikasi Dan Data Teknik",,1
+20883,697,SPL.KS21.234.00,Mengidentifikasi Simbol-Simbol Yang Terdapat Pada Survai Peta Topografi,,1
+20884,697,SPL.KS21.235.00,Menginput Data Topografi (Hasil Survai/Rekayasa Injiner) Untuk Diproses Menjadi Gambar/Peta,,1
+20885,697,SPL.KS21.236.00,Menginformasikan Kekurangan Data Gambar Konstruksi Untuk Revisi Gambar Kepada Atasan Langsung,,1
+20886,697,SPL.KS21.237.00,"Menyelesaikan, Menduplikasikan Dan Mendokumentasikan Gambar, Sesuai Dengan Alat Bantu Dan Spesifikasi Yang Dibutuhkan",,1
+20887,698,SPL.KS11.221.00,Menerapkan Keselamatan dan Kesehatan Kerja (K3) dan Lingkungan,,1
+20888,698,SPL.KS21.221.00,Menyiapkan pekerjaan produksi campuran aspal panas secara terperinci dan jelas,,1
+20889,698,SPL.KS21.222.00,Merencanakan kebutuhan peralatan AMP sesuai pesanan (job order),,1
+20890,698,SPL.KS21.223.00,"Menyusun jadual kerja tenaga operator, dan tenaga mekanik lapangan",,1
+20891,698,SPL.KS21.224.00,Merencanakan kebutuhan bahan dan material sesuai pesanan (job order),,1
+20892,698,SPL.KS21.225.00,Mengatur pelaksanaan produksi sesuai kebutuhan pekerjaan di lapangan,,1
+20893,698,SPL.KS21.226.00,Memonitor pelaksanaan pekerjaan pengaspalan di lapangan,,1
+20894,698,SPL.KS21.227.00,Menyusun laporan hasil pelaksanaan pekerjaan,,1
+20895,699,SPL.KS11.231.00,"Menerapkan Prosedur Keselamatan, Kesehatan Kerja dan Lingkungan Hidup (K3LH)",,1
+20896,699,SPL.KS21.231.00,Melaksanakan Perawatan Berkala (Periodical Maintenance) AMP,,1
+20897,699,SPL.KS21.232.00,Melaksanakan Perbaikan AMP,,1
+20898,699,SPL.KS21.233.00,Melaksanakan Erection Dan Dismantling Peralatan AMP,,1
+20899,699,SPL.KS21.234.00,Melaksanakan Rekondisi AMP,,1
+20900,699,SPL.KS21.235.00,Membuat Laporan Pekerjaan AMP,,1
+20926,703,SPL.PG15.211.01,Menerapkan Prosedur Keselamatan dan Kesehatan Kerja (K3),,1
+20927,703,SPL.PG15.212.01,Melakukan Komunikasi dengan Rekan Kerja di Lingkungan Sosial yang Beragam,,1
+20928,703,SPL.PG25.211.01,Melakukan Pekerjaan Persiapan Lahan,,1
+20929,703,SPL.PG25.212.01,Melakukan Pekerjaan Pengolahan Lahan,,1
+20930,703,SPL.PG25.213.01,Melakukan Pekerjaan Penanaman pada Lahan Kerja,,1
+20931,703,SPL.PG25.214.01,Melakukan Pekerjaan Perapihan dan Penyiraman,,1
+21067,710,TTL.PA15.261.00,Menerapkan peraturan-peraturan yang berkaitan dengan perencanaan bidang sanitasi lingkungan (air limbah permukiman),,1
+21068,710,TTL.PA25.261.00,Mengumpulkan dan mempelajari data sekunder dan data primer dalam perencanaan bidang sanitasi lingkungan (air limbah permukiman),,1
+21069,710,TTL.PA25.262.00,"Menetapkan tingkat, proyeksi, dan daerah pelayanan sistem sanitasi lingkungan",,1
+21070,710,TTL.PA25.263.00,Menentukan sistem sanitasi lingkungan (air limbah permukiman) yang sesuai dengan kondisi dan situasi setempat,,1
+21071,710,TTL.PA25.264.00,Menyusun Detailed Engineering Design (DED) sistem sanitasi lingkungan (air limbah permukiman),,1
+21072,710,TTL.PA25.265.00,Menyusun laporan,,1
+21139,713,TTL.PA15.273.00,"Menerapkan Ketentuan Peraturan Jasa Konstruksi, K3, Pengendalian Lingkungan Kerja dan Mutu",,1
+21140,713,TTL.PA15.274.00,Menerapkan Dokumen Kontrak,,1
+21141,713,TTL.PA25.2710.00,Melaksanakan Konstruksi Bangunan Unit Produksi,,1
+21142,713,TTL.PA25.2711.00,Melaksanakan Pengawasan dan Pengendalian Mutu Pekerjaan,,1
+21143,713,TTL.PA25.2712.00,Membuat Laporan Pelaksanaan Pekerjaan Konstruksi Bangunan Produksi SPAM,,1
+21144,713,TTL.PA25.277.00,Membuat Program Kerja dan Metode Pelaksanaan Pekerjaan Secara Detail,,1
+21145,713,TTL.PA25.278.00,Melaksanakan Pekerjaan Persiapan Pelaksanaan Program Kerja dan Lapangan,,1
+21146,713,TTL.PA25.279.00,Mengidentifikasi dan Merencanakan Kebutuhan Peralatan dan Material Serta Waktu Pelaksanaan,,1
+21147,714,TTL.PA15.261.00,Melaksanakan peraturan K3 (Keselamatan dan Kesehatan Kerja) dan ketentuan mutu serta mengatur lingkungan kerja,,1
+21148,714,TTL.PA25.261.00,Menterjemahkan gambar kerja dan spesifikasi teknis,,1
+21149,714,TTL.PA25.262.00,Membuat jadual teknis sesuai dengan lingkup pekerjaan,,1
+21150,714,TTL.PA25.263.00,Melaksanakan pekerjaan persiapan lapangan dalam pekerjaan bangunan air limbah permukiman,,1
+21151,714,TTL.PA25.264.00,Melaksanakan pekerjaan bangunan air limbah permukiman,,1
+21152,714,TTL.PA25.265.00,Melaporkan hasil pekerjaan lapangan kepada atasan langsung,,1
+21153,715,TTL.PA15.211.00,Melaksanakan Peraturan K3 (Keselamatan dan Kesehatan Kerja) dan Ketentuan Mutu serta Mengatur Lingkungan Kerja,,1
+21154,715,TTL.PA25.211.00,Membuat Jadual Pelaksanaan Pemasangan Lapisan Kedap Air di TPA,,1
+21155,715,TTL.PA25.212.00,Melaksanakan Pekerjaan Persiapan Lapangan Dalam Pemasangan Lapisan Kedap Air di TPA,,1
+21156,715,TTL.PA25.213.00,Melaksanakan Pemasangan Lapisan Kedap Air,,1
+21157,715,TTL.PA25.214.00,Melaporkan Hasil Pekerjaan Pemasangan Lapisan Kedap Air,,1
+21158,716,TTL.PA15.251.00,Melaksanakan Peraturan K3 (Keselamatan dan Kesehatan Kerja) dan Ketentuan Mutu Serta Mengatur Lingkungan Kerja,,1
+21159,716,TTL.PA25.251.00,Membuat Jadwal Pelaksanaan Pemasangan Pipa Leachate (Lindi) dan Pipa Gas/Ventilasi,,1
+21160,716,TTL.PA25.252.00,Melaksanakan Pekerjaan Persiapan Lapangan Pemasangan Pipa Leachate (Lindi) dan Pipa Gas/Ventilasi,,1
+21161,716,TTL.PA25.253.00,Melaksanakan Pekerjaan Pemasangan Pipa Leachate (Lindi) dan Pipa Gas/Ventilasi,,1
+21162,716,TTL.PA25.254.00,Melaporkan Hasil Pekerjaan Dalam Pemasangan Pipa Leachate (Lindi) dan Pipa Gas/Ventilasi,,1
+171808,1047,BB.1001A,Membaca dan Menerjemahkan Gambar Konstruksi,,1
+171811,1047,BB.1002A,Merencanakan dan Mengatur Pekerjaan Konstruksi,,1
+171813,1047,BB.1003A,Melakukan Komunikasi di Tempat Kerja,,1
+171817,1047,BB.1004A,Menerapkan Persyaratan K3,,1
+171819,1047,BB.1005A,Melakukan Pengukuran dan Perhitungan Sederhana,,1
+171826,1047,BB.1006A,Menggunakan Peralatan Tangan dan Peralatan Mekanik/Listrik,,1
+171829,1047,BB.1007A,Menangani Material Konstruksi dan Membuang Bahan Sisa,,1
+171833,1047,BB.1008A,Membuat Laporan dan Memelihara Catatan Mutu,,1
+171835,1047,BB.1009A,Menggunakan Komputer,,1
+171839,1047,BB.2001A,Mengidentifikasikan Standar-Standar Yang Terkait Konstruksi Batu/Beton,,1
+171844,1047,BB.2002A,Mempersiapkan Lokasi dan Lapangan Kerja,,1
+171847,1047,BB.2003A,Melakukan Pekerjaan Pengukuran dan Leveling Lapangan,,1
+171849,1047,BB.2004A,Membuat Gambar Kerja,,1
+171856,1047,BB.2005A,Menyusun DaftarKebutuhan Material,,1
+171861,1047,BB.2006A,Melakukan Pengadaan Material,,1
+171867,1047,BB.2007A,Melakukan Penanganan dan Pendistribusian Material & Peralatan,,1
+171871,1047,BB.2008A,Memeriksa Material Agregate Halus dan Agregat Kasar di Lapangan,,1
+171877,1047,BB.2009A,Memeriksa Material Semen di Lapangan,,1
+171882,1047,BB.2010A,Memasang Papan Duga Untuk Acuan dan Perancah,,1
+171886,1047,BB.2011A,Mempersiapkan Acuan dan Perancah,,1
+171888,1047,BB.2012A,Memasang Acuan dan Perancah,,1
+171893,1047,BB.2013A,Mempersiapkan Tulangan/Pembesian di Lapangan,,1
+171897,1047,BB.2014A,Memasang Tulangan/Pembesian,,1
+171900,1047,BB.2015A,Merencanakan Campuran Beton Dengan Kuat Tekan < K175,,1
+171903,1047,BB.2016A,Merencanakan Campuran Beton Dengan Kuat Tekan > K175,,1
+171906,1047,BB.2017A,Membuat Adukan Beton Segar,,1
+171907,1047,BB.2018A,Melaksanakan Pengecoran Beton Pada Kondisi Normal,,1
+171910,1047,BB.2019A,Melaksanakan Pengecoran Beton Pada Kondisi Bawah Air,,1
+171913,1047,BB.2020A,Melaksanakan Pengecoran Beton Pada Kondisi Tinggi Jatuh > 2m,,1
+171918,1047,BB.2021A,Melaksanakan Penyelesaian Akhir pada Beton,,1
+171921,1047,BB.2022A,Melaksanakan Perawatan Beton,,1
+171923,1047,BB.2023A,Membuat dan Memasang Beton Pracetak Pada Bangunan Drainase,,1
+171927,1047,BB.2024A,Membuat dan Memasang Beton Pracetak Pada Bangunan Gedung dan Jembatan,,1
+171933,1047,BB.2025A,Membuat Gambat Terpasang,,1
+171934,1047,BB.2026A,Membuat Laporan Kemajuan Kerja,,1
+171937,1047,BB.2027A,Mempersiapkan Material Konstruksi Pasangan Batu,,1
+171939,1047,BB.2028A,Mempersiapkan Lokasi Pasangan Batu,,1
+171943,1047,BB.2029A,Memasang Papan Duga Pekerjaan Konstruksi Pasangan Batu,,1
+171944,1047,BB.2030A,Mempersiapkan Adukan Mortar/ Spesi,,1
+171946,1047,BB.2031A,Membuat Pasangan Pondasi Batu Belah,,1
+171948,1047,BB.2032A,Membuat Pasangan Dinding Penahan Tanah dari Batu Belah Hingga Ketinggian 3 meter,,1
+171950,1047,BB.2033A,Membuat Pasangan Dinding Batu Bata Hingga Ketinggian 3 meter,,1
+171952,1047,BB.3001A,Melakukan Evaluasi Rencana Penggunaan Beton,,1
+171954,1047,BB.3002A,Mengawasi Kualitas Konstruksi Beton Pada Bangunan Rumah Sederhana dan Rumah Susun,,1
+171955,1047,BB.3003A,"Mengawasi Kualitas Konstruksi Beton Pada Bangunan Jalan, Drainase dan Jembatan",,1
+171956,1047,BB.3004A,"Mengawasi Kualitas Konstruksi Beton Pada Bangunan Air Bersih, Sanitasi dan Sampah",,1
+171957,1047,BB.3005A,Mengawasi Kualitas Konstruksi Beton Pada Bangunan Waduk dan Bendungan,,1
+171959,1047,BB.3006A,Mengawasi Kualitas Konstruksi Beton Pada Bangunan Transportasi Udara,,1
+171960,1047,BB.3007A,Mengawasi Kualitas Konstruksi Beton Pada Bangunan Tepi Pantai,,1
+171961,1047,BB.3008A,"Mengawasi Kualitas Konstruksi Beton Pada Bangunan Gedung Tinggi, Bangunan Bawah Tanah, Revitalisasi dan Kawasan",,1
+171963,1047,BB.3009A,Melakukan Perbaikan Beton Pasca Pengecoran,,1
+171965,1047,BB.3010A,Melaksanakan Pekerjaan Beton Pratekan,,1
+15340,586,A.013020.012.01,Menyiapkan pengujian  ,,1
+15341,586,A.013020.013.01,Melakukan pengujian,,1
+15342,586,A.016400.001.01,Menyusun kebutuhan benih  ,,1
+15343,586,A.016400.002.01,Merencanakan produksi benih,,1
+15344,586,A.016400.003.01,Menerapkan teknik penanaman,,1
+15345,586,A.016400.004.01,Mengelola pertanaman ,,1
+15346,586,A.016400.005.01,Melakukan panen,,1
+15347,586,A.016400.006.01,Melakukan pengolahan calon benih,,1
+15348,586,A.016400.007.01,Melakukan penanganan benih,,1
+15349,586,IMG.IR01.001.01,Menerapkan Peraturan dan Perundangan Keselamatan dan Kesehatan Kerja,,1
+15350,586,IMG.IR01.002.01,Menerapkan Keselamatan dan Kesehatan Kerja di Tempat Kerja,,1
+15351,586,IMG.IR02.001.01,Melaksanakan Pemeriksaan Sistem Pengangkat,,1
+15352,586,IMG.IR02.002.01,Melaksanakan Pemeriksaan sistem pemutar,,1
+15353,586,IMG.IR02.003.01,Melaksanakan Pemeriksaan Sistem Sirkulasi,,1
+15354,586,IMG.IR02.004.01,Melaksanakan Pemeriksaan Sistem Pencegah Semburan Liar,,1
+15355,586,IMG.IR02.005.01,Melaksanakan Pemeriksaan Sistem Tenaga,,1
+15356,586,IMG.IR03.001.01,Membuat Laporan Inspeksi,,1
+15357,586,PAR.HT02.001.01,MEMBERSIHKAN DAN MERAPIKAN AREA BAR  ,,1
+15358,586,PAR.HT02.002.01,MENGOPERASIKAN BAR ,,1
+15359,586,PAR.HT02.003.01,MENYEDIAKAN LAYANAN MAKANAN DAN MINUMAN,,1
+15360,586,PAR.HT02.004.01,MENYEDIAKAN LAYANAN MEJA UNTUK MINUMA BERALKOHOL ,,1
+15361,586,PAR.HT02.005.01,MENGOPERASIKAN SISTEM PENYIMPANAN ANGGUR,,1
+15362,586,PAR.HT02.006.01,MELENGKAPI PENJUALAN ECERAN MINUMAN KERAS ,,1
+15363,586,PAR.HT02.007.01,MENYEDIAKAN ROOM SERVICE,,1
+15364,586,PAR.HT02.008.01,MENYEDIAKAN PELAYANAN YANG BERTANGGUNG JAWAB TERHADAP MINUMAN BERALKOHOL ,,1
+15365,586,PAR.HT02.009.01,MENYIAPKAN DAN MENGHIDANGKAN MINUMAN NON-ALKOHOL,,1
+15366,586,PAR.HT02.010.01,MENGEMBANGKAN DAN MEMPERBAHARUI PENGETAHUAN TENTANG MAKANAN DAMINUMAN ,,1
+15367,586,PAR.HT02.011.01,MENYEDIAKAN PENGHUBUNG ANTARA DAPUR DAN AREA PELAYANAN,,1
+15368,586,PAR.HT02.012.01,MENYEDIAKAN SARAN AHLI TENTANG MAKANAN ,,1
+15369,586,PAR.HT02.013.01,MENYEDIAKAN LAYANAN MINUMAN ANGGUR ,,1
+15370,586,PAR.HT02.014.01,MENYIAPKAN DAN MENYAJIKANCOCKTAIL,,1
+15371,586,PAR.HT02.015.01,MENYEDIAKAN LAYANAN GUERIDON ,,1
+15372,586,PAR.HT02.016.01,MENYEDIAKAN SILVER SERVICE,,1
+15373,586,PAR.HT02.017.01,MENERIMA DAN MEMPROSES RESERVASI,,1
+15374,586,PAR.HT02.018.01,MENYEDIAKAN LAYANAN AKOMODASI RECEPTION,,1
+15375,586,PAR.HT02.019.01,MEMELIHARA CATATAN KEUANGAN ,,1
+15376,586,PAR.HT02.020.01,MEMPROSES TRANSAKSI KEUANGAN  ,,1
+15377,586,PAR.HT02.021.01,MELAKSANAKAN PROSEDUR KLERIKAL ,,1
+15378,586,PAR.HT02.022.01,BERKOMUNIKASI MELALUI  TELEPON,,1
+15379,586,PAR.HT02.023.01,MELAKSANAKAN AUDIT MALAM ,,1
+15380,586,PAR.HT02.024.01,MENYEDIAKAN LAYANAN RESEPSI KLUB,,1
+15381,586,PAR.HT02.025.01,MENYEDIAKAN JASA PORTER,,1
+15382,586,PAR.HT02.026.01,MENYEDIAKAN JASA HOUSEKEEPING UNTUK TAMU ,,1
+15383,586,PAR.HT02.027.01,MEMBERSIHKAN LOKASI/AREA DAN PERALATAN ,,1
+15384,586,PAR.HT02.028.01,MENYIAPKAN KAMAR UNTUK TAMU ,,1
+15385,586,PAR.HT02.029.01,MENANGANI LINEN DAN PAKAIAN TAMU ,,1
+15386,586,PAR.HT02.030.01,MENYEDIAKAN JASA VALET ,,1
+15387,586,PAR.HT02.031.01,MENJAGA KEAMANAN LINGKUNGAN KERJA DAN HARTA BENDA ,,1
+15388,586,PAR.HT02.032.01,"MENENTUKAN DAN MENGGUNAKAN PETUGAS KEAMANAN YANG MEMADAI UNTUK MENGAWASI, AKSES MENUJU DAN KELUAR LOKASI",,1
+15389,586,PAR.HT02.033.01,MENJAGA KESELAMATAN LOKASI DAN PERSONIL ,,1
+15390,586,PAR.HT02.034.01,MENANGANI ORANG YANG MABUK ,,1
+15391,586,PAR.HT02.035.01,MENGOPERASIKAN PERLENGKAPAN DASAR KEAMANAN,,1
+15392,586,PAR.HT02.036.01,MENAHAN/MENANGKAP PELANGGAR HUKUM,,1
+15393,586,PAR.HT02.037.01,MEMERIKSA TAS/KOPOR DAN ORANG-ORANG UNTUK MEMINIMALKAN RESIKO KEAMANAN,,1
+15394,586,PAR.HT02.038.01,MENGAWAL DAN MEMBAWA BARANG-BARANG BERHARGA,,1
+15395,586,PAR.HT02.039.01,MENGAWASI KHALAYAK RAMAI ,,1
+15396,586,PAR.HT02.040.01,MENGGUNAKAN TONGKAT DAN BORGOL,,1
+15397,586,PAR.HT02.041.01,MENGINTERPRETASIKAN INFORMASI DARI PERLENGKAPAN KEAMANAN YANG SUDAH MAJU ,,1
+15398,586,PAR.HT02.042.01,MENGOPERASIKAN STATION PENGAWAS/ KOMUNIKASI SENTRAL,,1
+15399,586,PAR.HT02.043.01,MEMONITOR AKTIFITAS STAF LAPANGAN DARI RUANG KONTROL,,1
+15400,586,PAR.HT02.044.01,MENGOPERASIKAN KENDARAAN KEAMANAN,,1
+15401,586,PAR.HT02.045.01,MENANGANI ANJING-ANJING UNTUK PATROLI ,,1
+15402,586,PAR.HT02.046.01,MENYEDIAKAN FASILITAS KEHILANGAN DAN PENEMUAN BARANG,,1
+15403,586,PAR.HT02.047.01,MENGAMATI DAN MEMONITOR ORANG ,,1
+15404,586,PAR.HT02.048.01,MERENCANAKAN DAN MELAKSANAKAN EVAKUASI LOKASI,,1
+15405,586,PAR.HT02.049.01,MENYEDIAKAN KEAMANAN UNTUK TAMU VIP,,1
+15406,586,PAR.HT02.058.01,MENGORGANISIR DAN MENYIAPKAN MAKANAN ,,1
+15407,586,PAR.HT02.059.01,MENYAJIKAN MAKANAN,,1
+15408,586,PAR.HT02.060.01,MENERIMA DAN MENYIMPAN PERSEDIAAN ,,1
+15409,586,PAR.HT02.061.01,MEMBERSIHKAN LOKASI/AREA DAN PERALATAN,,1
+15410,586,PAR.HT02.062.01,MENGGUNAKAN METODE DASAR MEMASAK ,,1
+15411,586,PAR.HT02.063.01,MENYIAPKAN APPETISER  DAN SALAD,,1
+15412,586,PAR.HT02.064.01,MENYIAPKAN SANDWICH,,1
+15413,586,PAR.HT02.065.01,MENYIAPKAN KALDU DAN SAUS ,,1
+15414,586,PAR.HT02.066.01,MENYIAPKAN SUP ,,1
+15415,586,PAR.HT02.067.01,"MENYIAPKAN SAYURAN, TELUR MAKANAN YANG TERBUAT DARI TEPUNG",,1
+15416,586,PAR.HT02.068.01,MENYIAPKAN DAN MEMASAK UNGGAS DAN BINATANG BURUAN ,,1
+15417,586,PAR.HT02.069.01,MENYIAPKAN DAN MEMASAK SEAFOOD,,1
+15418,586,PAR.HT02.070.01,MENGIDENTIFIKASI DAN MENYIAPKAN DAGING ,,1
+15419,586,PAR.HT02.071.01,MENYIAPKAN DESSERT YANG DISAJIKAN PANAS DAN DINGIN,,1
+15420,586,PAR.HT02.072.01,"MENYIAPKAN PASTRY, KUE DAN MAKANAN YANG MENGANDUNG RAGI",,1
+15421,586,PAR.HT02.073.01,MERENCANAKAN DAN MENYIAPKAN MAKANAN UNTUK BUFFET,,1
+15422,586,PAR.HT02.074.01,MELAKSANAKAN PROSEDUR KESELAMATAN MAKANAN,,1
+15423,586,PAR.HT02.075.01,MENYIAPKAN DAN MENYAJIKAN MAKANAN BERDASARKAN POLA DIET ,,1
+15424,586,PAR.HT02.076.01,MERENCANAKAN DAN MENGONTROL JASA BOGA  BERDASARKAN MENU,,1
+15425,586,PAR.HT02.077.01,MENGORGANISIR OPERASINAL MASAKAN DALAM JUMLAH  BESAR,,1
+15426,586,PAR.HT02.078.01,MENGELOLA OPERASIONAL LAYANAN MAKANAN ,,1
+15427,586,PAR.HT02.079.01,MENYIAPKAN PATE DAN TERRINE,,1
+15428,586,PAR.HT02.080.01,"MERENCANAKAN, MENYIAPKAN DAN MENAMPILKAN BUFFET",,1
+15429,586,PAR.HT02.081.01,MENYIAPKAN PORSI POTONGAN DAGING YANG TERKONTROL ,,1
+15430,586,PAR.HT02.082.01,MENANGANI DAN MENGHIDANGKAN KEJU ,,1
+15431,586,PAR.HT02.083.01,MENYIAPKAN COKLAT DAN PERMEN COKLAT ,,1
+15432,586,PAR.HT02.084.01,"MEMILIH, MENYIAPKAN DANMENGHIDANGKAN JENIS MAKANAN KHUSUS ",,1
+15433,586,PAR.HT02.085.01,"MEMILIH, MENYIAPKAN DAN MENGHIDANGKAN HIDANGAN KHUSUS",,1
+15434,586,PAR.HT02.086.01,MEMONITOR PENDAPATAN DAN BIAYA JASA BOGA ,,1
+15435,586,PAR.HT02.087.01,MEMBINA DAN MENJAGA KENDALI MUTU ,,1
+15436,586,PAR.HT02.088.01,MENGEMBANGKAN RENCANA KESELAMATAN MAKANAN,,1
+15437,586,PAR.HT02.089.01,MENYIAPKAN MAKANAN BERDASARKAN DIET KHUSUS DAN KEBUTUHAN BUDAYA,,1
+15438,586,PAR.HT02.090.01,PAKET BAHAN MAKANAN YANG DISIAPKAN ,,1
+15439,586,PAR.HT02.091.01,MENGANGKUT DAN MENYIMPAN MAKANAN DENGAN CARA YANG AMAN DAN BERSIH ,,1
+15440,586,PAR.HT02.092.01,MENGOPERASIKAN OUTLET MAKANAN CEPAT SAJI ,,1
+15441,586,PAR.HT02.093.01,MENERAPKAN PROSES PRODUKSI COOK-CHILL  ,,1
+15442,586,PAR.HT02.094.01,MENERAPKAN PRINSIP-PRINSIP KONTROL JASA BOGA  ,,1
+15443,586,PAR.HT02.095.01,MENYIAPKAN RENCANA HIDANGAN HARIAN UNTUK MENINGKATKAN KESEHATAN ,,1
+15444,586,PAR.HT02.097.01,MEMILIH SISTEM JASA BOGA ,,1
+15445,586,PAR.HT02.098.01,MENGATUR FASILITAS YANG BERHUBUNGAN DENGAN KONTRAK JASA BOGA KOMERSIAL,,1
+15446,586,PAR.HT02.099.01,MERENCANAKAN KONSEP TOTAL UNTUK PERAYAAN ATAU PESTA BESAR,,1
+15447,586,PAR.HT02.100.01,MENYIAPKAN TENDER UNTUK KONTRAK JASA BOGA ,,1
+15448,586,PAR.HT02.101.01,MERANCANG MENU UNTUK MEMENUHI KEBUTUHAN PASAR,,1
+15449,586,PAR.HT02.102.01,MEMILIH SISTEM PRODUKSI COOK-CHILL,,1
+15450,586,PAR.HT02.103.01,MENYIAPKAN DAN MEMBUAT PASTRY ,,1
+15451,586,PAR.HT02.104.01,MENYIAPKAN DAN MEMBUAT KUE ,,1
+15452,586,PAR.HT02.105.01,MENYIAPKAN DAN MEMBUAT MAKANAN YANG MENGANDUNG RAGI,,1
+15453,586,PAR.HT02.106.01,MENYIAPKAN PRODUK ROTI UNTUK PATISSERIE ,,1
+15454,586,PAR.HT02.107.01,"MENYIAPKAN DAN MENYAJIKAN GATEAUX, TORTEN DAN KUE ",,1
+15455,586,PAR.HT02.108.01,MENYAJIKAN DESSERT,,1
+15456,586,PAR.HT02.109.01,MENYIAPKAN DAN MENAMPILKAN PETIT FOUR  ,,1
+15457,586,PAR.HT02.110.01,MENYIAPKAN DAN MEMBENTUK MARZIPAN,,1
+15458,586,PAR.HT02.111.01,MENYIAPKAN DESSERT UNTUK MEMENUHI PERSYARATAN DIET KHUSUS,,1
+15459,586,PAR.HT02.112.01,MENYIAPKAN DAN MENAMPILKAN SUGAR WORK,,1
+15460,586,PAR.HT02.113.01,"MERENCANAKAN, MENYIAPKAN DAN MENAMPILKAN PERAGAAN SWEET BUFFET",,1
+15461,586,PAR.HT02.114.01,MERENCANAKAN DAN MENGOPERASIKAN COFFEE SHOP,,1
+15462,586,PAR.HT02.115.01,MERENCANAKAN KARIR DALAM PENGOLAHAN DAN PENGHIDANGAN MASAKAN CINA ,,1
+15463,586,PAR.HT02.116.01,MENGGUNAKAN PRINSIP-PRINSIP DAN METODE DALAM PENGOLAHAN DAN PENGHIDANGAN MASAKAN CINA ,,1
+15464,586,PAR.HT02.117.01,MENYIAPKAN DAN MEMBUAT MASAKAN CANTON (GUANGDONG) ,,1
+15465,586,PAR.HT02.118.01,MENYIAPKAN DAN MEMBUAT MASAKAN CANTON (GUANGDONG) DAN MASAKAN CINA SELATAN (CHIU CHOW) ,,1
+15466,586,PAR.HT02.119.01,MENYIAPKAN DAN MEMBUAT MASAKAN SICHUAN  ,,1
+15467,586,PAR.HT02.120.01,MENYIAPKAN DAN MEMBUAT MASAKAN SICHUAN DAN CINA BARAT ,,1
+15468,586,PAR.HT02.121.01,MENYIAPKAN DAN MEMBUAT MASAKAN BEIJING  ,,1
+15469,586,PAR.HT02.122.01,MENYIAPKAN DAN MEMBUAT MASAKAN BEIJING DAN CINA UTARA ,,1
+15470,586,PAR.HT02.123.01,MENYIAPKAN DAN MEMBUAT MASAKAN SHANGHAI  ,,1
+15471,586,PAR.HT02.124.01,MENYIAPKAN DAN MEMBUAT MASAKAN SHANGHAI DAN CINA TIMUR  ,,1
+15472,586,PAR.HT02.125.01,MENYIAPKAN DAN MEMBUAT DIM SUM (MANIS DAN GURIH) DAN DESSERT ,,1
+15473,586,PAR.HT02.126.01,MENYIAPKAN DAN MEMASAK POTONGAN DAGING PANGGANG (BARBECUED DAN DAGING SERTA DAGING UNGGAS ASAP),,1
+15474,586,PAR.HT02.127.01,"MERANCANG, MERENCANAKAN DAN MENULIS MENU CINA ",,1
+15475,586,PAR.HT02.128.01,MENYIAPKAN DAN MEMBUAT PENYAJIAN APPETISER DINGIN ,,1
+15476,586,PAR.HT02.129.01,MERANCANG DAN MENGOPERASIKAN DAPUR RESTORAN CINA ,,1
+15477,586,PAR.HT02.130.01,MERANCANG KARIR DALAM PENGOLAHAN DAN PENGHIDANGAN MASAKAN THAILAND ,,1
+15478,586,PAR.HT02.131.01,MENYIAPKAN DAN MEMBUAT JENIS MAKANAN KALDU (KRUNG GAENG) ,,1
+15479,586,PAR.HT02.132.01,MENYIAPKAN DAN MEMBUAT SAUS DAN DIP (NAM PRIK) ,,1
+15480,586,PAR.HT02.133.01,MENYIAPKAN DAN MEMBUAT SALAD (YAM AND LARP)  ,,1
+15481,586,PAR.HT02.134.01,MENYIAPKAN DAN MEMBUAT KALDU DAN SUP (TOM YAM) ,,1
+15482,586,PAR.HT02.135.01,"MENYIAPKAN DAN MEMBUAT HIDANGAN DAGING UNGGAS, DAGING, SEAFOOD DAN KALDU SAYUR-SAYURAN ",,1
+15483,586,PAR.HT02.136.01,"MENYIAPKAN DAN MEMBUAT HIDANGAN NASI DAN MIE (PAD, KHANOM) ",,1
+15484,586,PAR.HT02.137.01,MENYIAPKAN DAN MEMBUAT DESSERT ALA THAILAND ,,1
+15485,586,PAR.HT02.138.01,"MERANCANG, MERENCANAKAN DAN MENULIS MENU HIDANGAN THAILAND ",,1
+15486,586,PAR.HT02.139.01,MERANCANG DAN MENGOPERASIKAN DAPUR RESTORAN THAILAND,,1
+15487,586,PAR.HT02.140.01,MERENCANAKAN KARIR DALAM PENGOLAHAN DAN PENGHIDANGAN MASAKAN INDIA,,1
+15488,586,PAR.HT02.141.01,MENYIAPKAN DAN MEMBUAT BUBUK KARI (MASALA) ,,1
+15489,586,PAR.HT02.142.01,MENYIAPKAN DAN MEMBUAT APPETISER DAN KUDAPAN,,1
+15490,586,PAR.HT02.143.01,MENYIAPKAN DAN MEMBUAT SAYUR-SAYURAN DAN KACANG LENTIL,,1
+15491,586,PAR.HT02.144.01,MENYIAPKAN DAN MEMBUAT SUP ,,1
+15492,586,PAR.HT02.145.01,MENYIAPKAN DAN MEBUAT KARI,,1
+15493,586,PAR.HT02.146.01,MENYIAPKAN DAN MEMBUAT JENIS MAKANAN TANDOORI ,,1
+15494,586,PAR.HT02.147.01,MENYIAPKAN DAN MEMBUAT HIDANGAN NASI ,,1
+15495,586,PAR.HT02.148.01,MENYIAPKAN DAN MEMBUAT ROTI INDIA ,,1
+15496,586,PAR.HT02.149.01,MENYIAPKAN DAN MEMBUAT MANISAN INDIA,,1
+15497,586,PAR.HT02.150.01,MENYIAPKAN DAN MEMBUAT CHUTNEY DAN ACAR,,1
+15498,586,PAR.HT02.151.01,"MERENCANAKAN, MERANCANG DAN MENULIS MENU INDIA ",,1
+15499,586,PAR.HT02.152.01,MERANCANG DAN MENGOPERASIKAN DAPUR RESTORAN INDIA ,,1
+15500,586,PAR.HT02.153.01,MERENCANAKAN KARIR DALAM PENGOLAHAN MASAKAN INDONESIA ,,1
+15501,586,PAR.HT02.154.01,MENYIAPKAN DAN MEMBUAT BUMBU KARI,,1
+15502,586,PAR.HT02.155.01,MENYIAPKAN DAN MEMBUAT APPETISER DAN KUDAPAN,,1
+15503,586,PAR.HT02.156.01,"MENYIAPKAN DAN MEMBUAT SALAD (GADO-GADO, URAP DAN RUJAK)",,1
+15504,586,PAR.HT02.157.01,MENYIAPKAN DAN MEMBUAT KALDU DAN SUP (SOTO),,1
+15505,586,PAR.HT02.158.01,"MENYIAPKAN DAN MEMBUAT HIDANGAN KARI DAGING, AYAM, SEAFOOD DAN SAYURAN",,1
+15506,586,PAR.HT02.159.01,MENYIAPKAN DAN MEMBUAT HIDANGAN NASI DAN MIE ,,1
+15507,586,PAR.HT02.160.01,MENYIAPKAN DAN MEMBUAT SATE/JENIS MAKANAN PANGGANG ,,1
+15508,586,PAR.HT02.161.01,MENYIAPKAN DAN MEMBUAT MAKANAN PENGIRING ,,1
+15509,586,PAR.HT02.16201,MENYIAPKAN DAN MEMBUAT DESSERT INDONESIA ,,1
+15510,586,PAR.HT02.163.01,"MERANCANG, MERENCANAKAN DAN MENULIS MENU HIDANGAN INDONESIA ",,1
+15511,586,PAR.HT02.164.01,MERANCANG DAN MENGOPERASIKAN DAPUR RESTORAN INDONESIA,,1
+15512,586,PAR.HT02.165.01,MERENCANAKAN KARIR DALAM PENGOLAHAN DAN PENGHIDANGAN MASAKAN MALAYSIA-NONYA ,,1
+15513,586,PAR.HT02.166.01,MENYIAPKAN DAN MEMBUAT PASTE KARI (REMPAH),,1
+15514,586,PAR.HT02.167.01,"MENYIAPKAN DAN MEMBUAT APPETISER, KUDAPAN AND MAKANAN PESTA ",,1
+15515,586,PAR.HT02.168.01,MENYIAPKAN DAN MEMBUAT KALDU DAN SUP ,,1
+15516,586,PAR.HT02.169.01,"MENYIAPKAN DAN MEMBUAT HIDANGAN KARI DAGING, AYAM, SEAFOOD DAN SAYUR-SAYURAN (GULAI)",,1
+15517,586,PAR.HT02.170.01,"MENYIAPKAN DAN MEMBUAT SALAD DAN ACAR (KERABU, ACHAR, RUJUK)",,1
+15518,586,PAR.HT02.171.01,MENYIAPKAN DAN MEMBUAT HIDANGAN NASI DAN MIE ,,1
+15519,586,PAR.HT02.172.01,MENYIAPKAN DAN MEMBUAT SATE ATAU JENIS MAKANAN PANGGANG  ,,1
+15520,586,PAR.HT02.173.01,MENYIAPKAN DAN MEMBUAT DESSERT ALA MALAYSIA-NONYA,,1
+15521,586,PAR.HT02.174.01,"MERANCANG, MERENCANAKAN DAN MENULIS MENU MASAKAN MALAYSIA-NONYA ",,1
+15522,586,PAR.HT02.175.01,MERANCANG DAN MENGOPERASIKAN DAPUR RESTORAN MALAYSIA -NONYA RESTORAN ,,1
+15523,586,PAR.HT02.176.01,MERENCANAKAN KARIR DALAM PENGOLAHAN DAN PENGHINDANGAN MASAKAN JEPANG,,1
+15524,586,PAR.HT02.177.01,"MENYIAPKAN DAN MEMBUAT KALDU DAN SUP (a.l, DASHI, SHIRUMONO, SUIMONO)",,1
+15525,586,PAR.HT02.178.01,MENYIAPKAN DAN MEMBUAT APPETISER ,,1
+15526,586,PAR.HT02.179.01,MENYIAPKAN DAN MEMBUAT HIDANGANIKAN MENTAH ,,1
+15527,586,PAR.HT02.180.01,"MENYIAPKAN DAN MEMBUAT HIDANGAN YANG DIREBUS, DIBAKAR, DIGORENG DAN DIKUKUS ",,1
+15528,586,PAR.HT02.181.01,MENYIAPKAN DAN MEMBUAT SALAD DAN ACAR ,,1
+15529,586,PAR.HT02.182.01,MENYIAPKAN DAN MEMBUAT PENGOLAHAN MAKANAN DALAM MANGKOK,,1
+15530,586,PAR.HT02.183.01,MENYIAPKAN DAN MEMBUAT HIDANGAN NASI ,,1
+15531,586,PAR.HT02.184.01,MENYIAPKAN DAN MEMBUAT MAKANAN DARI MIE ,,1
+15532,586,PAR.HT02.185.01,"MENYIAPKAN DAN MEMBUAT BUAH-BUAHAN, KUE, ROTI DAN MANISAN",,1
+15533,586,PAR.HT02.186.01,"MERANCANG, MERENCANAKAN DAN MENULIS MENU MASAKAN JEPANG ",,1
+15534,586,PAR.HT02.187.01,MERANCANG DAN MENGOPERASIKAN DAPUR RESTORAN MASAKAN JEPANG ,,1
+15535,586,PAR.HT02.188.01,MERANCANG KARIR DALAM PROSES DAN PENGHIDANGAN MASAKAN VIETNAM ,,1
+15536,586,PAR.HT02.189.01,MENYIAPKAN DAN MEMBUAT APPETISER,,1
+15537,586,PAR.HT02.190.01,MENYIAPKAN DAN MEMBUAT SAUS DAN DIP,,1
+15538,586,PAR.HT02.191.01,MENYIAPKAN DAN MEMBUAT SALAD,,1
+15539,586,PAR.HT02.192.01,MENYIAPKAN DAN MEMBUAT KALDU DAN SUP ,,1
+15540,586,PAR.HT02.193.01,"MENYIAPKAN DAN MEMBUAT HIDANGAN DAGING, SEAFOOD DAN SAYUR-SAYURAN ",,1
+15541,586,PAR.HT02.194.01,MENYIAPKAN DAN MEMBUAT HIDANGAN NASI DAN MIE ,,1
+15542,586,PAR.HT02.195.01,MENYIAPKAN DAN MENYAJIKAN DESSERT ALA VIETNAM,,1
+15543,586,PAR.HT02.196.01,"MERANCANG, MERENCANAKAN, DAN MENULIS MENU MASAKAN VIETNAM",,1
+15544,586,PAR.HT02.197.01,MERANCANG DAN MENGOPERASIKAN DAPUR RESTORAN VIETNAM ,,1
+15545,586,PAR.HT02.96.01,MENGEMBANGKAN MENU UNTUK MEMENUHI KEBUTUHAN BUDAYA DAN DIET KHUSUS,,1
+15546,586,PAR.HT03.001.01,MENGIKUTI PROSEDUR KEBERSIHAN DI TEMPAT KERJA ,,1
+15547,586,PAR.HT03.004.01,BERKOUNIKASI MELALUI TELEPON ,,1
+15548,586,PAR.HT03.005.01,MELAKSANAKAN PROSEDUR ADMINISTRASI ,,1
+15549,586,PAR.HT03.006.01,MENGUMPULKAN DAN MENYAJIKAN INFORMASI ,,1
+15550,586,PAR.HT03.007.01,MENYIAPKAN DOKUMEN BISNIS ,,1
+15551,586,PAR.HT03.008.01,MERENCANAKAN DAN MENGELOLA RAPAT,,1
+15552,586,PAR.HT03.009.01,MENERIMA DAN MENYIMPAN BARANG  ,,1
+15553,586,PAR.HT03.010.01,MENGAWASI DAN MEMESAN BARANG ,,1
+15554,586,PAR.HT03.011.01,MERENCANAKAN DAN MENETAPKAN SISTEM DAN PROSEDUR,,1
+15555,586,PAR.HT03.012.01,MENGELOLA DAN MENGEVALUASI  PROYEK ,,1
+15556,586,PAR.HT03.021.01,MERENCANAKAN PENILAIAN  ,,1
+15557,586,PAR.HT03.022.01,MELAKSANAKAN PENILAIAN ,,1
+15558,586,PAR.HT03.023.01,MEMERIKSA PENILAIAN,,1
+15559,586,PAR.HT03.024.01,MELATIH KELOMPOK KECIL ,,1
+15560,586,PAR.HT03.025.01,MERENCANAKAN DAN MEMPROMOSIKAN PELATIHAN ,,1
+15561,586,PAR.HT03.026.01,MERENCANAKAN SEJUMLAH SESI PELATIHAN ,,1
+15562,586,PAR.HT03.027.01,MELAKSANAKAN SESI PELATIHAN ,,1
+15563,586,PAR.HT03.028.01,MEREVIU PELATIHAN ,,1
+15564,586,PAR.HT03.029.01,MENGANALISA PERSYARATAN KOMPETENSI ,,1
+15565,586,PAR.HT03.030.01,MENDISAIN DAN MENETAPKAN SISTEM PELATIHAN ,,1
+15566,586,PAR.HT03.031.01,MENDISAIN DAN MENETAPKAN SISTIM PENILAIAN  ,,1
+15567,586,PAR.HT03.032.01,MENGELOLA SISTIM PELATIHAN DAN SISTIM PENILAIAN  ,,1
+15568,586,PAR.HT03.033.01,MENGEVALUASI  PELATIHAN DAN SISTIM PENILAIAN ,,1
+15569,586,PAR.HT03.034.01,MENGEMBANGKAN PROSEDUR PENILAIAN ,,1
+15570,586,PAR.HT03.035.01,MENGEMBANGKAN ALAT PENILAIAN ,,1
+15571,586,PAR.HT03.036.01,MERANCANG PROGRAM PELATIHAN,,1
+15572,586,PAR.HT03.037.01,MEMANTAU KEGIATAN KERJA ,,1
+15573,586,PAR.HT03.038.01,"MENERAPKAN PROSES KESEHATAN, KESELAMATAN DAN KEAMANAN  KERJA ",,1
+15574,586,PAR.HT03.039.01,"MENGEMBANGKAN , MELAKSANAKAN DAN MENGEVALUASI RENCANA OPERASIONAL ",,1
+15575,586,PAR.HT03.040.01,MEMBANGUN DAN MEMELIHARA TEMPAT KERJA YANG AMAN,,1
+15576,586,PAR.HT03.041.01,MENGEMBANGKAN  DAN MEMUTAHIRKAN PENGETAHUAN TENTANG HUKUM UNTUK KEPERLUAN  BISNIS,,1
+15577,586,PAR.HT03.042.01,DAFTAR PERSONIL STAF ,,1
+15578,586,PAR.HT03.043.01,MEMANTAU  KINERJA STAF  ,,1
+15579,586,PAR.HT03.044.01,"MEREKRUT , MENYELEKSI DAN MEMBERIKAN PENGENALAN STAF   ",,1
+15580,586,PAR.HT03.045.01,MEMIMPIN DAN MENGELOLA SUMBER DAYA MANUSIA ,,1
+15581,586,PAR.HT03.046.01,MENGELOLA KEANEKARAGAMAN DI TEMPAT KERJA  ,,1
+15582,586,PAR.HT03.047.01,MENGELOLA  HUBUNGAN DI TEMPAT KERJA,,1
+15583,586,PAR.HT03.048.01,MEMBERIKAN BIMBINGAN KEPADA  KOLEGA ,,1
+15584,586,PAR.HT03.049.01,MENANGANI KUALITAS LAYANAN PELANGAN,,1
+15585,586,PAR.HT03.050.01,"MENGEMBANGKAN, MENGELOLA DAN MENGEVALUASI  PEMASARAN ",,1
+15586,586,PAR.HT03.051.01,MENGELOLA KEUANGAN   ,,1
+15587,586,PAR.HT03.052.01,MEMPERSIAPKAN DAN MEMANTAU  ANGGARAN ,,1
+15588,586,PAR.HT03.053.01,MENGATUR OPERASI KEUANGAN  ,,1
+15589,586,PAR.HT03.054.01,MENGELOLA  ASET FISIK ,,1
+15590,586,PAR.HT03.055.01,MENGELOLA DAN MENGADAKAN PERSEDIAAN ,,1
+15591,586,PAR.HT03.056.01,MEMANTAU DAN MEMELIHARA SISTIM KOMPUTERISASI  ,,1
+15592,586,PAR.HT03.057.01,"MENGEMBANGKAN,  MELAKSANAKAN DAN MEMANTAU RENCANA BISNIS",,1
+15593,586,PAR.HT03.058.01,PERTUKARAN INFORMASI DALAM BAHASA PERCAKAPAN ,,1
+15594,586,PAR.HT03.059.01,MENGIKUTI DAN MENJALANKAN INSTRUKSI DAN PENGARAHAN DALAM BEBERAPA SITUASI ,,1
+15595,586,PAR.HT03.060.01,MEMULAI PERCAKAPAN DAN MENGEMBANGKAN HUBUNGAN BAIK DENGAN TAMU  ,,1
+15596,586,PAR.HT03.061.01,MELAKUKAN PERCAKAPAN SINGKAT DI TELEPON ,,1
+15597,586,PAR.HT03.062.01,MENGGUNAKAN BAHASA LISAN UNTUK NEGOSIASI PERTUKARAN INFORMASI YANG KOMPLEKS DALAM JENIS KONTEKS HOTEL & RESTORAN,,1
+15598,586,PAR.HT03.063.01,MENYAMPAIKAN PRESENTASI LISAN SECARA RINGKAS ,,1
+15599,586,PAR.HT03.064.01,MENANGANI KELUHAN  ,,1
+15600,586,PAR.HT03.068.01,MENULIS PESAN SINGKAT,,1
+15601,586,PAR.HT03.069.01,MELENGKAPI TEKS YANG SUDAH DIFORMAT ,,1
+15602,586,PAR.HT03.070.01,MENULIS SURAT BISNIS,,1
+15603,586,PAR.HT03.58.01,PERTUKARAN INFORMASI DALAM BAHASA PERCAKAPAN ,,1
+15604,586,PAR.HT03.59.01,MENGIKUTI DAN MENJALANKAN INSTRUKSI DAN PENGARAHAN DALAM BEBERAPA SITUASI ,,1
+15605,586,PAR.HT03.60.01,MEMULAI PERCAKAPAN DAN MENGEMBANGKAN HUBUNGAN BAIK DENGAN TAMU  ,,1
+15606,586,PAR.HT03.61.01,MELAKUKAN PERCAKAPAN SINGKAT DI TELEPON ,,1
+15607,586,PAR.HT03.62.01,MENGGUNAKAN BAHASA LISAN UNTUK NEGOSIASI PERTUKARAN INFORMASI YANG KOMPLEKS DALAM JENIS KONTEKS HOTEL & RESTORAN,,1
+15608,586,PAR.HT03.63.01,MENYAMPAIKAN PRESENTASI LISAN SECARA RINGKAS ,,1
+15609,586,PAR.HT03.64.01,MENANGANI KELUHAN  ,,1
+15610,586,PAR.UJ03.002.01,MEMBERSIHKAN TEMPAT DAN PERALATAN KERJA,,1
+15611,586,PAR.UJ03.003.01,MENYEDIAKAN PERTOLONGAN PERTAMA ,,1
