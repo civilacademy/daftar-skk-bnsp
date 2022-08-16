@@ -1,6 +1,5 @@
 import requests
 import urllib3
-import time
 import pandas as pd
 from bs4 import BeautifulSoup
 
@@ -13,7 +12,6 @@ csv_file_datastore = f'data/data_{keyword}.csv'
 
 # Metadata settings
 csv_file_metadata = 'data/metadata.csv'
-date_scraping = time.strftime('%F %H:%M %Z', time.localtime())
 
 # General setting for requests
 url = 'https://bnsp.go.id/skk'
@@ -38,20 +36,22 @@ for item in footer.find_all('div'):
     meta = item.text.strip().split('\n')
     if len(meta) == 1 and meta[0] != '':
         metadata.append(meta[0])
+date_scraping = response.headers['Date']
 
 
-id_unit = []
+id_skk = []
 names = []
 description = []
 types = []
 adjudication = []
 date_adjusment = []
 unit_count = []
+referer = []
 
 
 # Full requests
 #for p in range(1, lastpage+1):
-for p in range(1, 1+1): # for development purpose
+for p in range(1, 2+1): # for development purpose
 
     params = {'namaskk': f'{keyword}', 'page': f'{p}'}    
     response = requests.get(url=url, params=params, headers=headers, verify=False)
@@ -65,7 +65,7 @@ for p in range(1, 1+1): # for development purpose
             idu = idu.replace('daftarskk.bukadokumen({"id":', '').replace(',"tipe":"pdf"})', '')
         except:
             idu = None
-        id_unit.append(idu)
+        id_skk.append(idu)
 
         names.append(item.find('div', class_ = 'nama_skk').text.strip())
 
@@ -82,16 +82,20 @@ for p in range(1, 1+1): # for development purpose
 
         uc = item.find('div', class_ = 'jumlahunit_skk')
         unit_count.append(int(uc.find('div', class_ = 'data_jumlah_skk').text.strip()))
+
+        referer.append(response.url)
+
     
-# Store data
+# Data store
 data = {
-    'Id': id_unit,
+    'Id': id_skk,
     'Name': names,
     'Description': description,
     'Type': types,
     'Adjudication': adjudication, # kepmen
     'Adjustment Date': date_adjusment,
-    'Unit Counts': unit_count
+    'Unit Counts': unit_count,
+    'Link Reference': referer
 }
 
 metadata = {
@@ -102,11 +106,12 @@ metadata = {
     'Data Date': date_scraping
 }
 
+# Save data
 df_data = pd.DataFrame(data)
 df_data.to_csv(csv_file_datastore, index = False)
 
 df_metadata = pd.DataFrame(metadata)
 df_metadata.to_csv(csv_file_metadata, index = False)
 
-print(f'Data saved to {csv_file_datastore} with {len(df_data.index)} records')
+print(f'''Data saved to "{csv_file_datastore}" with {len(df_data.index)} records''')
 #print(f'Metadata:\n{metadata}')
